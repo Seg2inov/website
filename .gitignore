@@ -7,3 +7,11 @@ wp-content/uploads/
 # Exclure les fichiers cache ou temporaires
 *.log
 *.tmp
+.htaccess
+.htaccess.bk
+.tmb/
+error_log
+wp-admin/.pid
+wp-content/litespeed/
+wp-content/plugins/backuply/
+wp-content/themes/popularfx/
