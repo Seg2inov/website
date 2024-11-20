@@ -18,9 +18,10 @@
         <img src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant">
         <div class="">
             <!-- Se connecter -->
-             <a href="#"><p>Discutons de votre projet</p> <img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
+             <a href="#" class="blackButton"><p>Discutons de votre projet</p> <img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
         </div>
     </header>
+    <div class="blurDiv"></div>
 
 <!-- ____________________________________________Hero__________________________________________________________________________ -->
 
