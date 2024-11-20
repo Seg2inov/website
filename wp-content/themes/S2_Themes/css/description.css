@@ -1,0 +1,8 @@
+.description{
+    width: 100%;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
