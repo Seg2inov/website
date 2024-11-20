@@ -1,0 +1,30 @@
+header{
+    z-index: 10;
+    position: fixed;
+    top: 0%;
+    width: 100vw;
+    height: 69px;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.blurDiv{
+    z-index: 01;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 69px;
+    -webkit-filter: blur(10px);
+    -moz-filter: blur(10px);
+    -o-filter: blur(10px);
+    -ms-filter: blur(10px);
+    filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: #F5F5F7;
+    opacity: 10px;
+}
+

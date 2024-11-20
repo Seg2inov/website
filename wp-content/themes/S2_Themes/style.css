@@ -12,6 +12,7 @@ Text Domain: s2_theme
 */
 
 @import url('css/reset.css');
+@import url('css/blackButton.css');
 html, body {
     background-color: #F5F5F7;
 }
@@ -60,74 +61,3 @@ p, h4, h5, label, a{
 
 
 
-
-/* _________________________HEADER___________________________ */
-header{
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
-    width: 100vw;
-    align-items: center;
-    height: 69px;
-    margin-left: 10%;
-    margin-right: 10%;
-    position: fixed;
-    top: 0%;
-    z-index: 10;
-}
-
-.blurDiv{
-    width: 100vw;
-    height: 69px;
-    z-index: 9;
-    position: fixed;
-    top: 0%;
-    filter: blur(100px);
-    background-color: #F5F5F7;
-    opacity: 10px;
-
-}
-
-
-
-.blackButton{
-    display: flex;
-    flex-direction: row;
-    align-content: center;
-    justify-content: space-between;
-    align-items: center;
-    color: white;
-    background-color: black;
-    border-radius: 50px;
-    position: relative;
-}
-
-.blackButton:hover img {
-    transform: rotate(90deg);
-}
-
-.blackButton img {
-    transition: all 500ms ease;
-}
-
-.blackButton p {
-    z-index: 2;
-}
-
-.blackButton::before{
-    content: '';
-    height: 0%;
-    width: 0%;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #092D4B;
-    transition: width 0.6s cubic-bezier(0.68, -0.55, 0.27, 1.55);
-}
-
-.blackButton:hover:before{
-    width: 100%;
-    height: 100%;
-    border-radius: 50px;
-}

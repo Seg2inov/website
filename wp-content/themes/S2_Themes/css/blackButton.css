@@ -1,0 +1,43 @@
+.blackButton{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+    position: relative;
+    width: 261px;
+    padding: 10px;
+}
+
+.blackButton:hover img {
+    transform: rotate(90deg);
+}
+
+.blackButton img {
+    transition: all 500ms ease;
+}
+
+.blackButton p {
+    z-index: 2;
+}
+
+.blackButton::before{
+    content: '';
+    height: 0%;
+    width: 0%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #092D4B;
+    transition: all 0.6s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+
+.blackButton:hover:before{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+}
