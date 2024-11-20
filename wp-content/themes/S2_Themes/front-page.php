@@ -26,16 +26,16 @@
 <!-- ____________________________________________Hero__________________________________________________________________________ -->
 
 <section class="hero">
-    <div class="">
+    <div class="titlep">
         <h1>TITRE SEG2INOV DESCRIPTIF </h1>
         <p>Pizza ipsum dolor meat lovers buffalo. Pesto lasagna pan chicken Philly. Bbq marinara broccoli cheese personal olives party.</p>
 
         <div class="button">
-            <a href="#"><p>contactez-nous </p><img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
+            <a class="blackButton" href="#"><p>contactez-nous </p><img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
             <!-- Se connecter -->
         </div>
     </div>
-    <img src="wp-content\themes\S2_Themes\assets\img\hero.png" alt="illustration">
+    <img class="heroIllustration" src="wp-content\themes\S2_Themes\assets\img\hero.png" alt="illustration">
 </section>
 
 <!-- ____________________________________________Description__________________________________________________________________________ -->
