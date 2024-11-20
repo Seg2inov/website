@@ -15,8 +15,7 @@ Text Domain: s2_theme
 html, body {
     background-color: #F5F5F7;
 }
-
-
+ 
 @font-face {
     font-family: 'SofiaSans-Medium';
     src: url('assets/font/SofiaSans-Medium.ttf');
@@ -37,7 +36,6 @@ html, body {
 h1{
     font-family: 'SofiaSans-Regular';
     font-size: 36px;
-    color: red;
 }
 
 h2{
@@ -54,9 +52,36 @@ h3{
 p, h4, h5, label, a{
     font-family: 'SofiaSans-Light';
     font-size: 20px;
-    color: red;
 }
 
 .bold{
     font-family: 'SofiaSans-Medium';
+}
+
+
+
+
+/* _________________________HEADER___________________________ */
+header{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 100vw;
+    align-items: center;
+    height: 69px;
+    margin-left: 10%;
+    margin-right: 10%;
+    position: fixed;
+    top: 0%;
+    z-index: 10;
+}
+
+.blurDiv{
+    width: 100vw;
+    height: 69px;
+    z-index: 9;
+    position: fixed;
+    top: 0%;
+    filter: blur(100px);
+
 }
