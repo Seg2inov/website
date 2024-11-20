@@ -11,3 +11,47 @@ Tags: caisse, balance, retail, seg2inov, startup
 html, body {
     background-color: #F5F5F7;
 }
+
+
+@font-face {
+    font-family: 'SofiaSans-Medium';
+    src: url('wp-content\themes\S2_Themes\assets\font\SofiaSans-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'SofiaSans-Light';
+    src: url('wp-content\themes\S2_Themes\assets\font\SofiaSans-Light.ttf');
+}
+
+@font-face {
+    font-family: 'SofiaSans-Regular';
+    src: url('wp-content\themes\S2_Themes\assets\font\SofiaSans-Regular.ttf');
+}
+
+
+
+
+h1{
+    font-family: 'SofiaSans-Regular';
+    font-size: 36px;
+}
+
+h2{
+    font-family: 'SofiaSans-Regular';
+    font-size: 36px;
+}
+
+h3{
+    font-family: 'SofiaSans-Regular';
+    font-size: 24px;
+}
+
+
+p, h4, h5, label, a{
+    font-family: 'SofiaSans-Light';
+    font-size: 20px;
+}
+
+.bold{
+    font-family: 'SofiaSans-Medium';
+}
