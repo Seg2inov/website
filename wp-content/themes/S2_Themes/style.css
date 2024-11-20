@@ -19,19 +19,18 @@ html, body {
 
 @font-face {
     font-family: 'SofiaSans-Medium';
-    src: url('../../../wp-content/themes/S2_Themes/assets/font/SofiaSans-Regular.ttf');
+    src: url('assets/font/SofiaSans-Medium.ttf');
 }
 
 @font-face {
     font-family: 'SofiaSans-Light';
-    src: url('../../../wp-content/themes/S2_Themes/assets/font/SofiaSans-Light.ttf');
+    src: url('assets/font/SofiaSans-Light.ttf');
 }
 
 @font-face {
     font-family: 'SofiaSans-Regular';
-    src: url('../../../wp-content/themes/S2_Themes/assets/font/SofiaSans-Regular.ttf');
+    src: url('assets/font/SofiaSans-Regular.ttf');
 }
-
 
 
 
