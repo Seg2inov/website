@@ -40,10 +40,10 @@
 
 <!-- ____________________________________________Description__________________________________________________________________________ -->
 
-<section>
+<section class="description">
     <h2>UN LOGICIEL AVEC DE NOMBREUSES  FONCTIONNALITÉS</h2>
 
-    <div class="">
+    <div class="scrollzone">
         <img src="wp-content\themes\S2_Themes\assets\img\description.png" alt="illustration">
         <div class="">
             <div class="">
