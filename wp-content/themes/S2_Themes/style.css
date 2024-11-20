@@ -15,17 +15,17 @@ html, body {
 
 @font-face {
     font-family: 'SofiaSans-Medium';
-    src: url('wp-content\themes\S2_Themes\assets\font\SofiaSans-Medium.ttf');
+    src: url('../../../wp-content/themes/S2_Themes/assets/font/SofiaSans-Regular.ttf');
 }
 
 @font-face {
     font-family: 'SofiaSans-Light';
-    src: url('wp-content\themes\S2_Themes\assets\font\SofiaSans-Light.ttf');
+    src: url('../../../wp-content/themes/S2_Themes/assets/font/SofiaSans-Light.ttf');
 }
 
 @font-face {
     font-family: 'SofiaSans-Regular';
-    src: url('wp-content\themes\S2_Themes\assets\font\SofiaSans-Regular.ttf');
+    src: url('../../../wp-content/themes/S2_Themes/assets/font/SofiaSans-Regular.ttf');
 }
 
 
