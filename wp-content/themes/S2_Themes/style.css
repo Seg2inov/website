@@ -34,6 +34,7 @@ html, body {
 h1{
     font-family: 'SofiaSans-Regular';
     font-size: 36px;
+    color: red;
 }
 
 h2{
@@ -50,6 +51,7 @@ h3{
 p, h4, h5, label, a{
     font-family: 'SofiaSans-Light';
     font-size: 20px;
+    color: red;
 }
 
 .bold{
