@@ -1,7 +1,13 @@
 /*
-Theme Name : S2_Theme
-
-
-
-
+Theme Name: S2_Theme
+Theme URI: https://wordpress.org/themes/S2_Theme/
+Author: Seg2Inov
+Author URI: https://seg2inov.eu
+Description: Our default theme for Seg2inov since 2024
+Tags: caisse, balance, retail, seg2inov, startup
 */
+
+
+html, body {
+    background-color: #F5F5F7;
+}
