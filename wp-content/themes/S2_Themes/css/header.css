@@ -24,7 +24,6 @@ header{
     -ms-filter: blur(10px);
     filter: blur(10px);
     backdrop-filter: blur(10px);
-    background-color: #F5F5F7;
     opacity: 10px;
 }
 

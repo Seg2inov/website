@@ -25,7 +25,7 @@
 
 <!-- ____________________________________________Hero__________________________________________________________________________ -->
 
-<section>
+<section class="hero">
     <div class="">
         <h1>TITRE SEG2INOV DESCRIPTIF </h1>
         <p>Pizza ipsum dolor meat lovers buffalo. Pesto lasagna pan chicken Philly. Bbq marinara broccoli cheese personal olives party.</p>

@@ -10,10 +10,12 @@
     position: relative;
     width: 261px;
     padding: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
 }
 
 .blackButton:hover img {
-    transform: rotate(90deg);
+    transform: rotate(45deg);
 }
 
 .blackButton img {
