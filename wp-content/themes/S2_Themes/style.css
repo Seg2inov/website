@@ -11,8 +11,9 @@ Tags: caisse, balance, retail, seg2inov, startup
 Text Domain: s2_theme
 */
 
-@import url('css/reset.css');
 @import url('css/blackButton.css');
+@import url('css/reset.css');
+@import url('css/header.css');
 html, body {
     background-color: #F5F5F7;
 }
