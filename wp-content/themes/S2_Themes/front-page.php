@@ -217,11 +217,10 @@
  <!-- ____________________________________________FOOTER_________________________________________________________________________ -->
 
  <footer>
-    <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
-    <div class="contenaireFooter">
-        <h2>Collaborons ensemble pour une meilleure Optimisation</h2>
-        <div class="">
-            <div class="">
+     <div class="contenaireFooter">
+         <h2>Collaborons ensemble pour une meilleure Optimisation</h2>
+         
+         <div class="">
                 <h3>Contact</h3>
                 <a href="mailto:contact@seg2inov.fr"><p>contact@seg2inov.fr</p></a>
                 <a href="mailto:support@seg2inov.fr"><p>support@seg2inov.fr</p></a>
@@ -231,11 +230,10 @@
                 <h3>Où nous trouver ?</h3>
                 <a  class="voirPlusDetailButton" href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
                 <a  class="voirPlusDetailButton" href="https://www.instagram.com/seg2inov/"><p>Instagram</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-                <a  class="voirPlusDetailButton" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-                
+                <a  class="voirPlusDetailButton" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a> 
             </div>
         </div>
-    </div>
-    
- </footer>
+        
+    </footer>
+    <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
 </html>
