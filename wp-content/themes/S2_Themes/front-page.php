@@ -225,13 +225,16 @@
  </section>
 
  <!-- ____________________________________________ilsnousfontConfiance__________________________________________________________________________ -->
- <section>
-    <h2>
-        ils nous font 
-        <span>- confiance </span>
-    </h2>
+ <section class="confiance">
 
-    <div class="">
+    <div class="title">
+        <h2>
+            ils nous font
+        </h2>
+        <h2 class="part2Title">- - confiance  </h2>
+    </div>
+
+    <div class="ImageContenaire">
         <img src="wp-content\themes\S2_Themes\assets\logo\frenchteck.png" alt="logo de la frenchteck">
         <img src="wp-content\themes\S2_Themes\assets\logo\pep.png" alt="logo de la pepiniére bordeaux chartron">
     </div>

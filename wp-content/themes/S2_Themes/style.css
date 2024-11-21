@@ -20,6 +20,7 @@ Text Domain: s2_theme
 @import url('css/descriptionCommerceDetails.css');
 @import url('css/evenement.css');
 @import url('css/voirPlusDetails.css');
+@import url('css/confiance.css');
 
 html, body {
     background-color: #F5F5F7;
@@ -57,8 +58,13 @@ h3{
     font-size: 24px;
 }
 
+h4{
+    font-family: 'SofiaSans-Medium';
+    font-size: 24px;
+}
 
-p, h4, h5, label, a, details, summary{
+
+p, h5, label, a, details, summary{
     font-family: 'SofiaSans-Light';
     font-size: 20px;
 }
