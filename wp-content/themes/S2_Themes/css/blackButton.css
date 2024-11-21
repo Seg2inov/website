@@ -44,3 +44,9 @@
     height: 100%;
     border-radius: 50px;
 }
+
+@media screen and (max-width: 480px) {
+    .blackButton p {
+        font-size: 14px;
+    }
+}
