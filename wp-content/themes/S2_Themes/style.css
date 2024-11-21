@@ -100,3 +100,6 @@ p, h5, label, a, details, summary{
     }
 }
 
+a{
+    color: black;
+}

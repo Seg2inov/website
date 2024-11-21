@@ -78,5 +78,12 @@
     .stickyElement{
         display: none;
     }
+    .contentElement{
+        justify-content: start;
+        gap: 12px;
+    }
+    .scrollzone{
+        height: fit-content;
+    }
 
 }
