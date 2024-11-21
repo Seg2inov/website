@@ -95,18 +95,20 @@
         </div>
         <div class="alltime">
         <h3>À toute heure</h3>
-            <div class="">
-                <p>00H00</p>
-                <p>05H12</p>
-                <p>16H27</p>
-                <p>20H59</p>
+            <div class="horaire">
+                <div class="">
+                    <p>00H00</p>
+                    <p>05H12</p>
+                    <p>16H27</p>
+                    <p>20H59</p>
+                </div>
+                <div class="">
+                    <p>03H43</p>
+                    <p>10H06</p>
+                    <p>18H11</p>
+                    <p>23H01</p>
+                </div>
             </div>
-            <div class="">
-                <p>03H43</p>
-                <p>10H06</p>
-                <p>18H11</p>
-                <p>23H01</p>
-        </div>
         <img src="wp-content\themes\S2_Themes\assets\img\atouteheure.png" alt="illustration">
     </div>
     </div>
