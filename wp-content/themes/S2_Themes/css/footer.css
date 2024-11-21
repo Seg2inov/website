@@ -1,8 +1,8 @@
 footer{
     overflow: hidden;
     width: 100%;
-    padding-left: 8vw;
-    padding-right: 8vw;
+    /* padding-left: 8vw;
+    padding-right: 8vw; */
     position: relative;
     display: flex;
     justify-content: center;
@@ -46,4 +46,9 @@ footer    h2{
 
 .mention{
     margin: auto;
+}
+
+
+.linkunderfooter{
+    width: 100%;
 }
