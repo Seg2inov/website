@@ -61,13 +61,13 @@
     
 }
 
-@media screen and (min-width: 1150px) {
-     img{
+@media screen and (max-width: 1150px) {
+    .descriptionCommerce img{
         width: 60%;
     }
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (max-width: 800px) {
     .descriptionCommerce{
         flex-direction: column;
    }
