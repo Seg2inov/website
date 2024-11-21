@@ -44,7 +44,7 @@
     <h2>UN LOGICIEL AVEC DE NOMBREUSES  FONCTIONNALITÉS</h2>
 
     <div class="scrollzone">
-        <img src="wp-content\themes\S2_Themes\assets\img\description.png" alt="illustration">
+        <img class="stickyElement" src="wp-content\themes\S2_Themes\assets\img\description.png" alt="illustration">
         <div class="">
             <div class="">
                 <h3>Une main sur toutes les données </h3>
@@ -208,7 +208,7 @@
  <!-- ____________________________________________FOOTER_________________________________________________________________________ -->
 
  <footer>
-    <img src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
+    <!-- <img src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond"> -->
     <div class="">
         <h2>Collaborons ensemble pour une meilleure Optimisation</h2>
         <div class="">
