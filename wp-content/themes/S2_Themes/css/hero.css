@@ -43,3 +43,10 @@
     }
 
 }
+
+@media screen and (max-height: 800px) {
+    .titlep{
+        gap: 8px;
+    }
+
+}
