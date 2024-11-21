@@ -19,9 +19,14 @@
 
 .contenaireFicheEvenement h4{
     position: absolute;
-    bottom: 44px;
+    bottom: 14px;
     color: #FFFFFF;
     margin-left: 14px;
+}
+
+.illustrationevent{
+    width: 100%;
+    height: 100%;
 }
 
 .gradiantEvent{
@@ -53,4 +58,8 @@
 
 .evenement a {
     margin: 0 auto;
+}
+
+.evenement p {
+    margin-left: 14px;
 }
