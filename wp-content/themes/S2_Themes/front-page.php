@@ -215,7 +215,7 @@
  </section>
 
  <!-- ____________________________________________FOOTER_________________________________________________________________________ -->
-
+<div class="contenaireBackgroundFooter">
  <footer>
      <div class="contenaireFooter">
          <h2>Collaborons ensemble pour une meilleure Optimisation</h2>
@@ -236,4 +236,5 @@
         
     </footer>
     <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
+</div>
 </html>
