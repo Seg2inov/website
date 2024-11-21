@@ -12,4 +12,14 @@
     border-radius: 10px;
     background-color: #FFFFFF;
     overflow: hidden;
+    max-width: 330px;
+}
+
+
+.contenaireContenaireEvenement{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
 }
