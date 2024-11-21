@@ -134,38 +134,38 @@
             Une prise en main
             
         </h2>
-        <h2>- De <span class="bold">A</span> à <span class="bold">Z</span> </h2>
+        <h2 class="part2Title">- De <span class="bold">A</span> à <span class="bold">Z</span> </h2>
     </div>
     
     <div class="contenantDetails">
         <details>
-            <summary>Client</summary>
+            <summary><p>Client</p><img src="wp-content\themes\S2_Themes\assets\arrow\right.svg" alt="clique"></summary>
            <p>Création et gestion des fiches clients</p>
            <p>Système de fidélité</p>
         </details>
         <details>
-            <summary>Fournisseur</summary>
+            <summary><p>Fournisseur </p><img src="wp-content\themes\S2_Themes\assets\arrow\right.svg" alt="clique"></summary>
            <p>Gestion des commandes et des achats</p>
         </details>
         <details>
-            <summary>Produit</summary>
+            <summary> <p>Produit </p><img src="wp-content\themes\S2_Themes\assets\arrow\right.svg" alt="clique"></summary>
            <p>Gestion et  classification des produits par rayon, par famille </p>
            <p>Création d’étiquettes</p>
         </details>
         <details>
-            <summary>Stocks</summary>
+            <summary> <p>Stocks </p><img src="wp-content\themes\S2_Themes\assets\arrow\right.svg" alt="clique"></summary>
            <p>Réalisation d’inventaire</p>
            <p>Gestion des mouvements</p>
         </details>
         <details>
-            <summary>Analyse</summary>
+            <summary> <p> Analyse </p><img src="wp-content\themes\S2_Themes\assets\arrow\right.svg" alt="clique"></summary>
            <p>Produit et groupes de produits</p>
            <p>Chiffre D’affaire (CA) </p>
            <p>Ventes et marges</p>
            <p>Taxe sur la valeur ajoutée (tva)</p>
         </details>
         <details>
-            <summary>Commercial</summary>
+            <summary><p> Commercial </p><img src="wp-content\themes\S2_Themes\assets\arrow\right.svg" alt="clique"></summary>
            <p>Création des devis</p>
            <p>Création  et suivi des commandes client</p>
            <p>Gestion des factures </p>

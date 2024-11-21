@@ -7,13 +7,26 @@
 
 .title{
     display: flex;
+    flex-direction: column;
+    align-items: flex-start;
 }
 
 details{
     width: 100%;
     border-top: 1px solid black;
+    padding: 22px;
+}
+summary{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .contenantDetails{
     border-bottom: 1px solid black;
+}
+
+
+.part2Title{
+    transform: translateX(106%);
 }

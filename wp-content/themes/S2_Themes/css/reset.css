@@ -107,7 +107,8 @@ section {
 
 
 ol,
-ul {
+ul,
+::marker  {
     list-style: none;
 }
 
