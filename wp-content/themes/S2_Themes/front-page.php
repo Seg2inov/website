@@ -45,7 +45,7 @@
 
     <div class="scrollzone">
         <img class="stickyElement" src="wp-content\themes\S2_Themes\assets\img\description.png" alt="illustration">
-        <div class="">
+        <div class="contentElement">
             <div class="">
                 <h3>Une main sur toutes les données </h3>
                 <p>Récupération de toutes les données de vente</p>
