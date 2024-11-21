@@ -140,33 +140,33 @@
     <div class="contenantDetails">
         <details>
             <summary><p>Client</p><img src="wp-content\themes\S2_Themes\assets\arrow\right.svg" alt="clique"></summary>
-           <p>Création et gestion des fiches clients</p>
+           <p class="margintop">Création et gestion des fiches clients</p>
            <p>Système de fidélité</p>
         </details>
         <details>
             <summary><p>Fournisseur </p><img src="wp-content\themes\S2_Themes\assets\arrow\right.svg" alt="clique"></summary>
-           <p>Gestion des commandes et des achats</p>
+           <p class="margintop">Gestion des commandes et des achats</p>
         </details>
         <details>
             <summary> <p>Produit </p><img src="wp-content\themes\S2_Themes\assets\arrow\right.svg" alt="clique"></summary>
-           <p>Gestion et  classification des produits par rayon, par famille </p>
+           <p class="margintop">Gestion et  classification des produits par rayon, par famille </p>
            <p>Création d’étiquettes</p>
         </details>
         <details>
             <summary> <p>Stocks </p><img src="wp-content\themes\S2_Themes\assets\arrow\right.svg" alt="clique"></summary>
-           <p>Réalisation d’inventaire</p>
+           <p class="margintop">Réalisation d’inventaire</p>
            <p>Gestion des mouvements</p>
         </details>
         <details>
             <summary> <p> Analyse </p><img src="wp-content\themes\S2_Themes\assets\arrow\right.svg" alt="clique"></summary>
-           <p>Produit et groupes de produits</p>
+           <p class="margintop">Produit et groupes de produits</p>
            <p>Chiffre D’affaire (CA) </p>
            <p>Ventes et marges</p>
            <p>Taxe sur la valeur ajoutée (tva)</p>
         </details>
         <details>
             <summary><p> Commercial </p><img src="wp-content\themes\S2_Themes\assets\arrow\right.svg" alt="clique"></summary>
-           <p>Création des devis</p>
+           <p class="margintop">Création des devis</p>
            <p>Création  et suivi des commandes client</p>
            <p>Gestion des factures </p>
         </details>

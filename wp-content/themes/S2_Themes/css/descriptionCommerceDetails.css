@@ -15,6 +15,7 @@ details{
     width: 100%;
     border-top: 1px solid black;
     padding: 22px;
+    transition: all 500ms ease;
 }
 summary{
     display: flex;
@@ -29,4 +30,9 @@ summary{
 
 .part2Title{
     transform: translateX(106%);
+}
+
+
+.margintop{
+    margin-top: 12px;
 }
