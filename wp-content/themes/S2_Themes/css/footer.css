@@ -76,6 +76,9 @@ footer    h2{
 @media screen and (max-width: 740px) {
     .linkunderfooter{
         flex-direction: column;
+        max-width: 150px;
+        align-items: center;
+        justify-content: center;
 
     }
 }
