@@ -1016,8 +1016,8 @@ final class WP_Interactivity_API {
 				left: 0;
 				margin: 0;
 				padding: 0;
-				width: 100vw;
-				max-width: 100vw !important;
+				width: 100%;
+				max-width: 100% !important;
 				height: 4px;
 				background-color: #000;
 				opacity: 0

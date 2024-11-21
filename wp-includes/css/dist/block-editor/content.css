@@ -659,7 +659,7 @@
   padding-bottom:calc(var(--wp-block-editor-iframe-zoom-out-frame-size)/var(--wp-block-editor-iframe-zoom-out-scale));
   padding-top:calc(var(--wp-block-editor-iframe-zoom-out-frame-size)/var(--wp-block-editor-iframe-zoom-out-scale));
   scale:var(--wp-block-editor-iframe-zoom-out-scale);
-  transform:translateX(calc((var(--wp-block-editor-iframe-zoom-out-scale-container-width) - var(--wp-block-editor-iframe-zoom-out-container-width, 100vw))/2/var(--wp-block-editor-iframe-zoom-out-scale)));
+  transform:translateX(calc((var(--wp-block-editor-iframe-zoom-out-scale-container-width) - var(--wp-block-editor-iframe-zoom-out-container-width, 100%))/2/var(--wp-block-editor-iframe-zoom-out-scale)));
 }
 .block-editor-iframe__html.is-zoomed-out body{
   min-height:calc((var(--wp-block-editor-iframe-zoom-out-inner-height) - 2*var(--wp-block-editor-iframe-zoom-out-frame-size)/var(--wp-block-editor-iframe-zoom-out-scale))/var(--wp-block-editor-iframe-zoom-out-scale));

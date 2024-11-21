@@ -2070,7 +2070,7 @@ ul.dataviews-view-list{
 
 .edit-site-layout__sidebar-region{
   flex-shrink:0;
-  width:100vw;
+  width:100%;
   z-index:1;
 }
 @media (min-width:782px){

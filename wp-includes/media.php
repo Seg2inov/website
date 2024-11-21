@@ -1586,7 +1586,7 @@ function wp_calculate_image_sizes( $size, $image_src = null, $image_meta = null,
 	}
 
 	// Setup the default 'sizes' attribute.
-	$sizes = sprintf( '(max-width: %1$dpx) 100vw, %1$dpx', $width );
+	$sizes = sprintf( '(max-width: %1$dpx) 100%, %1$dpx', $width );
 
 	/**
 	 * Filters the output of 'wp_calculate_image_sizes()'.

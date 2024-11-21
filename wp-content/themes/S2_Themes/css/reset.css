@@ -145,7 +145,7 @@ a{
 }
 
 html, body{
-    width: 100vw;
+    width: 100%;
     
     scroll-behavior: smooth;
     

@@ -1520,7 +1520,7 @@ body.is-dragging-components-draggable{
 @media (max-width:600px){
   .components-modal__frame.components-guide{
     margin:auto;
-    max-width:calc(100vw - 32px);
+    max-width:calc(100% - 32px);
   }
 }
 
@@ -1926,7 +1926,7 @@ body.is-dragging-components-draggable{
 
 .components-notice-list{
   box-sizing:border-box;
-  max-width:100vw;
+  max-width:100%;
 }
 .components-notice-list .components-notice__content{
   line-height:2;

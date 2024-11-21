@@ -1115,7 +1115,7 @@ const variants = {
     width: 0
   },
   mobileOpen: {
-    width: '100vw'
+    width: '100%'
   }
 };
 function ComplementaryAreaFill({
@@ -1158,7 +1158,7 @@ function ComplementaryAreaFill({
           id: id,
           className: className,
           style: {
-            width: isMobileViewport ? '100vw' : SIDEBAR_WIDTH
+            width: isMobileViewport ? '100%' : SIDEBAR_WIDTH
           },
           children: children
         })
@@ -1521,7 +1521,7 @@ function InterfaceSkeleton({
             children: /*#__PURE__*/(0,external_ReactJSXRuntime_namespaceObject.jsxs)(external_wp_components_namespaceObject.__unstableMotion.div, {
               style: {
                 position: 'absolute',
-                width: isMobileViewport ? '100vw' : 'fit-content',
+                width: isMobileViewport ? '100%' : 'fit-content',
                 height: '100%',
                 left: 0
               },

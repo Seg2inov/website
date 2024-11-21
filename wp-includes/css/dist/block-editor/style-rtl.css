@@ -1752,7 +1752,7 @@ iframe[name=editor-canvas]{
 .block-editor-iframe__scale-container.is-zoomed-out{
   left:0;
   position:absolute;
-  width:var(--wp-block-editor-iframe-zoom-out-scale-container-width, 100vw);
+  width:var(--wp-block-editor-iframe-zoom-out-scale-container-width, 100%);
 }
 
 .block-editor-image-size-control{

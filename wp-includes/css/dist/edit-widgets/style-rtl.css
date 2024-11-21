@@ -318,7 +318,7 @@ body.is-fullscreen-mode .interface-interface-skeleton{
   position:fixed !important;
   right:auto;
   top:-9999em;
-  width:100vw;
+  width:100%;
   z-index:100000;
 }
 @media (min-width:782px){
