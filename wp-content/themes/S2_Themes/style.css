@@ -89,3 +89,8 @@ p, h5, label, a, details, summary{
 .part2Title{
     transform: translateX(106%);
 }
+
+
+img{
+    object-fit: cover;
+}
