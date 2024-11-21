@@ -73,11 +73,13 @@
         </div>
     </div>
 </section>
-<!-- ____________________________________________DescriptionCommerce__________________________________________________________________________ -->
+
+
+<!--______DescriptionCommerce________ -->
 
 
 <section class="descriptionCommerce">
-<div class="columnInformation">
+    <div class="columnInformation">
         <h3>Complète</h3>
         <p>CLIENT</p>
         <p>FOURNISSEUR</p>

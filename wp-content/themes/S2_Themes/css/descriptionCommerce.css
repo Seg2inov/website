@@ -80,11 +80,18 @@
 
    .commerceillustration{
     display: none;
+
    }
 
    .centerColumn{
+        align-items: center;
+   }
+
+   .stickyElementcenterColumn{
     align-items: center;
    }
+
+   
 }
 
 @media screen and (max-width: 690px) {
@@ -94,13 +101,22 @@
 
     .columnInformation{
         margin-bottom: 100px;
+        align-items: center;
     }
 
     .stickyElementcenterColumn{
         position: relative;
-        transform: translateY(70px);
+        transform: translateY(-282px);
     }
     .alltime{
         transform: translateY(10px);
     }
+}
+
+
+@media screen and (max-width: 550px) {
+    .descriptionCommerce{
+        margin-bottom: 100%;
+    }
+
 }

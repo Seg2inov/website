@@ -8,6 +8,11 @@
 
 }
 
+.description h2{
+    text-align: center;
+}
+
+
 .scrollzone{
     width: 100%;
     display: flex;
@@ -39,6 +44,8 @@
 
 
 
+
+
 @media screen and (max-width: 960px) {
     .stickyElement{
         width: 38%;
@@ -46,3 +53,24 @@
     }
 
 }
+
+
+@media screen and (max-height: 650px) {
+    .stickyElement{
+        width: 38%;
+        height: 20%;
+    }
+
+}
+@media screen and (max-width: 590px) {
+    .contentElement{
+        padding-left: 12px;
+    }
+
+    .scrollzone{
+        padding-top: 57%;
+    }
+    
+}
+
+
