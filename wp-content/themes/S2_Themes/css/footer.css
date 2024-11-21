@@ -1,8 +1,8 @@
 footer{
     overflow: hidden;
     width: 100%;
-    /* padding-left: 8vw;
-    padding-right: 8vw; */
+    padding-left: 8vw;
+    padding-right: 8vw;
     position: relative;
     display: flex;
     justify-content: center;
@@ -10,6 +10,7 @@ footer{
     flex-direction: column;
     z-index: 3;
     overflow: hidden;
+    padding-top: 24px;
 }
 
 .backgroundImg{
@@ -53,4 +54,5 @@ footer    h2{
 
 .linkunderfooter{
     width: 100%;
+    display: flex;
 }

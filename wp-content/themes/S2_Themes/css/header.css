@@ -4,8 +4,8 @@ header{
     top: 0%;
     width: 100vw;
     height: 69px;
-    /* padding-left: 8vw;
-    padding-right: 8vw; */
+    padding-left: 8vw;
+    padding-right: 8vw;
     display: flex;
     align-items: center;
     justify-content: space-between;
