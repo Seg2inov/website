@@ -14,7 +14,7 @@ header{
 
 
 .blurDiv{
-    z-index: 01;
+    z-index: 9;
     position: fixed;
     top: 0;
     width: 100%;

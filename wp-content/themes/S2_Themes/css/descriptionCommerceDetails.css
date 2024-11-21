@@ -31,3 +31,11 @@ summary{
 .margintop{
     margin-top: 12px;
 }
+
+
+
+@media screen and (max-width: 600px) {
+    .descriptionCommerceDetails{
+        margin-bottom: 78px;
+    }
+}
