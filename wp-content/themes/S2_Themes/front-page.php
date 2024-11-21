@@ -76,12 +76,8 @@
 <!-- ____________________________________________DescriptionCommerce__________________________________________________________________________ -->
 
 
-<section>
-    <div class="">
-        <h3>Une gestion de votre commerce</h3>
-        <img src="wp-content\themes\S2_Themes\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre ligiciel dessus">
-    </div>
-    <div class="">
+<section class="descriptionCommerce">
+<div class="">
         <h3>Complète</h3>
         <p>CLIENT</p>
         <p>FOURNISSEUR</p>
@@ -91,6 +87,30 @@
         <p>COMMERCIAL</p>
         <img src="wp-content\themes\S2_Themes\assets\img\complete.png" alt="illustration">
     </div>
+
+    <div class="centerColumn">
+        <div class="stickyElement">
+            <h3>Une gestion de votre commerce</h3>
+            <img src="wp-content\themes\S2_Themes\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre logiciel dessus">
+        </div>
+        <div class="alltime">
+        <h3>À toute heure</h3>
+            <div class="">
+                <p>00H00</p>
+                <p>05H12</p>
+                <p>16H27</p>
+                <p>20H59</p>
+            </div>
+            <div class="">
+                <p>03H43</p>
+                <p>10H06</p>
+                <p>18H11</p>
+                <p>23H01</p>
+        </div>
+        <img src="wp-content\themes\S2_Themes\assets\img\atouteheure.png" alt="illustration">
+    </div>
+    </div>
+    
     <div class="">
         <img src="wp-content\themes\S2_Themes\assets\img\partout.png" alt="illustration">
         <h3>Partout</h3>
@@ -100,22 +120,7 @@
         <p>EN SALLE D’ATTENTE</p>
         <p>DANS LES TRANSPORTS </p>
     </div>
-    <div class="">
-        <h3>À toute heure</h3>
-        <div class="">
-            <p>00H00</p>
-            <p>05H12</p>
-            <p>16H27</p>
-            <p>20H59</p>
-        </div>
-        <div class="">
-            <p>03H43</p>
-            <p>10H06</p>
-            <p>18H11</p>
-            <p>23H01</p>
-        </div>
-        <img src="wp-content\themes\S2_Themes\assets\img\atouteheure.png" alt="illustration">
-    </div>
+
 </section>
 
 
