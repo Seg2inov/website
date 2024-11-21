@@ -77,7 +77,7 @@
 
 
 <section class="descriptionCommerce">
-<div class="">
+<div class="columnInformation">
         <h3>Complète</h3>
         <p>CLIENT</p>
         <p>FOURNISSEUR</p>
@@ -89,7 +89,7 @@
     </div>
 
     <div class="centerColumn">
-        <div class="stickyElement">
+        <div class="stickyElementcenterColumn">
             <h3>Une gestion de votre commerce</h3>
             <img src="wp-content\themes\S2_Themes\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre logiciel dessus">
         </div>
@@ -111,7 +111,7 @@
     </div>
     </div>
     
-    <div class="">
+    <div class="columnInformation">
         <img src="wp-content\themes\S2_Themes\assets\img\partout.png" alt="illustration">
         <h3>Partout</h3>
         <p>À VOTRE COMMERCE</p>
