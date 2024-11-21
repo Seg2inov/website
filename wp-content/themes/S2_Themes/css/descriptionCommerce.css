@@ -61,6 +61,10 @@
     
 }
 
+.commerceillustration{
+    display: block;
+}
+
 @media screen and (max-width: 1150px) {
     .descriptionCommerce img{
         width: 60%;
@@ -69,6 +73,16 @@
 
 @media screen and (max-width: 800px) {
     .descriptionCommerce{
-        flex-direction: column;
+        width: 90%;
+        align-items: center;
+        gap: 24px;
+   }
+
+   .commerceillustration{
+    display: none;
+   }
+
+   .columnInformation{
+    align-items: center;
    }
 }

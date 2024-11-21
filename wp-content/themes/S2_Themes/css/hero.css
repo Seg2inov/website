@@ -22,3 +22,15 @@
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
+
+@media screen and (max-width: 800px) {
+    .hero{
+        flex-direction: column;
+        gap: 24px;
+    }
+
+    .heroIllustration{
+        border-radius: 10px;
+    }
+
+}
