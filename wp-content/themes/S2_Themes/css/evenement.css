@@ -14,11 +14,14 @@
     overflow: hidden;
     max-width: 330px;
     gap: 12px;
+    padding-bottom: 14px;
 }
 
 .contenaireFicheEvenement h4{
     position: absolute;
-    bottom: 0;
+    bottom: 44px;
+    color: #FFFFFF;
+    margin-left: 14px;
 }
 
 .gradiantEvent{
@@ -26,6 +29,7 @@
     background: linear-gradient(0deg, rgba(9,45,75,0.8184523809523809) 0%, rgba(78,78,210,0) 100%);
     width: 100%;
     height: 100%;
+    top: 0;
 }
 
 
@@ -45,4 +49,8 @@
     position: relative;
     width: 100%;
     height: 30%;
+}
+
+.evenement a {
+    margin: 0 auto;
 }
