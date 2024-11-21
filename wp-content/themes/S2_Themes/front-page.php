@@ -233,6 +233,8 @@
                 <a  class="voirPlusDetailButton" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a> 
             </div>
         </div>
+    <img src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov">
+    <p>Tous droits réservés à SEG2INOV - Mentions légales</p>
         
     </footer>
     <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
