@@ -185,9 +185,11 @@
     <div class="contenaireContenaireEvenement">
 
         <div class="contenaireFicheEvenement">
-            <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\frenchteck.png" alt="frenchteck">
-            <div class="gradiantEvent"></div>
-            <h4>French teck Night 2024 </h4>
+            <div class="partIllustration">
+                <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\frenchteck.png" alt="frenchteck">
+                <div class="gradiantEvent"></div>
+                <h4>French teck Night 2024 </h4>
+            </div>
             <p>Lorem ipsum dolor sit amet consectetur. Imperdiet egestLorem ipsum dolor sit amet consectetur. Imperdiet egestLore</p>
             <a  class="voirPlusDetailButton" href="#"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
         </div>
