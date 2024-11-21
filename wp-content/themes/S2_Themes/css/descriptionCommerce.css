@@ -28,6 +28,8 @@
 }
 .horaire{
     display: flex;
+
+    gap: 8px;
 }
 
 .alltime{

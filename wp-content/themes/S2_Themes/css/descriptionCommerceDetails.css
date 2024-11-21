@@ -1,0 +1,19 @@
+.descriptionCommerceDetails{
+    width: 100%;
+    padding-left: 8vw;
+    padding-right: 8vw;
+
+}
+
+.title{
+    display: flex;
+}
+
+details{
+    width: 100%;
+    border-top: 1px solid black;
+}
+
+.contenantDetails{
+    border-bottom: 1px solid black;
+}

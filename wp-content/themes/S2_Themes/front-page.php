@@ -93,7 +93,7 @@
             <h3>Une gestion de votre commerce</h3>
             <img src="wp-content\themes\S2_Themes\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre logiciel dessus">
         </div>
-        <div class="alltime">
+        <div class="alltime columnInformation">
         <h3>À toute heure</h3>
             <div class="horaire">
                 <div class="">
@@ -128,12 +128,16 @@
 
 <!-- ____________________________________________DescriptionCommerce__________________________________________________________________________ -->
 
-<section>
-    <h2>
-        Une prise en main
-        <span>- De A à Z</span>
-    </h2>
-    <div class="">
+<section class="descriptionCommerceDetails">
+    <div class="title">
+        <h2>
+            Une prise en main
+            
+        </h2>
+        <h2>- De <span class="bold">A</span> à <span class="bold">Z</span> </h2>
+    </div>
+    
+    <div class="contenantDetails">
         <details>
             <summary>Client</summary>
            <p>Création et gestion des fiches clients</p>
