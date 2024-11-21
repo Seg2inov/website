@@ -26,11 +26,20 @@
 @media screen and (max-width: 800px) {
     .hero{
         flex-direction: column;
-        gap: 24px;
+        margin-bottom: 150px;
     }
 
     .heroIllustration{
         border-radius: 10px;
+        width: 60%;
+        height: 38%;
+    }
+
+    .titlep{
+        gap: 12px;
+        margin-top: 84px;
+        width: 100%;
+        height: fit-content;
     }
 
 }
