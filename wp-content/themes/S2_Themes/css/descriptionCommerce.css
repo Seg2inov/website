@@ -82,7 +82,25 @@
     display: none;
    }
 
-   .columnInformation{
+   .centerColumn{
     align-items: center;
    }
+}
+
+@media screen and (max-width: 690px) {
+    .descriptionCommerce{
+        flex-direction: column;
+    }
+
+    .columnInformation{
+        margin-bottom: 100px;
+    }
+
+    .stickyElementcenterColumn{
+        position: relative;
+        transform: translateY(70px);
+    }
+    .alltime{
+        transform: translateY(10px);
+    }
 }
