@@ -35,3 +35,14 @@
     padding-left: 58px;
     width: 100%;
 }
+
+
+
+
+@media screen and (max-width: 960px) {
+    .stickyElement{
+        width: 38%;
+        height: 20%;
+    }
+
+}

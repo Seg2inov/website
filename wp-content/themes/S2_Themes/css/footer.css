@@ -56,3 +56,10 @@ footer    h2{
     width: 100%;
     display: flex;
 }
+
+@media screen and (max-height: 1000px) {
+    .contenaireFooter{
+        flex-direction: column;
+        gap: 24px;
+    }
+}
