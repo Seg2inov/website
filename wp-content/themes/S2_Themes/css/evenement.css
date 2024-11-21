@@ -1,0 +1,15 @@
+.evenement{
+    width: 100%;
+    padding-left: 8vw;
+    padding-right: 8vw;
+}
+
+
+.contenaireFicheEvenement{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    overflow: hidden;
+}

@@ -18,6 +18,9 @@ Text Domain: s2_theme
 @import url('css/description.css');
 @import url('css/descriptionCommerce.css');
 @import url('css/descriptionCommerceDetails.css');
+@import url('css/evenement.css');
+@import url('css/voirPlusDetails.css');
+
 html, body {
     background-color: #F5F5F7;
 }
@@ -65,4 +68,17 @@ p, h4, h5, label, a, details, summary{
 }
 
 
+.title{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 101px;
+}
 
+
+
+
+
+.part2Title{
+    transform: translateX(106%);
+}
