@@ -193,34 +193,7 @@
             <p>Lorem ipsum dolor sit amet consectetur. Imperdiet egestLorem ipsum dolor sit amet consectetur. Imperdiet egestLore</p>
             <a  class="voirPlusDetailButton" href="#"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
         </div>
-        <div class="contenaireFicheEvenement">
-            <img src="wp-content\themes\S2_Themes\assets\event\frenchteck.png" alt="frenchteck">
-            <div class=""></div>
-            <h4>French teck Night 2024 </h4>
-            <p>Lorem ipsum dolor sit amet consectetur. Imperdiet egestLorem ipsum dolor sit amet consectetur. Imperdiet egestLore</p>
-            <a class="voirPlusDetailButton" href="#"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-        </div>
-        <div class="contenaireFicheEvenement">
-            <img src="wp-content\themes\S2_Themes\assets\event\frenchteck.png" alt="frenchteck">
-            <div class=""></div>
-            <h4>French teck Night 2024 </h4>
-            <p>Lorem ipsum dolor sit amet consectetur. Imperdiet egestLorem ipsum dolor sit amet consectetur. Imperdiet egestLore</p>
-            <a class="voirPlusDetailButton" href="#"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-        </div>
-        <div class="contenaireFicheEvenement">
-            <img src="wp-content\themes\S2_Themes\assets\event\frenchteck.png" alt="frenchteck">
-            <div class=""></div>
-            <h4>French teck Night 2024 </h4>
-            <p>Lorem ipsum dolor sit amet consectetur. Imperdiet egestLorem ipsum dolor sit amet consectetur. Imperdiet egestLore</p>
-            <a class="voirPlusDetailButton" href="#"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-        </div>
-        <div class="contenaireFicheEvenement">
-            <img src="wp-content\themes\S2_Themes\assets\event\frenchteck.png" alt="frenchteck">
-            <div class=""></div>
-            <h4>French teck Night 2024 </h4>
-            <p>Lorem ipsum dolor sit amet consectetur. Imperdiet egestLorem ipsum dolor sit amet consectetur. Imperdiet egestLore</p>
-            <a class="voirPlusDetailButton" href="#"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-        </div>
+
     </div>
  </section>
 
@@ -231,7 +204,7 @@
         <h2>
             ils nous font
         </h2>
-        <h2 class="part2Title">- - confiance  </h2>
+        <h2 class="part2Title">- confiance  </h2>
     </div>
 
     <div class="ImageContenaire">
@@ -244,8 +217,8 @@
  <!-- ____________________________________________FOOTER_________________________________________________________________________ -->
 
  <footer>
-    <!-- <img src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond"> -->
-    <div class="">
+    <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
+    <div class="contenaireFooter">
         <h2>Collaborons ensemble pour une meilleure Optimisation</h2>
         <div class="">
             <div class="">
@@ -253,6 +226,13 @@
                 <a href="mailto:contact@seg2inov.fr"><p>contact@seg2inov.fr</p></a>
                 <a href="mailto:support@seg2inov.fr"><p>support@seg2inov.fr</p></a>
                 <a href="tel:+0970702696"><p>09 70 70 26 96</p></a>
+            </div>
+            <div class="">
+                <h3>Où nous trouver ?</h3>
+                <a  class="voirPlusDetailButton" href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" href="https://www.instagram.com/seg2inov/"><p>Instagram</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+                
             </div>
         </div>
     </div>

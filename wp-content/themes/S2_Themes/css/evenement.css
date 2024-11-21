@@ -2,6 +2,7 @@
     width: 100%;
     padding-left: 8vw;
     padding-right: 8vw;
+    overflow: hidden;
 }
 
 
@@ -22,6 +23,7 @@
     bottom: 14px;
     color: #FFFFFF;
     margin-left: 14px;
+    margin-bottom: 284px;
 }
 
 .illustrationevent{
