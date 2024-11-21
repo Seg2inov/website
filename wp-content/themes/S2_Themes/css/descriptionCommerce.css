@@ -60,3 +60,15 @@
     gap: 12px;
     
 }
+
+@media screen and (min-width: 1150px) {
+     img{
+        width: 60%;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .descriptionCommerce{
+        flex-direction: column;
+   }
+}

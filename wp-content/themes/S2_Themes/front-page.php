@@ -91,7 +91,7 @@
     <div class="centerColumn">
         <div class="stickyElementcenterColumn">
             <h3>Une gestion de votre commerce</h3>
-            <img src="wp-content\themes\S2_Themes\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre logiciel dessus">
+            <img class="destop" src="wp-content\themes\S2_Themes\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre logiciel dessus">
         </div>
         <div class="alltime columnInformation">
         <h3>À toute heure</h3>
@@ -109,7 +109,7 @@
                     <p>23H01</p>
                 </div>
             </div>
-        <img src="wp-content\themes\S2_Themes\assets\img\atouteheure.png" alt="illustration">
+        <img  src="wp-content\themes\S2_Themes\assets\img\atouteheure.png" alt="illustration">
     </div>
     </div>
     
