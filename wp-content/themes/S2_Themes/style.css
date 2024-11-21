@@ -53,6 +53,11 @@ h2{
     font-family: 'SofiaSans-Regular';
     font-size: 36px;
 }
+@media screen and (max-width: 405px) {
+    h2{
+        font-size:26px;
+    }
+}
 
 h3{
     font-family: 'SofiaSans-Regular';
@@ -89,8 +94,9 @@ p, h5, label, a, details, summary{
 .part2Title{
     transform: translateX(106%);
 }
-
-
-img{
-    object-fit: cover;
+@media screen and (max-width: 520px) {
+    .part2Title{
+        transform: translateX(0%);
+    }
 }
+

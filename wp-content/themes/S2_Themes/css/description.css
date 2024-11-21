@@ -29,6 +29,7 @@
     transform: translateY(-50%);
     width: 495px;
     height: 575px;
+    object-fit: cover;
 }
 
 .contentElement{
@@ -73,4 +74,9 @@
     
 }
 
+@media screen and (max-width: 300px) {
+    .stickyElement{
+        display: none;
+    }
 
+}

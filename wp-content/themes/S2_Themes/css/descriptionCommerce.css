@@ -63,6 +63,7 @@
 
 .commerceillustration{
     display: block;
+    object-fit: cover;
 }
 
 @media screen and (max-width: 1150px) {
@@ -80,6 +81,7 @@
 
    .commerceillustration{
     display: none;
+    object-fit: cover;
 
    }
 
