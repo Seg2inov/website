@@ -72,6 +72,16 @@
     object-fit: cover;
 }
 
+.one{
+    width: 212px;
+    height: 419px;
+}
+
+.three{
+    width: 496px;
+    height:237px ;
+}
+
 @media screen and (max-width: 1150px) {
     .descriptionCommerce img{
         width: 60%;

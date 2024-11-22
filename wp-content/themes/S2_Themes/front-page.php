@@ -87,10 +87,10 @@
         <p>STOCKS</p>
         <p>ANALYSE</p>
         <p>COMMERCIAL</p>
-        <img class="commerceillustration" src="wp-content\themes\S2_Themes\assets\img\complete.png" alt="illustration">
+        <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\complete.png" alt="illustration">
     </div>
 
-    <div class="centerColumn">
+    <div class="centerColumn ">
         <div class="stickyElementcenterColumn">
             <h3>Une gestion de votre commerce</h3>
             <img class="destop" src="wp-content\themes\S2_Themes\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre logiciel dessus">
@@ -111,12 +111,12 @@
                     <p>23H01</p>
                 </div>
             </div>
-        <img  class="commerceillustration" src="wp-content\themes\S2_Themes\assets\img\atouteheure.png" alt="illustration">
+        <img  class="commerceillustration three" src="wp-content\themes\S2_Themes\assets\img\atouteheure.png" alt="illustration">
     </div>
     </div>
     
     <div class="columnInformation">
-        <img class="commerceillustration" src="wp-content\themes\S2_Themes\assets\img\partout.png" alt="illustration">
+        <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\partout.png" alt="illustration">
         <h3>Partout</h3>
         <p>À VOTRE COMMERCE</p>
         <p>CHEZ VOUS</p>
