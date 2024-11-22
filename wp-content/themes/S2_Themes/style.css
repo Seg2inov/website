@@ -30,16 +30,19 @@ html, body {
 @font-face {
     font-family: 'SofiaSans-Medium';
     src: url('assets/font/SofiaSans-Medium.ttf');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SofiaSans-Light';
     src: url('assets/font/SofiaSans-Light.ttf');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SofiaSans-Regular';
     src: url('assets/font/SofiaSans-Regular.ttf');
+    font-display: swap;
 }
 
 
