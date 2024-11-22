@@ -103,3 +103,13 @@ p, h5, label, a, details, summary{
 a{
     color: black;
 }
+
+
+.logo{
+    width: 121px;
+    height: fit-content;
+}
+
+img{
+    height: fit-content;
+}

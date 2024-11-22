@@ -35,7 +35,7 @@
 
 <!-- ____________________________________________HEADER__________________________________________________________________________ -->
     <header>
-        <img src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant">
+        <img class="logo"src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant">
         <div class="">
             <!-- Se connecter -->
              <a href="mailto:contact@seg2inov.com" class="blackButton"><p>Discutons de votre projet</p> <img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
@@ -286,7 +286,7 @@
             </div>
         </div>
     <div class="linkunderfooter">
-    <img src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov">
+    <img class="logo" src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov">
     <p class="mention">Tous droits réservés à SEG2INOV - Mentions légales</p>
     </div>
     </footer>
