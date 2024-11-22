@@ -211,7 +211,7 @@
                 <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\techforRetail.webp" alt="techforRetail">
                 <div class="gradiantEvent"></div>
             </div>
-            <h4>Tech For Retail</h4>
+            <p class="titleFiche">Tech For Retail</p>
             <p>Le 26 et 27 novembre 2024, nous serons présents au salon Tech for Retail, le grand événement européen qui réinvente le retail avec un focus sur les innovations technologiques et éco-responsables.</p>
             <a  class="voirPlusDetailButton" href="https://www.techforretail.com/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
         </div>
@@ -222,7 +222,7 @@
                 <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\commerceinnov.webp" alt="commerceinnov">
                 <div class="gradiantEvent"></div>
             </div>
-            <h4>Commerce Innov </h4>
+            <p class="titleFiche">Commerce Innov </p>
             <p>Le salon Commerce Innov du 18 novembre 2024 au Palais de la Bourse a été une expérience enrichissante pour nous. L’événement nous a permis de présenter nos solutions de gestion de caisse et de recueillir des retours constructifs, renforçant notre position dans le secteur des innovations pour le commerce.</p>
             <a  class="voirPlusDetailButton" href="https://www.bordeauxgironde.cci.fr/Bordeaux-Commerce-Innov"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
         </div>
@@ -233,7 +233,7 @@
                 <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\frenchteck.webp" alt="frenchteck">
                 <div class="gradiantEvent"></div>
             </div>
-            <h4>French teck Night 2024 </h4>
+            <p class="titleFiche" >French teck Night 2024 </p>
             <p>La French Tech Night aux Bassins des Lumières a permis à Seg2Inov de mettre en valeur ses solutions dans un cadre unique. Cette expérience a contribué à renforcer notre ancrage dans l’écosystème local et à affirmer notre approche innovante et accessible.</p>
             <a  class="voirPlusDetailButton" href="https://www.frenchtechbordeaux.com/event/french-tech-night-2024/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
         </div>
