@@ -12,19 +12,19 @@
 
     <meta property="og:title" content="Seg2Inov">
     <meta property="og:description" content="Découvrez nos solutions de caisse et de pesée adaptées aux commerces alimentaires. Seg2Inov simplifie votre gestion avec des outils innovants et accessibles.">
-    <meta property="og:image" content="wp-content\themes\S2_Themes\assets\img\partout.png">
+    <meta property="og:image" content="wp-content\themes\S2_Themes\assets\img\partout.webp">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Seg2Inov">
     <meta name="twitter:description" content="Simplifiez la gestion de votre commerce alimentaire avec nos logiciels de caisse innovants et nos solutions de pesée.">
-    <meta name="twitter:image" content="wp-content\themes\S2_Themes\assets\img\partout.png">
+    <meta name="twitter:image" content="wp-content\themes\S2_Themes\assets\img\partout.webp">
     <meta property="og:url" content="https://www.seg2inov.eu">
     <meta property="og:type" content="website">
 
     <link rel="canonical" href="https://www.seg2inov.eu">
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <link rel="stylesheet" href="wp-content\themes\S2_Themes\style.css">
 </head>
 <body>
@@ -55,7 +55,7 @@
             <!-- Se connecter -->
         </div>
     </div>
-    <img class="heroIllustration" src="wp-content\themes\S2_Themes\assets\img\hero.png" alt="illustration">
+    <img class="heroIllustration" src="wp-content\themes\S2_Themes\assets\img\hero.webp" alt="illustration">
 </section>
 
 <!-- ____________________________________________Description__________________________________________________________________________ -->
@@ -64,7 +64,7 @@
     <h2>UN LOGICIEL AVEC DE NOMBREUSES  FONCTIONNALITÉS</h2>
 
     <div class="scrollzone">
-        <img class="stickyElement" src="wp-content\themes\S2_Themes\assets\img\partout.png" alt="illustration">
+        <img class="stickyElement" src="wp-content\themes\S2_Themes\assets\img\partout.webp" alt="illustration">
         <div class="contentElement">
             <div class="">
                 <h3>Une main sur toutes les données </h3>
@@ -107,7 +107,7 @@
         <p>STOCKS</p>
         <p>ANALYSE</p>
         <p>COMMERCIAL</p>
-        <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\complete.png" alt="illustration">
+        <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\complete.webp" alt="illustration">
     </div>
 
     <div class="centerColumn ">
@@ -131,12 +131,12 @@
                     <p>23H01</p>
                 </div>
             </div>
-        <img  class="commerceillustration three" src="wp-content\themes\S2_Themes\assets\img\atouteheure.png" alt="illustration">
+        <img  class="commerceillustration three" src="wp-content\themes\S2_Themes\assets\img\atouteheure.webp" alt="illustration">
     </div>
     </div>
     
     <div class="columnInformation">
-        <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\partout.png" alt="illustration">
+        <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\partout.webp" alt="illustration">
         <h3>Partout</h3>
         <p>À VOTRE COMMERCE</p>
         <p>CHEZ VOUS</p>
@@ -230,7 +230,7 @@
 
         <div class="contenaireFicheEvenement">
             <div class="partIllustration">
-                <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\frenchteck.png" alt="frenchteck">
+                <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\frenchteck.webp" alt="frenchteck">
                 <div class="gradiantEvent"></div>
                 <h4>French teck Night 2024 </h4>
             </div>
