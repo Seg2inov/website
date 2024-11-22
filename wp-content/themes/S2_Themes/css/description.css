@@ -30,6 +30,7 @@
     width: 495px;
     height: 575px;
     object-fit: cover;
+    border-radius: 10px;
 }
 
 .contentElement{
