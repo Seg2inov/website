@@ -15,6 +15,10 @@
     gap: 24px;
 }
 
+.confiance img{
+    max-width: 262.32px;
+}
+
 
 @media screen and (max-width: 560px) {
     .confiance{
