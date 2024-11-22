@@ -15,6 +15,10 @@ details{
     padding: 22px;
     transition: all 500ms ease;
 }
+
+details:hover{
+    background-color: #10417933;
+}
 summary{
     display: flex;
     justify-content: space-between;

@@ -123,6 +123,10 @@
         flex-direction: column;
     }
 
+    .descriptionCommerce img{
+        transform: translateY(0px);
+    }
+
     .columnInformation{
         margin-bottom: 100px;
         align-items: center;
