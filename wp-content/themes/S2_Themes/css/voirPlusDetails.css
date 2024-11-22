@@ -1,4 +1,9 @@
 .voirPlusDetailButton{
     display: flex;
     gap: 8px;
+    align-items: center;
+}
+
+.voirPlusDetailButton:hover img{
+    transform: translate(-45deg);
 }
