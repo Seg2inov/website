@@ -28,7 +28,7 @@
 <section class="hero">
     <div class="titlep">
         <h1>Découvrez SEG2INOV </h1>
-        <p>Pizza ipsum dolor meat lovers buffalo. Pesto lasagna pan chicken Philly. Bbq marinara broccoli cheese personal olives party.</p>
+        <p> Nous concevons des logiciels de caisse innovants, spécialement adaptés aux commerces alimentaires et aux systèmes de pesée avec balances intégrées. Simples, fiables et pensés pour votre activité, nos solutions vous accompagnent au quotidien pour optimiser votre gestion et gagner en efficacité.</p>
 
         <div class="button">
             <a class="blackButton" href="#"><p>contactez-nous </p><img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
@@ -44,7 +44,7 @@
     <h2>UN LOGICIEL AVEC DE NOMBREUSES  FONCTIONNALITÉS</h2>
 
     <div class="scrollzone">
-        <img class="stickyElement" src="wp-content\themes\S2_Themes\assets\img\description.png" alt="illustration">
+        <img class="stickyElement" src="wp-content\themes\S2_Themes\assets\img\partout.png" alt="illustration">
         <div class="contentElement">
             <div class="">
                 <h3>Une main sur toutes les données </h3>
