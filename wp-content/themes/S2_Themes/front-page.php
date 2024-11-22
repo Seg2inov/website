@@ -212,6 +212,13 @@
     <div class="ImageContenaire">
         <img src="wp-content\themes\S2_Themes\assets\logo\frenchteck.png" alt="logo de la frenchteck">
         <img src="wp-content\themes\S2_Themes\assets\logo\pep.png" alt="logo de la pepiniére bordeaux chartron">
+        <img src="wp-content\themes\S2_Themes\assets\logo\aures.png" alt="logo d'aures">
+        <img src="wp-content\themes\S2_Themes\assets\logo\avery-berkel.png" alt="logo d'avery berkel">
+        <img src="wp-content\themes\S2_Themes\assets\logo\Bizerba.png" alt="logo de Bizerba">
+        <img src="wp-content\themes\S2_Themes\assets\logo\l_precia-molen.png" alt="logo de  preciamolen">
+        <img src="wp-content\themes\S2_Themes\assets\logo\Mettler_Toledo.png" alt="logo de Mettler_Toledo">
+        <img src="wp-content\themes\S2_Themes\assets\logo\ncpi.png" alt="logo de ncpi">
+        <img src="wp-content\themes\S2_Themes\assets\logo\oxhoo.png" alt="logo de oxhoo">
     </div>
 
  </section>
