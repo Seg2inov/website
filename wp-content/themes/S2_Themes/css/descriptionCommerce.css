@@ -70,17 +70,19 @@
 .commerceillustration{
     display: block;
     object-fit: cover;
-    border-radius: 10px;
+    
 }
 
 .one{
     width: 212px;
     height: 419px;
+    border-radius: 10px;
 }
 
 .three{
     width: 496px;
     height:237px ;
+    border-radius: 10px;
 }
 
 @media screen and (max-width: 1150px) {
