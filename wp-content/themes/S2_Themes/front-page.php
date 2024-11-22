@@ -18,7 +18,7 @@
         <img src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant">
         <div class="">
             <!-- Se connecter -->
-             <a href="#" class="blackButton"><p>Discutons de votre projet</p> <img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
+             <a href="mailto:contact@seg2inov.com" class="blackButton"><p>Discutons de votre projet</p> <img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
         </div>
     </header>
     <div class="blurDiv"></div>
@@ -31,7 +31,7 @@
         <p> Nous concevons des logiciels de caisse innovants, spécialement adaptés aux commerces alimentaires et aux systèmes de pesée avec balances intégrées. Simples, fiables et pensés pour votre activité, nos solutions vous accompagnent au quotidien pour optimiser votre gestion et gagner en efficacité.</p>
 
         <div class="button">
-            <a class="blackButton" href="#"><p>contactez-nous </p><img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
+            <a class="blackButton" href="mailto:contact@seg2inov.com"><p>contactez-nous </p><img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
             <!-- Se connecter -->
         </div>
     </div>
