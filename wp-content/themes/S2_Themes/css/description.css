@@ -60,7 +60,7 @@
 @media screen and (max-height: 670px) {
     .stickyElement{
         width: 40%;
-        height: 13%;
+        height: auto;
 
     }
 
