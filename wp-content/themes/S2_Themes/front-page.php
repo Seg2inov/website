@@ -202,8 +202,20 @@
            Retrouvez nous à des 
             
         </h2>
-        <h2 class="part2Title">- événements  </h2>
+        <h2 class="part2Title">- évènement  </h2>
     </div>
+    <div class="contenaireContenaireEvenement">
+
+        <div class="contenaireFicheEvenement">
+            <div class="partIllustration">
+                <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\sirha.PNG" alt="techforRetail">
+                <div class="gradiantEvent"></div>
+            </div>
+            <p class="titleFiche">Sirha Lyon</p>
+            <p>Du 19 au 23 janvier 2025, nous serons au Sirha Lyon, un rendez-vous majeur pour les acteurs du Food Service et de l’hospitalité. Cette participation, aux côtés de notre partenaire PRECIA MOLEN, sera l’occasion de présenter nos solutions et de renforcer notre collaboration dans un secteur en pleine évolution.</p>
+            <a  class="voirPlusDetailButton" href="https://www.sirha-lyon.com/fr" ><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+        </div>
+
     <div class="contenaireContenaireEvenement">
 
         <div class="contenaireFicheEvenement">
@@ -212,7 +224,7 @@
                 <div class="gradiantEvent"></div>
             </div>
             <p class="titleFiche">Tech For Retail</p>
-            <p>Le 26 et 27 novembre 2024, nous serons présents au salon Tech for Retail, le grand événement européen qui réinvente le retail avec un focus sur les innovations technologiques et éco-responsables.</p>
+            <p>Le 26 et 27 novembre 2024, nous étions présents au salon Tech for Retail, le grand événement européen qui réinvente le retail avec un focus sur les innovations technologiques et éco-responsables.</p>
             <a  class="voirPlusDetailButton" href="https://www.techforretail.com/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
         </div>
 
@@ -233,7 +245,7 @@
                 <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\frenchteck.webp" alt="frenchteck">
                 <div class="gradiantEvent"></div>
             </div>
-            <p class="titleFiche" >French teck Night 2024 </p>
+            <p class="titleFiche" >French tech Night 2024 </p>
             <p>La French Tech Night aux Bassins des Lumières a permis à Seg2Inov de mettre en valeur ses solutions dans un cadre unique. Cette expérience a contribué à renforcer notre ancrage dans l’écosystème local et à affirmer notre approche innovante et accessible.</p>
             <a  class="voirPlusDetailButton" href="https://www.frenchtechbordeaux.com/event/french-tech-night-2024/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
         </div>
