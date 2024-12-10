@@ -118,11 +118,7 @@
         gap: 24px;
    }
 
-   .commerceillustration{
-    display: none;
-    object-fit: cover;
-
-   }
+   
 
    .centerColumn{
         align-items: center;
@@ -137,6 +133,15 @@
 }
 
 @media screen and (max-width: 690px) {
+    .descriptionCommerce .alltime{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .commerceillustration{
+        display: none;
+        object-fit: cover;
+    
+       }
     .descriptionCommerce{
         flex-direction: column;
     }
