@@ -133,12 +133,12 @@
 }
 
 @media screen and (max-width: 690px) {
-    .descriptionCommerce .alltime{
+    .descriptionCommerce .everytimeColumn{
         display: flex;
         flex-direction: column-reverse;
     }
     .commerceillustration{
-        display: none;
+        display: block;
         object-fit: cover;
     
        }

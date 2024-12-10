@@ -110,7 +110,7 @@
         <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\complete.webp" alt="illustration">
     </div>
 
-    <div class="centerColumn ">
+    <div class="centerColumn everytimeColumn ">
         <div class="stickyElementcenterColumn">
             <h3>Une gestion de votre commerce</h3>
             <img class="destop" src="wp-content\themes\S2_Themes\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre logiciel dessus">
