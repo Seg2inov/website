@@ -135,7 +135,7 @@
     </div>
     </div>
     
-    <div class="columnInformation">
+    <div class="columnInformation everywhere">
         <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\partout.webp" alt="illustration">
         <h3>Partout</h3>
         <p>À VOTRE COMMERCE</p>
