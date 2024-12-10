@@ -88,19 +88,32 @@
     border-radius: 10px;
 }
 
+@media screen and (max-width: 1030px) {
+    .stickyElementcenterColumn{
+        transform: translateY(-80%);
+       }
+
+}
+
 @media screen and (max-width: 1150px) {
     .descriptionCommerce .commerceillustration{
         width: 40%;
 
     }
+    .descriptionCommerce .three{
+        width: 100%;
+
+    }
     .everywhere{
         align-items: flex-end;
+        text-align: end;
+
     }
 }
 
 @media screen and (max-width: 800px) {
     .descriptionCommerce{
-        width: 90%;
+        width: 100%;
         align-items: center;
         gap: 24px;
    }
@@ -117,6 +130,7 @@
 
    .stickyElementcenterColumn{
     align-items: center;
+    transform: translateY(-80%);
    }
 
    
@@ -134,15 +148,18 @@
     .columnInformation{
         margin-bottom: 100px;
         align-items: center;
+        margin-bottom: 0;
     }
 
     .stickyElementcenterColumn{
         position: relative;
-        transform: translateY(-282px);
+        display:  none;
+       
     }
-    .alltime{
-        transform: translateY(10px);
+    .descriptionCommerce .everywhere{
+        transform: translateY(70%);
     }
+
 }
 
 
