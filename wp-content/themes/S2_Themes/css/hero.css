@@ -25,10 +25,17 @@
     object-fit: cover;
 }
 
+@media screen and (max-width: 921px) {
+    .hero{
+        margin-top: 24px;
+    }
+}
+
 @media screen and (max-width: 800px) {
     .hero{
         flex-direction: column;
         margin-bottom: 150px;
+        height: fit-content;
     }
 
     .heroIllustration{
@@ -53,4 +60,16 @@
         gap: 8px;
     }
 
+}
+
+@media screen and (max-width: 385px) {
+    .hero{
+        margin-top: 68px;
+    }
+}
+
+@media screen and (max-width: 310px) {
+    .hero{
+        margin-top: 94px;
+    }
 }
