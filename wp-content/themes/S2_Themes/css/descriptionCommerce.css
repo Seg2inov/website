@@ -93,6 +93,9 @@
         width: 40%;
 
     }
+    .everywhere{
+        align-items: flex-end;
+    }
 }
 
 @media screen and (max-width: 800px) {
