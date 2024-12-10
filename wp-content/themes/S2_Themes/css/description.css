@@ -10,6 +10,7 @@
 
 .description h2{
     text-align: center;
+    transform: translateY(146px);
 }
 
 
@@ -18,7 +19,7 @@
     display: flex;
     justify-content: space-between;
     align-items: start;
-    height: 400vh;
+    height: 300vh;
     padding-top: 400px;
 }
 
@@ -69,6 +70,10 @@
 @media screen and (max-width: 590px) {
     .contentElement{
         padding-left: 12px;
+    }
+
+    .description h2{
+        transform: translateY(29px);
     }
 
     .scrollzone{
