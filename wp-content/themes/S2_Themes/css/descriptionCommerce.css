@@ -138,7 +138,7 @@
         flex-direction: column-reverse;
     }
     .commerceillustration{
-      
+        display: none;
         object-fit: cover;
     
        }
