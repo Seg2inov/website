@@ -11,6 +11,7 @@
 }
 .destop{
     max-width: 556px;
+    width: 80%;
 }
 
 
@@ -88,9 +89,9 @@
 }
 
 @media screen and (max-width: 1150px) {
-    .descriptionCommerce img{
-        width: 60%;
-        transform: translateY(-175px);
+    .descriptionCommerce .commerceillustration{
+        width: 40%;
+
     }
 }
 

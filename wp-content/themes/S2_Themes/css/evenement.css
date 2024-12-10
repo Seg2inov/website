@@ -4,7 +4,6 @@
     padding-right: 8vw;
     overflow: hidden;
     margin-bottom: 284px;
-    min-height: 619px;
 }
 
 
@@ -18,6 +17,7 @@
     max-width: 330px;
     gap: 12px;
     padding-bottom: 14px;
+    min-height: 619px;
 }
 
 .contenaireFicheEvenement .titleFiche{
