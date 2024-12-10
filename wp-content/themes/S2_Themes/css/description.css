@@ -10,7 +10,7 @@
 
 .description h2{
     text-align: center;
-    transform: translateY(146px);
+    transform: translateY(64px);
 }
 
 
@@ -45,7 +45,12 @@
 }
 
 
+@media screen and (max-width: 1270px) {
+    .description h2{
+        transform: translateY(146px);
+    }
 
+}
 
 
 
