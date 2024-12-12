@@ -97,3 +97,11 @@
     }
 
 }
+
+@media screen and (max-height: 426px) and (max-width: 795px) {
+    .hero{
+        margin: 0;
+        padding: 0;
+    }
+
+}

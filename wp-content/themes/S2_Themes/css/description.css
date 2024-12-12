@@ -88,6 +88,11 @@
 }
 
 @media screen and (max-width: 500px) {
+
+    .description  {
+        gap: 178px;
+    }
+
     .scrollzone{
         flex-direction: column;
     }
@@ -108,6 +113,13 @@
 
     .scrollzone {
         padding-top: 0%;
+    }
+
+}
+
+@media screen and (max-height: 426px) and (max-width: 795px) {
+    .description h2 {
+        transform: translateY(0px);
     }
 
 }

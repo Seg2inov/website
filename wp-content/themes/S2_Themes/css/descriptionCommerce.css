@@ -133,44 +133,33 @@
 }
 
 @media screen and (max-width: 690px) {
-    .descriptionCommerce .everytimeColumn{
-        display: flex;
-        flex-direction: column;
-    }
-    .commerceillustration{
-        display: none;
-        object-fit: cover;
-    
-       }
-    .descriptionCommerce{
-        flex-direction: column;
-    }
-
-    .descriptionCommerce img{
-        transform: translateY(0px);
-    }
-
-    .columnInformation{
-        margin-bottom: 100px;
+    .gridContainer {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
         align-items: center;
-        margin-bottom: 0;
     }
 
-    .stickyElementcenterColumn{
-        position: relative;
-        display:  none;
-       
-    }
-    .descriptionCommerce .everywhere{
-        transform: translateY(-100%);
+    .centerColumn {
+        grid-column: span 2;
+        text-align: center;
     }
 
-}
-
-
-@media screen and (max-width: 550px) {
-    .descriptionCommerce{
-        margin-bottom: 100%;
+    .columnInformation {
+        text-align: left;
     }
 
+    .columnImage {
+        text-align: center;
+    }
+
+    .horaire {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
 }
