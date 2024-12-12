@@ -62,24 +62,13 @@
 
 }
 
-@media screen and (max-width: 385px) {
-    .hero{
-        margin-top: 68px;
-    }
-    
-}
-
-@media screen and (max-width: 310px) {
-    .hero{
-        margin-top: 94px;
-    }
-}
 
 
-@media screen and (max-height: 435px) {
-    .hero{
-        padding-top: 88px;
-    }
+
+
+
+@media screen and (max-height: 435px ) {
+
     .heroIllustration{
        
         height: 100%;
@@ -91,4 +80,20 @@
     .hero{
         padding-top: 134px;
     }
+}
+
+
+@media screen and (max-height: 435px) and (max-width: 800px) {
+    .hero {
+        padding-top: 88px;
+    }
+
+}
+
+
+@media screen and (max-height: 385px) and (max-width: 800px) {
+    .hero{
+        margin-top: 94px;
+    }
+
 }

@@ -93,8 +93,9 @@
     }
 
     .contentElement{
-        justify-content: start;
+        justify-content: space-between;
         gap: 12px;
+        padding-top: 48px;
     }
 
     .stickyElement {
@@ -102,6 +103,11 @@
         top: 70px;
         transform: translateY(0);
         height: 180px;
+    }
+
+
+    .scrollzone {
+        padding-top: 0%;
     }
 
 }
