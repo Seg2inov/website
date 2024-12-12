@@ -27,9 +27,7 @@ details:hover{
     background-color: #10417933;
 }
 
-summary:hover img{
-    transform: scale(110%);
-}
+
 summary{
     display: flex;
     gap: 24px;
