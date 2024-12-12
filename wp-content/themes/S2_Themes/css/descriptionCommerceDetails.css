@@ -36,6 +36,10 @@ summary{
     transition: all 500ms ease;
 }
 
+summary p{
+    padding: 22px;
+}
+
 .contenantDetails{
     border-bottom: 1px solid black;
 }

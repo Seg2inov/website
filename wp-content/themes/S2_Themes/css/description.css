@@ -88,8 +88,10 @@
 }
 
 @media screen and (max-width: 500px) {
-    .stickyElement{
-        display: none;
+
+
+    .description{
+        flex-direction: column;
     }
     .contentElement{
         justify-content: start;
