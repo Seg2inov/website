@@ -96,8 +96,11 @@
         justify-content: start;
         gap: 12px;
     }
-    .scrollzone{
-        height: fit-content;
+
+    .stickyElement {
+        width: 100%;
+        top: 70px;
+        height: 180px;
     }
 
 }
