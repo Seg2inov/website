@@ -19,7 +19,7 @@ details img{
 details{
     width: 100%;
     border-top: 1px solid black;
-    padding: 22px;
+   
     transition: all 500ms ease;
 }
 
@@ -29,9 +29,11 @@ details:hover{
 
 
 summary{
+    padding: 22px;
     display: flex;
     gap: 24px;
     align-items: center;
+    transition: all 500ms ease;
 }
 
 .contenantDetails{
