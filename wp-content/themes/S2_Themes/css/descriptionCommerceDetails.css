@@ -11,7 +11,7 @@ details img{
     transition: 500ms;
 }
 
-open img{
+[open] img{
     transform: rotate(90deg);
 }
 
@@ -27,7 +27,7 @@ details:hover{
     background-color: #10417933;
 }
 
-details:hover img{
+summary:hover img{
     transform: scale(110%);
 }
 summary{
