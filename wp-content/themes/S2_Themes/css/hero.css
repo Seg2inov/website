@@ -66,11 +66,7 @@
     .hero{
         margin-top: 68px;
     }
-    .heroIllustration{
-       
-        height: 100%;
-        
-    }
+    
 }
 
 @media screen and (max-width: 310px) {
@@ -83,6 +79,11 @@
 @media screen and (max-height: 435px) {
     .hero{
         padding-top: 88px;
+    }
+    .heroIllustration{
+       
+        height: 100%;
+        
     }
 }
 

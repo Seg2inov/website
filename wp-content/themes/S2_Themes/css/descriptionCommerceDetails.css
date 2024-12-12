@@ -7,6 +7,13 @@
 
 }
 
+details img{
+    transition: 500ms;
+}
+
+open img{
+    transform: rotate(90deg);
+}
 
 
 details{
@@ -18,6 +25,10 @@ details{
 
 details:hover{
     background-color: #10417933;
+}
+
+details:hover img{
+    transform: scale(110%);
 }
 summary{
     display: flex;
