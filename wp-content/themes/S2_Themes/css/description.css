@@ -88,11 +88,10 @@
 }
 
 @media screen and (max-width: 500px) {
-
-
-    .description{
+    .scrollzone{
         flex-direction: column;
     }
+
     .contentElement{
         justify-content: start;
         gap: 12px;
