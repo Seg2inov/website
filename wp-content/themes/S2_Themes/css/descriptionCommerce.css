@@ -162,7 +162,7 @@
        
     }
     .descriptionCommerce .everywhere{
-        transform: translateY(70%);
+        transform: translateY(-100%);
     }
 
 }
