@@ -160,7 +160,7 @@
     </div>
     
     <div class="contenantDetails">
-        <details>
+        <details open>
             <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"><p>Client</p></summary>
            <p class="margintop">Création et gestion des fiches clients</p>
            <p>Système de fidélité</p>
