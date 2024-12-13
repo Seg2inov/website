@@ -50,6 +50,11 @@
 
 <!-- ____________________________________________Hero__________________________________________________________________________ -->
 
+<div class="opensite">
+<img class="logo"src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant">
+</div>
+
+
 <section class="hero">
     <div class="titlep">
         <h1>Découvrez SEG2INOV </h1>
