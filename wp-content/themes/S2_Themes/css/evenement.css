@@ -99,6 +99,10 @@
         padding-right: 0vw;
     }
 
+    .evenement .title h2{
+        margin-left: 8vw;
+    }
+
     .contenaireFicheEvenement{
         width: 75%;
     }
