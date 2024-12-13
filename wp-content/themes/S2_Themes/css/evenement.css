@@ -58,9 +58,17 @@
     margin-right: 14px;
 }
 
+
 .swiper {
-    width: 100%; /* Adapte la largeur au conteneur parent */
-    max-width: 600px; /* Limite à une largeur de 600px */
-    height: fit-content; /* Hauteur de 300px */
-    margin: auto; /* Centrage horizontal */
-  }
+    width: 100%;
+    overflow: hidden;
+}
+
+.swiper-slide {
+    flex-shrink: 0;
+    width: auto; /* S'adapte selon slidesPerView */
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -271,18 +271,19 @@
   <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   <script>
     const swiper = new Swiper('.swiper', {
-      direction: 'horizontal',
-      loop: true,
-      pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-      },
-      navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-      },
-      
-    });
+        direction: 'horizontal',
+        loop: true,
+        slidesPerView: 3, // Nombre de slides visibles en même temps
+        spaceBetween: 20, // Espacement entre les slides
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        });
   </script>
 
  <!-- ____________________________________________ilsnousfontConfiance__________________________________________________________________________ -->
