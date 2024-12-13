@@ -73,3 +73,13 @@
     align-items: center;
 }
 
+.swiper-pagination {
+    bottom: 24px; /* Position normale */
+  }
+  
+  /* Style pour écran inférieur à 1200px */
+  @media (max-width: 1200px) {
+    .swiper-pagination {
+      bottom: 72px; /* Déplace les points plus bas */
+    }
+  }
