@@ -274,13 +274,6 @@
         direction: 'horizontal',
         loop: true,
         slidesPerView: 3, 
-        breakpoints: {
-            1200: {
-            slidesPerView: 2, // Réduire à 2 éléments
-            },
-            700: {
-            slidesPerView: 1, // Réduire à 2 éléments
-            },
         spaceBetween: 20, // Espacement entre les slides
         pagination: {
             el: '.swiper-pagination',
@@ -290,6 +283,14 @@
             nextEl: '.swiper-button-next',
             prevEl: '.swiper-button-prev',
         },
+        breakpoints: {
+            1200: {
+            slidesPerView: 2, // Réduire à 2 éléments
+            },
+            700: {
+            slidesPerView: 1, // Réduire à 2 éléments
+            }
+        }
         });
   </script>
 
