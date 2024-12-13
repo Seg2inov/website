@@ -273,7 +273,7 @@
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
             loop: true,
-            slidesPerView: 3, // Par défaut
+            slidesPerView: 1, // Par défaut
             spaceBetween: 20, // Espacement entre les slides
             pagination: {
                 el: '.swiper-pagination',
@@ -285,8 +285,8 @@
             },
             breakpoints: {
                 
-                700: {
-                    slidesPerView: 1, // 1 slide pour les écrans inférieurs à 700px
+                1000: {
+                    slidesPerView: 3, // 1 slide pour les écrans inférieurs à 700px
                 }
             }
         });
