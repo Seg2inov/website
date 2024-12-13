@@ -120,7 +120,7 @@
         <div class="alltime columnInformation">
         <h3>À toute heure</h3>
             <div class="horaire">
-                <div>
+                <div class="contenaireHoraire">
                     <div class="">
                         <p>00H00</p>
                         <p>05H12</p>

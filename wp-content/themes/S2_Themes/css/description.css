@@ -95,6 +95,7 @@
 
     .scrollzone{
         flex-direction: column;
+        height: 200vh;
     }
 
     .contentElement{
