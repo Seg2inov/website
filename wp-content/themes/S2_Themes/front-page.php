@@ -212,13 +212,11 @@
     </div>
 
 
+ </section>
 
-
-   <div class="swiper">
-        
-
-        <div class="contenaireContenaireEvenement  swiper-wrapper">
-
+ <div class="swiper">
+    <div class="swiper-wrapper contenaireContenaireEvenement">
+      <div class="swiper-slide">
             <div class="contenaireFicheEvenement swiper-slide">
                 <div class="partIllustration">
                     <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\sirha.PNG" alt="techforRetail">
@@ -228,8 +226,9 @@
                 <p>Du 19 au 23 janvier 2025, nous serons au Sirha Lyon, un rendez-vous majeur pour les acteurs du Food Service et de l’hospitalité. Cette participation, aux côtés de notre partenaire PRECIA MOLEN, sera l’occasion de présenter nos solutions et de renforcer notre collaboration dans un secteur en pleine évolution.</p>
                 <a  class="voirPlusDetailButton" href="https://www.sirha-lyon.com/fr" ><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
             </div>
-
-            <div class="contenaireFicheEvenement swiper-slide">
+      </div>
+      <div class="swiper-slide">
+      <div class="contenaireFicheEvenement swiper-slide">
                 <div class="partIllustration">
                     <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\techforRetail.webp" alt="techforRetail">
                     <div class="gradiantEvent"></div>
@@ -238,9 +237,8 @@
                 <p>Le 26 et 27 novembre 2024, nous étions présents au salon Tech for Retail, le grand événement européen qui réinvente le retail avec un focus sur les innovations technologiques et éco-responsables.</p>
                 <a  class="voirPlusDetailButton" href="https://www.techforretail.com/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
             </div>
-
-
-        <div class="contenaireFicheEvenement swiper-slide">
+      </div>
+      <div class="swiper-slide"> <div class="contenaireFicheEvenement swiper-slide">
             <div class="partIllustration">
                 <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\commerceinnov.webp" alt="commerceinnov">
                 <div class="gradiantEvent"></div>
@@ -249,8 +247,7 @@
             <p>Le salon Commerce Innov du 18 novembre 2024 au Palais de la Bourse a été une expérience enrichissante pour nous. L’événement nous a permis de présenter nos solutions de gestion de caisse et de recueillir des retours constructifs, renforçant notre position dans le secteur des innovations pour le commerce.</p>
             <a  class="voirPlusDetailButton" href="https://www.bordeauxgironde.cci.fr/Bordeaux-Commerce-Innov"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
         </div>
-
-
+        <div class="swiper-slide">
         <div class="contenaireFicheEvenement swiper-slide">
             <div class="partIllustration">
                 <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\frenchteck.webp" alt="frenchteck">
@@ -260,26 +257,8 @@
             <p>La French Tech Night aux Bassins des Lumières a permis à Seg2Inov de mettre en valeur ses solutions dans un cadre unique. Cette expérience a contribué à renforcer notre ancrage dans l’écosystème local et à affirmer notre approche innovante et accessible.</p>
             <a  class="voirPlusDetailButton" href="https://www.frenchtechbordeaux.com/event/french-tech-night-2024/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
         </div>
-
-
+        </div>
     </div>
-            <!-- Pagination -->
-        <div class="swiper-pagination"></div>
-
-        <!-- Navigation -->
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
-
-        <!-- Scrollbar (optionnel) -->
-        <div class="swiper-scrollbar"></div>
-    </div>
- </section>
-
- <div class="swiper">
-    <div class="swiper-wrapper">
-      <div class="swiper-slide">Slide 1</div>
-      <div class="swiper-slide">Slide 2</div>
-      <div class="swiper-slide">Slide 3</div>
     </div>
     <div class="swiper-pagination"></div>
     <div class="swiper-button-next"></div>
