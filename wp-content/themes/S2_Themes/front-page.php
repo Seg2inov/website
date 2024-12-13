@@ -326,13 +326,14 @@ include '/send_mail.php';
     <!--_____________________________________Contact _______________________ -->
 <section class="confiance">
 
-<div class="title">
-    <h2>
-    Discutons de votre 
-    </h2>
-    <h2 class="part2Title">- projet ensemble    </h2>
-</div>
+    <div class="title">
+        <h2>
+        Discutons de votre 
+        </h2>
+        <h2 class="part2Title">- projet ensemble    </h2>
+    </div>
 
+    
     <form action="send_mail.php" method="POST">
         <label for="email">Votre Email :</label>
         <input type="email" id="email" name="email" required>
