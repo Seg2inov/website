@@ -378,7 +378,7 @@
         </div>
     <div class="linkunderfooter">
     <img class="logo" src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov">
-    <p class="mention">Tous droits réservés à SEG2INOV - Mentions légales</p>
+    <p class="mention">Tous droits réservés à SEG2INOV - <a href="/wp-content\themes\S2_Themes\mention.php"><p>Mentions légales</p></a></p>
     </div>
     </footer>
     <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
