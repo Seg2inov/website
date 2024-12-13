@@ -87,3 +87,22 @@
   .swiper-wrapper {
     display: flex;
   }
+
+  .swiper-pagination {
+    bottom: 48px; /* Déplace les points plus bas */
+  }
+
+  @media (max-width: 565px) {
+
+    .evenement{
+        padding-left: 0vw;
+        padding-right: 0vw;
+    }
+
+    .contenaireFicheEvenement{
+        width: 75%;
+    }
+    
+    
+
+}
