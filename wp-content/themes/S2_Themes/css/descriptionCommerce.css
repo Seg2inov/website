@@ -133,33 +133,18 @@
 }
 
 @media screen and (max-width: 690px) {
-    .gridContainer {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 20px;
-        align-items: center;
-    }
-
-    .centerColumn {
-        grid-column: span 2;
-        text-align: center;
-    }
-
-    .columnInformation {
-        text-align: left;
-    }
-
-    .columnImage {
-        text-align: center;
-    }
-
-    .horaire {
+   .descriptionCommerce{
+        width: 100%;
+        height: 150vh;
+        padding-left: 2vw;
+        padding-right: 2vw;
         display: flex;
-        justify-content: space-between;
-    }
+        align-items: flex-start;
+        flex-direction: column;
+        margin-bottom: 40%;
+   }
 
-    img {
-        max-width: 100%;
-        height: auto;
-    }
+   .columnInformation{
+        display: flex ;
+   }
 }

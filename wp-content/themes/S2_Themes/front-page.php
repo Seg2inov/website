@@ -100,6 +100,7 @@
 
 <section class="descriptionCommerce">
     <div class="columnInformation">
+        <div class=""></div>
         <h3>Complète</h3>
         <p>CLIENT</p>
         <p>FOURNISSEUR</p>
