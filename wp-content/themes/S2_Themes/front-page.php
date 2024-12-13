@@ -326,11 +326,7 @@
     <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
 </div>
 <script src="assets/js/swiper-bundle.min.js"></script>
-Swiper avec JavaScript
-Ajoutez un script pour configurer et initialiser Swiper. Par exemple, dans une balise <script> ou dans un fichier JS séparé :
 
-html
-Copier le code
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     const swiper = new Swiper('.swiper', {
