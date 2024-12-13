@@ -1,3 +1,9 @@
+<?php
+
+include '/send_mail.php';
+
+?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -313,6 +319,37 @@
 
  </section>
 
+
+
+
+
+    <!--_____________________________________Contact _______________________ -->
+<section class="confiance">
+
+<div class="title">
+    <h2>
+    Discutons de votre 
+    </h2>
+    <h2 class="part2Title">- projet ensemble    </h2>
+</div>
+
+    <form action="send_mail.php" method="POST">
+        <label for="email">Votre Email :</label>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+        
+        <label for="subject">Objet du mail :</label>
+        <input type="text" id="subject" name="subject" required>
+        <br><br>
+        
+        <label for="message">Contenu du message :</label>
+        <textarea id="message" name="message" rows="5" required></textarea>
+        <br><br>
+        
+        <button type="submit">Envoyer</button>
+    </form>
+
+</section>
  <!-- ____________________________________________FOOTER_________________________________________________________________________ -->
 <div class="contenaireBackgroundFooter">
  <footer>
