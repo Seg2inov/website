@@ -145,6 +145,16 @@
    }
 
    .columnInformation{
-        display: flex ;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            gap: 8px;
    }
+   .stickyElementcenterColumn {
+        transform: translateY(0%); 
+    }
+    .stickyElementcenterColumn {
+        position: relative;
+        transform: translateY(0%); 
+    }
 }
