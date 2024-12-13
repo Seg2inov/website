@@ -323,7 +323,7 @@
 
 
     <!--_____________________________________Contact _______________________ -->
-<section class="confiance">
+<!--<section class="confiance">
 
     <div class="title">
         <h2>
@@ -334,7 +334,7 @@
 
 
     <form action="send_mail.php" method="POST">
-    <?php wp_nonce_field('envoyer_email', 'email_nonce'); ?>
+    //<?php // wp_nonce_field('envoyer_email', 'email_nonce'); ?>
     
     <label for="email">Votre Email :</label>
     <input type="email" id="email" name="email" required>
@@ -351,7 +351,7 @@
     <button type="submit">Envoyer</button>
 </form>
 
-</section>
+</section> -->
  <!-- ____________________________________________FOOTER_________________________________________________________________________ -->
 <div class="contenaireBackgroundFooter">
  <footer>
