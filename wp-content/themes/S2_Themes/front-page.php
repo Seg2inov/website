@@ -212,7 +212,7 @@
     </div>
 
 
- </section>
+
 
  <div class="swiper">
     <div class="swiper-wrapper contenaireContenaireEvenement">
@@ -265,8 +265,8 @@
     <div class="swiper-pagination"></div>
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
-    <div class="swiper-scrollbar"></div>
   </div>
+  </section>
 
   <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   <script>
@@ -281,9 +281,7 @@
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
       },
-      scrollbar: {
-        el: '.swiper-scrollbar',
-      },
+      
     });
   </script>
 
