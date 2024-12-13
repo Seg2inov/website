@@ -1,6 +1,6 @@
 <?php
 
-require 'wp-content\themes\S2_Themes\front-page.php';
+include 'wp-content/themes/S2_Themes/send_mail.php';
 
 ?>
 
@@ -335,20 +335,22 @@ require 'wp-content\themes\S2_Themes\front-page.php';
 
 
     <form action="send_mail.php" method="POST">
-        <label for="email">Votre Email :</label>
-        <input type="email" id="email" name="email" required>
-        <br><br>
-        
-        <label for="subject">Objet du mail :</label>
-        <input type="text" id="subject" name="subject" required>
-        <br><br>
-        
-        <label for="message">Contenu du message :</label>
-        <textarea id="message" name="message" rows="5" required></textarea>
-        <br><br>
-        
-        <button type="submit">Envoyer</button>
-    </form>
+    <?php wp_nonce_field('envoyer_email', 'email_nonce'); ?>
+    
+    <label for="email">Votre Email :</label>
+    <input type="email" id="email" name="email" required>
+    <br><br>
+    
+    <label for="subject">Objet du mail :</label>
+    <input type="text" id="subject" name="subject" required>
+    <br><br>
+    
+    <label for="message">Contenu du message :</label>
+    <textarea id="message" name="message" rows="5" required></textarea>
+    <br><br>
+    
+    <button type="submit">Envoyer</button>
+</form>
 
 </section>
  <!-- ____________________________________________FOOTER_________________________________________________________________________ -->

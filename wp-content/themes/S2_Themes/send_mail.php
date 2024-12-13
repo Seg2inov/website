@@ -23,4 +23,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 } else {
     echo "Méthode de requête non valide.";
 }
+
+
+include get_template_directory() . '/front-page.php';
 ?>
+
+
