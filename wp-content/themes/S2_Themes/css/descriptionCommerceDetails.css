@@ -56,3 +56,11 @@ summary{
         margin-bottom: 78px;
     }
 }
+
+summary::-webkit-details-marker {
+    display: none;
+ }
+ 
+ details[open] summary::-webkit-details-marker {
+    display: none;
+ }
