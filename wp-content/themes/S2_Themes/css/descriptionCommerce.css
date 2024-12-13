@@ -156,5 +156,9 @@
     .stickyElementcenterColumn {
         position: relative;
         transform: translateY(0%); 
+        top: 0%;
+    }
+    .alltime{
+        transform: translateY(0);
     }
 }
