@@ -262,7 +262,7 @@
         </div>
     </div>
     </div>
-    <div class="swiper-pagination"></div>
+
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
   </div>
@@ -275,10 +275,7 @@
             loop: true,
             slidesPerView: 1, // Par défaut
             spaceBetween: 20, // Espacement entre les slides
-            pagination: {
-                el: '.swiper-pagination',
-                clickable: true,
-            },
+ 
             navigation: {
                 nextEl: '.swiper-button-next',
                 prevEl: '.swiper-button-prev',
