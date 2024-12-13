@@ -214,12 +214,12 @@
 
 
 
-   
+   <div class="swiper">
         
 
-        <div class="contenaireContenaireEvenement">
+        <div class="contenaireContenaireEvenement  swiper-wrapper">
 
-            <div class="contenaireFicheEvenement">
+            <div class="contenaireFicheEvenement swiper-slide">
                 <div class="partIllustration">
                     <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\sirha.PNG" alt="techforRetail">
                     <div class="gradiantEvent"></div>
@@ -229,7 +229,7 @@
                 <a  class="voirPlusDetailButton" href="https://www.sirha-lyon.com/fr" ><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
             </div>
 
-            <div class="contenaireFicheEvenement">
+            <div class="contenaireFicheEvenement swiper-slide">
                 <div class="partIllustration">
                     <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\techforRetail.webp" alt="techforRetail">
                     <div class="gradiantEvent"></div>
@@ -240,7 +240,7 @@
             </div>
 
 
-        <div class="contenaireFicheEvenement">
+        <div class="contenaireFicheEvenement swiper-slide">
             <div class="partIllustration">
                 <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\commerceinnov.webp" alt="commerceinnov">
                 <div class="gradiantEvent"></div>
@@ -251,7 +251,7 @@
         </div>
 
 
-        <div class="contenaireFicheEvenement">
+        <div class="contenaireFicheEvenement swiper-slide">
             <div class="partIllustration">
                 <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\frenchteck.webp" alt="frenchteck">
                 <div class="gradiantEvent"></div>
@@ -262,6 +262,16 @@
         </div>
 
 
+    </div>
+            <!-- Pagination -->
+        <div class="swiper-pagination"></div>
+
+        <!-- Navigation -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
+        <!-- Scrollbar (optionnel) -->
+        <div class="swiper-scrollbar"></div>
     </div>
  </section>
 
@@ -315,4 +325,36 @@
     </footer>
     <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
 </div>
+<script src="assets/js/swiper-bundle.min.js"></script>
+Swiper avec JavaScript
+Ajoutez un script pour configurer et initialiser Swiper. Par exemple, dans une balise <script> ou dans un fichier JS séparé :
+
+html
+Copier le code
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const swiper = new Swiper('.swiper', {
+      // Paramètres optionnels
+      direction: 'horizontal', // 'vertical' pour un défilement vertical
+      loop: true,
+
+      // Pagination
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+
+      // Flèches de navigation
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+
+      // Scrollbar (optionnelle)
+      scrollbar: {
+        el: '.swiper-scrollbar',
+      },
+    });
+  });
+</script>
 </html>

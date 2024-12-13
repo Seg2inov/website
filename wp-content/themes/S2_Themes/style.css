@@ -22,6 +22,7 @@ Text Domain: s2_theme
 @import url('css/voirPlusDetails.css');
 @import url('css/confiance.css');
 @import url('css/footer.css');
+@import url('css/swiper-bundle.min.css');
 
 html, body {
     background-color: #F5F5F7;

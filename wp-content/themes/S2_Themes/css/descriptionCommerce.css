@@ -152,6 +152,7 @@
    }
    .stickyElementcenterColumn {
         transform: translateY(0%); 
+        margin-bottom: 24px;
     }
     .stickyElementcenterColumn {
         position: relative;

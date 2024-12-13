@@ -67,3 +67,10 @@
     margin-left: 14px;
     margin-right: 14px;
 }
+
+.swiper {
+    width: 100%; /* Adapte la largeur au conteneur parent */
+    max-width: 600px; /* Limite à une largeur de 600px */
+    height: 300px; /* Hauteur de 300px */
+    margin: auto; /* Centrage horizontal */
+  }
