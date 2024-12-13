@@ -12,8 +12,8 @@ header{
     overflow: hidden;
 }
 
-header img{
-    height: fit-content;
+.logo{
+    height: auto;
     width: fit-content;
 }
 
