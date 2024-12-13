@@ -100,14 +100,15 @@
 
 <section class="descriptionCommerce">
     <div class="columnInformation">
-        <div class=""></div>
-        <h3>Complète</h3>
-        <p>CLIENT</p>
-        <p>FOURNISSEUR</p>
-        <p>PRODUIT</p>
-        <p>STOCKS</p>
-        <p>ANALYSE</p>
-        <p>COMMERCIAL</p>
+        <div class="">
+            <h3>Complète</h3>
+            <p>CLIENT</p>
+            <p>FOURNISSEUR</p>
+            <p>PRODUIT</p>
+            <p>STOCKS</p>
+            <p>ANALYSE</p>
+            <p>COMMERCIAL</p>
+        </div>
         <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\complete.webp" alt="illustration">
     </div>
 
@@ -138,12 +139,14 @@
     
     <div class="columnInformation everywhere">
         <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\partout.webp" alt="illustration">
-        <h3>Partout</h3>
-        <p>À VOTRE COMMERCE</p>
-        <p>CHEZ VOUS</p>
-        <p>EN VACANCES</p>
-        <p>EN SALLE D’ATTENTE</p>
-        <p>DANS LES TRANSPORTS </p>
+        <div class="">
+            <h3>Partout</h3>
+            <p>À VOTRE COMMERCE</p>
+            <p>CHEZ VOUS</p>
+            <p>EN VACANCES</p>
+            <p>EN SALLE D’ATTENTE</p>
+            <p>DANS LES TRANSPORTS </p>
+        </div>
     </div>
 
 </section>
