@@ -270,27 +270,27 @@
 
   <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   <script>
-    const swiper = new Swiper('.swiper', {
-        direction: 'horizontal',
-        loop: true,
-        slidesPerView: 4, 
-        spaceBetween: 20, // Espacement entre les slides
-        pagination: {
-            el: '.swiper-pagination',
-            clickable: true,
-        },
-        navigation: {
-            nextEl: '.swiper-button-next',
-            prevEl: '.swiper-button-prev',
-        },
-        breakpoints: {
-            1200: {
-            slidesPerView: 2, // Réduire à 2 éléments
+        const swiper = new Swiper('.swiper', {
+            direction: 'horizontal',
+            loop: true,
+            slidesPerView: 3, // Par défaut
+            spaceBetween: 20, // Espacement entre les slides
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
             },
-            700: {
-            slidesPerView: 1, // Réduire à 2 éléments
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+            breakpoints: {
+                1200: {
+                    slidesPerView: 2, // 2 slides pour les écrans inférieurs à 1200px
+                },
+                700: {
+                    slidesPerView: 1, // 1 slide pour les écrans inférieurs à 700px
+                }
             }
-        }
         });
   </script>
 

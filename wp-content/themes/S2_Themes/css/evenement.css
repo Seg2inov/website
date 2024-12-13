@@ -71,6 +71,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-shrink: 0;
 }
 
 .swiper-pagination {
@@ -82,4 +83,7 @@
     .swiper-pagination {
       bottom: 72px; /* Déplace les points plus bas */
     }
+  }
+  .swiper-wrapper {
+    display: flex;
   }
