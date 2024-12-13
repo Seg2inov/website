@@ -1,6 +1,5 @@
 <?php
 
-include 'wp-content/themes/S2_Themes/send_mail.php';
 
 ?>
 
