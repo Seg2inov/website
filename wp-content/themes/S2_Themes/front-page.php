@@ -238,7 +238,8 @@
                 <a  class="voirPlusDetailButton" href="https://www.techforretail.com/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
             </div>
       </div>
-      <div class="swiper-slide"> <div class="contenaireFicheEvenement ">
+      <div class="swiper-slide"> 
+        <div class="contenaireFicheEvenement ">
             <div class="partIllustration">
                 <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\commerceinnov.webp" alt="commerceinnov">
                 <div class="gradiantEvent"></div>
@@ -246,6 +247,7 @@
             <p class="titleFiche">Commerce Innov </p>
             <p>Le salon Commerce Innov du 18 novembre 2024 au Palais de la Bourse a été une expérience enrichissante pour nous. L’événement nous a permis de présenter nos solutions de gestion de caisse et de recueillir des retours constructifs, renforçant notre position dans le secteur des innovations pour le commerce.</p>
             <a  class="voirPlusDetailButton" href="https://www.bordeauxgironde.cci.fr/Bordeaux-Commerce-Innov"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+        </div>
         </div>
         <div class="swiper-slide">
         <div class="contenaireFicheEvenement ">
@@ -256,7 +258,7 @@
             <p class="titleFiche" >French tech Night 2024 </p>
             <p>La French Tech Night aux Bassins des Lumières a permis à Seg2Inov de mettre en valeur ses solutions dans un cadre unique. Cette expérience a contribué à renforcer notre ancrage dans l’écosystème local et à affirmer notre approche innovante et accessible.</p>
             <a  class="voirPlusDetailButton" href="https://www.frenchtechbordeaux.com/event/french-tech-night-2024/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-        </div>
+        
         </div>
     </div>
     </div>
