@@ -263,8 +263,8 @@
     </div>
     </div>
     <div class="swiper-pagination"></div>
-    <div class="swiper-button-next"> <img src="\assets\arrow\small.svg" alt="next"></div>
-    <div class="swiper-button-prev"><img src="\assets\arrow\smallleft.svg" alt="previous"></div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
   </div>
   </section>
 
