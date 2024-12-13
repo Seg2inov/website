@@ -135,7 +135,7 @@
 @media screen and (max-width: 690px) {
    .descriptionCommerce{
         width: 100%;
-        height: 150vh;
+        height: fit-content;
         padding-left: 8vw;
         padding-right: 8vw;
         display: flex;
@@ -163,7 +163,20 @@
         flex-direction: column;
     }
 
+    .alltime .three{
+        max-height: 140px;
+    }
+
     .centerColumn{
         width: 100%;
     }
+    .contenaireHoraire{
+        display: flex;
+        gap: 8px;
+    }
+    .descriptionCommerce .commerceillustration {
+
+        height: 100%;
+    }
+
 }
