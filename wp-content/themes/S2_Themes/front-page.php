@@ -285,7 +285,7 @@
             },
             breakpoints: {
                 
-                1000: {
+                1200: {
                     slidesPerView: 3, // 1 slide pour les écrans inférieurs à 700px
                 }
             }

@@ -88,6 +88,11 @@
     border-radius: 10px;
 }
 
+.contenaireHoraire{
+    display: flex;
+    gap: 8px;
+}
+
 @media screen and (max-width: 1030px) {
     .stickyElementcenterColumn{
         transform: translateY(-80%);
@@ -169,10 +174,7 @@
     .centerColumn{
         width: 100%;
     }
-    .contenaireHoraire{
-        display: flex;
-        gap: 8px;
-    }
+
     .descriptionCommerce .commerceillustration {
 
         height: 100%;
