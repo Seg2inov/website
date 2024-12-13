@@ -1,6 +1,6 @@
 <?php
 
-include 'wp-content\themes\S2_Themes\front-page.php';
+require 'wp-content\themes\S2_Themes\front-page.php';
 
 ?>
 
