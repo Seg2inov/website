@@ -1,6 +1,6 @@
 <?php
 
-include '/send_mail.php';
+include 'wp-content\themes\S2_Themes\front-page.php';
 
 ?>
 
@@ -333,7 +333,7 @@ include '/send_mail.php';
         <h2 class="part2Title">- projet ensemble    </h2>
     </div>
 
-    
+
     <form action="send_mail.php" method="POST">
         <label for="email">Votre Email :</label>
         <input type="email" id="email" name="email" required>
