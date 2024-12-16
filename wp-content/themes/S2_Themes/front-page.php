@@ -47,7 +47,7 @@
 <!-- ____________________________________________Hero__________________________________________________________________________ -->
 
 <div class="opensite">
-<img class="logo"src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant">
+<a href="/"><img class="logo"src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant"></a>
 </div>
 
 
@@ -174,35 +174,35 @@
     <div class="contenantDetails">
         <details  >
             <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"><p>Client</p></summary>
-           <p class="margintop">Création et gestion des fiches clients</p>
-           <p>Système de fidélité</p>
+           <p class="element margintop">Création et gestion des fiches clients</p>
+           <p  class="element">Système de fidélité</p>
         </details>
         <details>
             <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"><p>Fournisseur </p></summary>
-           <p class="margintop">Gestion des commandes et des achats</p>
+           <p class=" element margintop">Gestion des commandes et des achats</p>
         </details>
         <details>
             <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"> <p>Produit </p></summary>
-           <p class="margintop">Gestion et  classification des produits par rayon, par famille </p>
-           <p>Création d’étiquettes</p>
+           <p class="element margintop">Gestion et  classification des produits par rayon, par famille </p>
+           <p  class="element">Création d’étiquettes</p>
         </details>
         <details>
             <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"> <p>Stocks </p></summary>
            <p class="margintop">Réalisation d’inventaire</p>
-           <p>Gestion des mouvements</p>
+           <p  class="element">Gestion des mouvements</p>
         </details>
         <details>
             <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"> <p> Analyse </p></summary>
-           <p class="margintop">Produit et groupes de produits</p>
-           <p>Chiffre D’affaire (CA) </p>
-           <p>Ventes et marges</p>
-           <p>Taxe sur la valeur ajoutée (tva)</p>
+           <p class=" element margintop">Produit et groupes de produits</p>
+           <p class="element">Chiffre D’affaire (CA) </p>
+           <p class="element">Ventes et marges</p>
+           <p class="element">Taxe sur la valeur ajoutée (tva)</p>
         </details>
         <details>
             <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"><p> Commercial </p></summary>
-           <p class="margintop">Création des devis</p>
-           <p>Création  et suivi des commandes client</p>
-           <p>Gestion des factures </p>
+           <p class="element margintop">Création des devis</p>
+           <p  class="element">Création  et suivi des commandes client</p>
+           <p  class="element">Gestion des factures </p>
         </details>
 
     </div>
@@ -373,8 +373,8 @@
             </div>
         </div>
     <div class="linkunderfooter">
-    <img class="logo" src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov">
-    <p class="mention">Tous droits réservés à SEG2INOV  - <a href="/<?php echo get_stylesheet_directory_uri(); ?>/mentions-legales/"><p>Mentions légales</p></a> </p>
+        <img class="logo" src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov">
+       <div> <p class="mention">Tous droits réservés à SEG2INOV  - <a href="/<?php echo get_stylesheet_directory_uri(); ?>/mentions-legales/"><p>Mentions légales</p></a> </p> </div>
     </div>
     </footer>
     <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
