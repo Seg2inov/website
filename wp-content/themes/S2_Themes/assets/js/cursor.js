@@ -1,4 +1,5 @@
 // Cursor
+console.log('script find')
 const Cursor = (() => {
 
     const cursorArea  = document.querySelector('.cursor');
