@@ -33,10 +33,6 @@
     <link rel="stylesheet" href="wp-content\themes\S2_Themes\style.css">
 </head>
 <body>
-    
-</body>
-
-
 
 <!-- ____________________________________________HEADER__________________________________________________________________________ -->
     <header>
@@ -385,5 +381,6 @@
     <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
 </div>
 <script src="\assets\js\swiper-bundle.min.js"></script>
-
+    
+</body>
 </html>
