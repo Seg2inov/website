@@ -18,10 +18,10 @@
     <body>
 
     <header>
-        <a href="/"><img class="logo"src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant"></a>
+        <a href="/"><img class="logo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant"></a>
         <div class="">
             <!-- Se connecter -->
-             <a href="mailto:contact@seg2inov.com" class="blackButton"><p>Discutons de votre projet</p> <img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
+             <a href="mailto:contact@seg2inov.com" class="blackButton"><p>Discutons de votre projet</p> <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\topright.svg" alt="Clique"></a>
         </div>
     </header>
     <div class="blurDiv"></div>
@@ -84,102 +84,20 @@
             </div>
             <div class="">
                 <h3>Où nous trouver ?</h3>
-                <a  class="voirPlusDetailButton" href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-                <a  class="voirPlusDetailButton" href="https://www.instagram.com/seg2inov/"><p>Instagram</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-                <a  class="voirPlusDetailButton" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a> 
+                <a  class="voirPlusDetailButton" href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" href="https://www.instagram.com/seg2inov/"><p>Instagram</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a> 
             </div>
         </div>
     <div class="linkunderfooter">
-    <img class="logo" src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov">
-    <p class="mention">Tous droits réservés à SEG2INOV</p>
-    <!--  - <a href="/wp-content\themes\S2_Themes\mention.php"><p>Mentions légales</p></a> -->
+    <img class="logo" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logoseg2inov.png" alt="Seg2inov">
+    <p class="mention">Tous droits réservés à SEG2INOV  - <a href="/<?php echo get_stylesheet_directory_uri(); ?>/mentions-legales/"><p>Mentions légales</p></a> </p>
+     
     </div>
     </footer>
-    <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
+    <img class="backgroundImg"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\backgroudfooter.png" alt="fond">
 </div>
 
     </body>
 
 </html>
-
-<!-- 
-<style>
-
-@import url('../S2_Themes/css/footer.css');
-@import url('../S2_Themes/css/header.css');
-
-
-
-html, body {
-    background-color: #F5F5F7;
-}
- 
-@font-face {
-    font-family: 'SofiaSans-Medium';
-    src: url('assets/font/SofiaSans-Medium.ttf');
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SofiaSans-Light';
-    src: url('assets/font/SofiaSans-Light.ttf');
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'SofiaSans-Regular';
-    src: url('assets/font/SofiaSans-Regular.ttf');
-    font-display: swap;
-}
-
-
-h1{
-    font-family: 'SofiaSans-Regular';
-    font-size: 36px;
-}
-
-h2{
-    font-family: 'SofiaSans-Regular';
-    font-size: 36px;
-}
-@media screen and (max-width: 405px) {
-    h2{
-        font-size:26px;
-    }
-}
-
-
-p, h5, label, a, details, summary{
-    font-family: 'SofiaSans-Light';
-    font-size: 22px;
-}
-
-article{
-    width: 100%;
-    margin-left: 8vw;
-    margin-right: 8vw;
-}
-
-
-
-.title{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    margin-bottom: 101px;
-}
-
-
-
-
-
-.part2Title{
-    transform: translateX(106%);
-}
-@media screen and (max-width: 520px) {
-    .part2Title{
-        transform: translateX(0%);
-    }
-}
-
-</style> -->
