@@ -24,8 +24,8 @@ details{
     transition: all 500ms ease;
 }
 
-details:hover{
-    background-color: #10417933;
+details:hover summary{
+    padding: 28px;
 }
 
 
