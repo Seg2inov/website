@@ -26,6 +26,7 @@ Text Domain: s2_theme
 @import url('css/openSite.css');
 @import url('css/mention.css');
 @import url('css/contact.css');
+@import url('css/cursor.css');
 
 html, body {
     background-color: #F5F5F7;

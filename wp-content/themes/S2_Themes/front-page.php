@@ -45,6 +45,11 @@
     <div class="blurDiv"></div>
 
 <!-- ____________________________________________Hero__________________________________________________________________________ -->
+<div class="cursor">
+    <div class="cursor__circle cursor__circle--small"></div>
+    <div class="cursor__circle cursor__circle--large"></div>
+</div>
+
 
 <div class="opensite">
     <img class="logo"src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant">

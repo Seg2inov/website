@@ -1,0 +1,35 @@
+.cursor {
+    position: fixed;
+    top: 0;
+    left: 0;
+    pointer-events: none; /* Le curseur n'interfère pas avec les clics */
+    z-index: 100; /* Toujours au-dessus des autres éléments */
+}
+
+.cursor__circle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(-50%, -50%);
+    border-radius: 50%; /* Pour des cercles parfaits */
+    pointer-events: none; /* N'interagit pas avec la souris */
+}
+
+.cursor__circle--small {
+    width: 10px;
+    height: 10px;
+    background-color: var(--color-white, #fff); /* Blanc par défaut */
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Animation douce */
+}
+
+.cursor__circle--large {
+    width: 40px;
+    height: 40px;
+    border: 2px solid var(--color-red, #ff0000); /* Rouge par défaut */
+    opacity: 1; /* Visible par défaut */
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Animation douce */
+}
+
+.cursor-hide {
+    display: none; /* Cache le curseur si désactivé */
+}
