@@ -44,3 +44,26 @@
         width: 100%;
     }
 }
+
+@media screen and (max-width: 385px) {
+    .whiteButton{
+        padding: 12px;
+    }
+    .whiteButton:hover{
+        padding-right: 8px;
+    }
+}
+
+
+@media screen and (max-width: 335px) {
+    .whiteButton{
+        padding: 8px;
+    }
+    .whiteButton:hover{
+        padding-right: 4px;
+    }
+
+    .whiteButton p{
+        font-size: 18px;
+    }
+}
