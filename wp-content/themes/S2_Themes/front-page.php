@@ -384,6 +384,7 @@
     <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
 </div>
 <script src="\assets\js\swiper-bundle.min.js"></script>
+<script src="\assets\js\cursor.js"></script>
     
 </body>
 </html>
