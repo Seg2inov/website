@@ -7,9 +7,10 @@
 }
 
 .confiance a{
-    width:100%;
-    height:100%;
+    width: fit-content;
+    height: fit-content;
 }
+
 .ImageContenaire{
     display: flex;
     width: 100%;
@@ -22,7 +23,7 @@
 .confiance img{
     max-width: 262.32px;
     height: auto;
-    width: 15%;
+    width: 140px;
 }
 
 
@@ -35,7 +36,7 @@
     .confiance img{
         max-width: 262.32px;
         height: auto;
-        width: 25%;
+        width: 100px;
     }
 }
 
