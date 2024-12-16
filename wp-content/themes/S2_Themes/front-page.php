@@ -36,7 +36,7 @@
 
 <!-- ____________________________________________HEADER__________________________________________________________________________ -->
     <header>
-        <img class="logo"src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant">
+    <a href="/"><img class="logo"src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant"></a>
         <div class="">
             <!-- Se connecter -->
              <a href="/contact/" class="blackButton"><p>Discutons de votre projet</p> <img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
@@ -47,9 +47,8 @@
 <!-- ____________________________________________Hero__________________________________________________________________________ -->
 
 <div class="opensite">
-<a href="/"><img class="logo"src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant"></a>
+    <img class="logo"src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant">
 </div>
-
 
 <section class="hero">
     <div class="titlep">
