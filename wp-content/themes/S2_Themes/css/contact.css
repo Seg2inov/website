@@ -13,11 +13,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    transition: 500ms ease-in-out;
+    margin-bottom: 24px;
 }
 
 .partClique{
     display: flex;
     gap: 32px;
+    align-items: center ;
 }
 
 .small{
@@ -28,3 +31,7 @@
     width: 100%;
 }
 
+
+.whiteButton:hover{
+    padding-right: 24px;
+}

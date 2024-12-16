@@ -73,13 +73,13 @@
                 </div>
             </a>
             <a href="https://www.instagram.com/seg2inov/">
-                <div class="samll whiteButton">
+                <div class="small whiteButton">
                     <p>Instagram</p>
                     <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\right.svg" alt="clique tel">
                 </div>
             </a>
             <a href="https://www.facebook.com/people/Seg2inov/61562257696981/">
-                <div class="samll whiteButton">
+                <div class="small whiteButton">
                     <p>Facebook</p>
                     <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\right.svg" alt="clique tel">
                 </div>
