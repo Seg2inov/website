@@ -45,10 +45,7 @@
     <div class="blurDiv"></div>
 
 <!-- ____________________________________________Hero__________________________________________________________________________ -->
-<div class="cursor">
-    <div class="cursor__circle cursor__circle--small"></div>
-    <div class="cursor__circle cursor__circle--large"></div>
-</div>
+
 
 
 <div class="opensite">
