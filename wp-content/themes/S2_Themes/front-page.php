@@ -52,7 +52,7 @@
 
 <section class="hero">
     <div class="titlep">
-        <h1>Découvrez SEG2INOV </h1>
+        <h1>Découvrez SEG2 INOV </h1>
         <p> Nous concevons des logiciels de caisse innovants, spécialement adaptés aux commerces alimentaires et aux systèmes de pesée avec balances intégrées. Simples, fiables et pensés pour votre activité, nos solutions vous accompagnent au quotidien pour optimiser votre gestion et gagner en efficacité.</p>
 
         <div class="button">
