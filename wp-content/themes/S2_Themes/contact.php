@@ -47,7 +47,7 @@
             </a>
             <a href="tel:+0970702696">
                 <div class="big whiteButton">
-                    <p>09 70 70 36 96</p>
+                    <p>09 70 70 26 96</p>
                     <div class="partClique">
                         <p>Appeler</p>
                         <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\right.svg" alt="clique tel">
