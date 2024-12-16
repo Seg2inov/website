@@ -167,7 +167,7 @@
             Une prise en main
             
         </h2>
-        <h2 class="part2Title">- De <span class="bold">A</span> à <span class="bold">Z</span> </h2>
+        <h2 class="part2Title">- de <span class="bold">A</span> à <span class="bold">Z</span> </h2>
     </div>
     
     <div class="contenantDetails">
@@ -299,7 +299,7 @@
 
     <div class="title">
         <h2>
-            ils nous font
+            Ils nous font
         </h2>
         <h2 class="part2Title">- confiance  </h2>
     </div>

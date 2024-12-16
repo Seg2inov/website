@@ -31,7 +31,7 @@
         <article>
             <div class="title">
                 <h2>
-                    Mention
+                    Mentions
                 </h2>
                 <h2 class="part2Title">- lègales  </h2>
             </div>

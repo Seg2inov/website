@@ -62,7 +62,7 @@
                 <h2>
                     Nos réseaux
                 </h2>
-                <h2 class="part2Title">- Sociaux   </h2>
+                <h2 class="part2Title">- sociaux   </h2>
             </div>
 
 
