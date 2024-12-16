@@ -69,7 +69,6 @@
 
             </p>
 
-            <img src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2 Inov">
         </article>
         <div class="contenaireBackgroundFooter">
  <footer>
