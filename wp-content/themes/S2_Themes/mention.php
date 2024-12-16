@@ -9,7 +9,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Seg2inov</title>
+        <title>Seg2inov - Mention lègales</title>
         <meta name="description" content="Seg2Inov propose des logiciels de caisse innovants, spécialement conçus pour le commerce alimentaire et les systèmes de pesée. Simplifiez votre gestion et boostez votre efficacité avec nos solutions adaptées.">
         <meta name="keywords" content="seg2inov, seg2 inov, seg 2 inov, logiciel de caisse, caisse, alimentaire, commerce alimentaire, logiciel de caisse pour épicerie, pesée, balances, solutions de gestion, gestion, ia, ai, intelligence artificiel, logiciel de caisse innovant, innovant, innovation, produit, client, fournisseurs, fournisseur, client, analyse, ticket, caisse, adaptable, fiable">
         <meta name="robots" content="index, follow">
