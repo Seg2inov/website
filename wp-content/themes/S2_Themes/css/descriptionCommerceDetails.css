@@ -7,6 +7,11 @@
 
 }
 
+.descriptionCommerceDetails a{
+    width: fit-content;
+    height: fit-content;
+}
+
 details img{
     transition: 500ms;
 }
@@ -47,6 +52,8 @@ summary{
 
 .margintop{
     margin-top: 12px;
+    margin-left: 24px;
+    margin-bottom: 12px;
 }
 
 

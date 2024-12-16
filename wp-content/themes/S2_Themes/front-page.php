@@ -310,15 +310,15 @@
     </div>
 
     <div class="ImageContenaire">
-        <img src="wp-content\themes\S2_Themes\assets\logo\frenchteck.png" alt="logo de la frenchteck">
-        <img src="wp-content\themes\S2_Themes\assets\logo\pep.png" alt="logo de la pepiniére bordeaux chartron">
-        <img src="wp-content\themes\S2_Themes\assets\logo\aures.png" alt="logo d'aures">
-        <img src="wp-content\themes\S2_Themes\assets\logo\avery-berkel.png" alt="logo d'avery berkel">
-        <img src="wp-content\themes\S2_Themes\assets\logo\Bizerba.png" alt="logo de Bizerba">
-        <img src="wp-content\themes\S2_Themes\assets\logo\l_precia-molen.png" alt="logo de  preciamolen">
-        <img src="wp-content\themes\S2_Themes\assets\logo\Mettler_Toledo.png" alt="logo de Mettler_Toledo">
-        <img src="wp-content\themes\S2_Themes\assets\logo\ncpi.png" alt="logo de ncpi">
-        <img src="wp-content\themes\S2_Themes\assets\logo\oxhoo.png" alt="logo de oxhoo">
+        <a href="https://www.frenchtechbordeaux.com/"><img src="wp-content\themes\S2_Themes\assets\logo\frenchteck.png" alt="logo de la frenchteck"></a>
+        <a href="https://www.pepiniere-chartrons.fr/"><img src="wp-content\themes\S2_Themes\assets\logo\pep.png" alt="logo de la pepiniére bordeaux chartron"></a>
+        <a href="https://www.advantech-aures.com/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\aures.png" alt="logo d'aures"></a>
+        <a href="https://www.averyberkel.com/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\avery-berkel.png" alt="logo d'avery berkel"></a>
+        <a href="https://www.bizerba.com/fr/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\Bizerba.png" alt="logo de Bizerba"></a>
+        <a href="https://fr.preciamolen.com/"><img src="wp-content\themes\S2_Themes\assets\logo\l_precia-molen.png" alt="logo de  preciamolen"></a>
+        <a href="https://www.mt.com/fr/fr/home.html"><img src="wp-content\themes\S2_Themes\assets\logo\Mettler_Toledo.png" alt="logo de Mettler_Toledo"></a>
+        <a href="http://ncpi.fr/"><img src="wp-content\themes\S2_Themes\assets\logo\ncpi.png" alt="logo de ncpi"></a>
+        <a href="https://oxhoo.com/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\oxhoo.png" alt="logo de oxhoo"></a>
     </div>
 
  </section>
@@ -378,7 +378,8 @@
         </div>
     <div class="linkunderfooter">
     <img class="logo" src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov">
-    <p class="mention">Tous droits réservés à SEG2INOV - <a href="/wp-content\themes\S2_Themes\mention.php"><p>Mentions légales</p></a></p>
+    <p class="mention">Tous droits réservés à SEG2INOV</p>
+    <!--  - <a href="/wp-content\themes\S2_Themes\mention.php"><p>Mentions légales</p></a> -->
     </div>
     </footer>
     <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
