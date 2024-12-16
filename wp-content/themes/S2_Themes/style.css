@@ -25,6 +25,7 @@ Text Domain: s2_theme
 @import url('css/swiper-bundle.min.css');
 @import url('css/openSite.css');
 @import url('css/mention.css');
+@import url('css/contact.css');
 
 html, body {
     background-color: #F5F5F7;

@@ -1,0 +1,30 @@
+.talk, .reseau{
+    width: 100%;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.whiteButton{
+    border-radius: 50px;
+    background-color: white;
+    padding: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.partClique{
+    display: flex;
+    gap: 32px;
+}
+
+.small{
+    max-width: 435px;
+}
+
+.big{
+    width: 100%;
+}
+
