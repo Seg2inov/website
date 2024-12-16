@@ -187,7 +187,7 @@
         </details>
         <details>
             <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"> <p>Stocks </p></summary>
-           <p class="margintop">Réalisation d’inventaire</p>
+           <p class="element margintop">Réalisation d’inventaire</p>
            <p  class="element">Gestion des mouvements</p>
         </details>
         <details>
