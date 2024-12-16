@@ -33,5 +33,6 @@
     <link rel="stylesheet" href="wp-content\themes\S2_Themes\style.css">
 </head>
 <body>
+
 </body>
 </html>
