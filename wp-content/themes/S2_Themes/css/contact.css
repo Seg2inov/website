@@ -35,3 +35,12 @@
 .whiteButton:hover{
     padding-right: 24px;
 }
+
+@media screen and (max-width: 710px) {
+    .partClique p{
+        display: none;
+    }
+    .small{
+        width: 100%;
+    }
+}
