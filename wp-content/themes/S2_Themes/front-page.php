@@ -62,7 +62,7 @@
             <!-- Se connecter -->
         </div>
     </div>
-    <img class="heroIllustration" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\hero.png" alt="illustration">
+    <img class="heroIllustration" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\hero.webp" alt="illustration">
 </section>
 
 <!-- ____________________________________________Description__________________________________________________________________________ -->
