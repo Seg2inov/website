@@ -117,7 +117,7 @@
 <section class="descriptionCommerce">
     <div class="columnInformation">
         <div class="">
-            <h3>TOUTES LES FONCTIONNALITÉS</h3>
+            <h3>Toutes les fonctionnalités</h3>
             <p>ACCESSIBLE SUR </p>
             <p>ORDINATEUR</p>
             <p>TABLETTE</p>
