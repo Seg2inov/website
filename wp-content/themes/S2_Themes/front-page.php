@@ -58,7 +58,7 @@
         <p> Nous concevons des logiciels de caisse innovants, spécialement adaptés aux commerces alimentaires et aux systèmes de pesée avec balances intégrées. Simples, fiables et pensés pour votre activité, nos solutions vous accompagnent au quotidien pour optimiser votre gestion et gagner en efficacité.</p>
 
         <div class="button">
-            <a class="blackButton" href="/contact/"><p>contactez-nous </p><img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
+            <a class="blackButton" href="/contact/"><p>Contactez-nous </p><img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
             <!-- Se connecter -->
         </div>
     </div>
@@ -97,6 +97,15 @@
                 <p>Tickets </p>
                 <!-- Voir plus de détails -->
             </div>
+            <div class="">
+                <h3>Complète</h3>
+                <p>Client</p>
+                <p>Fournisseur</p>
+                <p>Produit</p>
+                <p>Stocks</p>
+                <p>Analyse</p>
+                <p>Commerce</p>
+        </div>
         </div>
     </div>
 </section>
@@ -108,20 +117,17 @@
 <section class="descriptionCommerce">
     <div class="columnInformation">
         <div class="">
-            <h3>Complète</h3>
-            <p>CLIENT</p>
-            <p>FOURNISSEUR</p>
-            <p>PRODUIT</p>
-            <p>STOCKS</p>
-            <p>ANALYSE</p>
-            <p>COMMERCIAL</p>
+            <h3>TOUTES LES FONCTIONNALITÉS</h3>
+            <p>ACCESSIBLE SUR </p>
+            <p>ORDINATEUR</p>
+            <p>TABLETTE</p>
         </div>
         <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\complete.webp" alt="illustration">
     </div>
 
     <div class="centerColumn everytimeColumn ">
-        <h2>Une gestion de votre commerce</h2>
         <div class="stickyElementcenterColumn">
+            <h2>UNE GESTION DE VOTRE COMMERCE</h2>
             <img class="destop" src="wp-content\themes\S2_Themes\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre logiciel dessus">
         </div>
         <div class="alltime columnInformation">
@@ -231,7 +237,7 @@
                 </div>
                 <p class="titleFiche">Sirha Lyon</p>
                 <p>Du 19 au 23 janvier 2025, nous serons au Sirha Lyon, un rendez-vous majeur pour les acteurs du Food Service et de l’hospitalité. Cette participation, aux côtés de notre partenaire PRECIA MOLEN, sera l’occasion de présenter nos solutions et de renforcer notre collaboration dans un secteur en pleine évolution.</p>
-                <a  class="voirPlusDetailButton" href="https://www.sirha-lyon.com/fr" ><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" target="_blank" href="https://www.sirha-lyon.com/fr" ><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
             </div>
       </div>
       <div class="swiper-slide">
@@ -242,7 +248,7 @@
                 </div>
                 <p class="titleFiche">Tech For Retail</p>
                 <p>Le 26 et 27 novembre 2024, nous étions présents au salon Tech for Retail, le grand événement européen qui réinvente le retail avec un focus sur les innovations technologiques et éco-responsables.</p>
-                <a  class="voirPlusDetailButton" href="https://www.techforretail.com/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" target="_blank"  href="https://www.techforretail.com/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
             </div>
       </div>
       <div class="swiper-slide"> 
@@ -253,7 +259,7 @@
             </div>
             <p class="titleFiche">Commerce Innov </p>
             <p>Le salon Commerce Innov du 18 novembre 2024 au Palais de la Bourse a été une expérience enrichissante pour nous. L’événement nous a permis de présenter nos solutions de gestion de caisse et de recueillir des retours constructifs, renforçant notre position dans le secteur des innovations pour le commerce.</p>
-            <a  class="voirPlusDetailButton" href="https://www.bordeauxgironde.cci.fr/Bordeaux-Commerce-Innov"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+            <a  class="voirPlusDetailButton" target="_blank" href="https://www.bordeauxgironde.cci.fr/Bordeaux-Commerce-Innov"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
         </div>
         </div>
         <div class="swiper-slide">
@@ -263,8 +269,8 @@
                 <div class="gradiantEvent"></div>
             </div>
             <p class="titleFiche" >French tech Night 2024 </p>
-            <p>La French Tech Night aux Bassins des Lumières a permis à Seg2Inov de mettre en valeur ses solutions dans un cadre unique. Cette expérience a contribué à renforcer notre ancrage dans l’écosystème local et à affirmer notre approche innovante et accessible.</p>
-            <a  class="voirPlusDetailButton" href="https://www.frenchtechbordeaux.com/event/french-tech-night-2024/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+            <p>La French Tech Night aux Bassins des Lumières nous a offert l’occasion de présenter nos solutions dans un cadre unique. </p>
+            <a  class="voirPlusDetailButton" target="_blank" href="https://www.frenchtechbordeaux.com/event/french-tech-night-2024/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
         
         </div>
     </div>
@@ -307,15 +313,15 @@
     </div>
 
     <div class="ImageContenaire">
-        <a href="https://www.frenchtechbordeaux.com/"><img src="wp-content\themes\S2_Themes\assets\logo\frenchteck.png" alt="logo de la frenchteck"></a>
-        <a href="https://www.pepiniere-chartrons.fr/"><img src="wp-content\themes\S2_Themes\assets\logo\pep.png" alt="logo de la pepiniére bordeaux chartron"></a>
-        <a href="https://www.advantech-aures.com/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\aures.png" alt="logo d'aures"></a>
-        <a href="https://www.averyberkel.com/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\avery-berkel.png" alt="logo d'avery berkel"></a>
-        <a href="https://www.bizerba.com/fr/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\Bizerba.png" alt="logo de Bizerba"></a>
-        <a href="https://fr.preciamolen.com/"><img src="wp-content\themes\S2_Themes\assets\logo\l_precia-molen.png" alt="logo de  preciamolen"></a>
-        <a href="https://www.mt.com/fr/fr/home.html"><img src="wp-content\themes\S2_Themes\assets\logo\Mettler_Toledo.png" alt="logo de Mettler_Toledo"></a>
-        <a href="http://ncpi.fr/"><img src="wp-content\themes\S2_Themes\assets\logo\ncpi.png" alt="logo de ncpi"></a>
-        <a href="https://oxhoo.com/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\oxhoo.png" alt="logo de oxhoo"></a>
+        <a target="_blank" href="https://www.frenchtechbordeaux.com/"><img src="wp-content\themes\S2_Themes\assets\logo\frenchteck.png" alt="logo de la frenchteck"></a>
+        <a target="_blank" href="https://www.pepiniere-chartrons.fr/"><img src="wp-content\themes\S2_Themes\assets\logo\pep.png" alt="logo de la pepiniére bordeaux chartron"></a>
+        <a target="_blank" href="https://www.advantech-aures.com/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\aures.png" alt="logo d'aures"></a>
+        <a target="_blank" href="https://www.averyberkel.com/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\avery-berkel.png" alt="logo d'avery berkel"></a>
+        <a target="_blank" href="https://www.bizerba.com/fr/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\Bizerba.png" alt="logo de Bizerba"></a>
+        <a target="_blank" href="https://fr.preciamolen.com/"><img src="wp-content\themes\S2_Themes\assets\logo\l_precia-molen.png" alt="logo de  preciamolen"></a>
+        <a target="_blank" href="https://www.mt.com/fr/fr/home.html"><img src="wp-content\themes\S2_Themes\assets\logo\Mettler_Toledo.png" alt="logo de Mettler_Toledo"></a>
+        <a target="_blank" href="http://ncpi.fr/"><img src="wp-content\themes\S2_Themes\assets\logo\ncpi.png" alt="logo de ncpi"></a>
+        <a target="_blank" href="https://oxhoo.com/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\oxhoo.png" alt="logo de oxhoo"></a>
     </div>
 
  </section>
@@ -368,9 +374,9 @@
             </div>
             <div class="">
                 <h3>Où nous trouver ?</h3>
-                <a  class="voirPlusDetailButton" href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-                <a  class="voirPlusDetailButton" href="https://www.instagram.com/seg2inov/"><p>Instagram</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-                <a  class="voirPlusDetailButton" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a> 
+                <a  class="voirPlusDetailButton" target="_blank" href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" target="_blank" href="https://www.instagram.com/seg2inov/"><p>Instagram</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" target="_blank" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a> 
             </div>
         </div>
     <div class="linkunderfooter">
