@@ -127,29 +127,10 @@
 
     <div class="centerColumn everytimeColumn ">
         <div class="stickyElementcenterColumn">
-            <h2>UNE GESTION DE VOTRE COMMERCE</h2>
+            <h2>UNE GESTION DE VOTRE COMMERCE A TOUT MOMENT</h2>
             <img class="destop" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre logiciel dessus">
         </div>
-        <div class="alltime columnInformation">
-        <h3>À toute heure</h3>
-            <div class="horaire">
-                <div class="contenaireHoraire">
-                    <div class="">
-                        <p>00H00</p>
-                        <p>05H12</p>
-                        <p>16H27</p>
-                        <p>20H59</p>
-                    </div>
-                    <div class="">
-                        <p>03H43</p>
-                        <p>10H06</p>
-                        <p>18H11</p>
-                        <p>23H01</p>
-                    </div>
-                </div>
-            </div>
-        <img  class="commerceillustration three" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\atouteheure.webp" alt="illustration">
-    </div>
+        
     </div>
     
     <div class="columnInformation everywhere">
