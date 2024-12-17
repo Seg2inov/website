@@ -17,12 +17,12 @@
 
     <meta property="og:title" content="Seg2Inov">
     <meta property="og:description" content="Découvrez nos solutions de caisse et de pesée adaptées aux commerces alimentaires. Seg2Inov simplifie votre gestion avec des outils innovants et accessibles.">
-    <meta property="og:image" content="wp-content\themes\S2_Themes\assets\img\partout.webp">
+    <meta property="og:image" content="wp-content\themes\S2_Themes\assets\img\partout.png">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Seg2Inov">
     <meta name="twitter:description" content="Simplifiez la gestion de votre commerce alimentaire avec nos logiciels de caisse innovants et nos solutions de pesée.">
-    <meta name="twitter:image" content="wp-content\themes\S2_Themes\assets\img\partout.webp">
+    <meta name="twitter:image" content="wp-content\themes\S2_Themes\assets\img\partout.png">
     <meta property="og:url" content="https://www.seg2inov.eu">
     <meta property="og:type" content="website">
 
@@ -62,7 +62,7 @@
             <!-- Se connecter -->
         </div>
     </div>
-    <img class="heroIllustration" src="wp-content\themes\S2_Themes\assets\img\hero.webp" alt="illustration">
+    <img class="heroIllustration" src="wp-content\themes\S2_Themes\assets\img\hero.png" alt="illustration">
 </section>
 
 <!-- ____________________________________________Description__________________________________________________________________________ -->
@@ -71,7 +71,7 @@
     <h2>UN LOGICIEL AVEC DE NOMBREUSES  FONCTIONNALITÉS</h2>
 
     <div class="scrollzone">
-        <img class="stickyElement" src="wp-content\themes\S2_Themes\assets\img\partout.webp" alt="illustration">
+        <img class="stickyElement" src="wp-content\themes\S2_Themes\assets\img\partout.png" alt="illustration">
         <div class="contentElement">
             <div class="">
                 <h3>Une main sur toutes les données </h3>
@@ -122,7 +122,7 @@
             <p>ORDINATEUR</p>
             <p>TABLETTE</p>
         </div>
-        <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\complete.webp" alt="illustration">
+        <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\complete.png" alt="illustration">
     </div>
 
     <div class="centerColumn everytimeColumn ">
@@ -153,7 +153,7 @@
     </div>
     
     <div class="columnInformation everywhere">
-        <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\partout.webp" alt="illustration">
+        <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\partout.png" alt="illustration">
         <div class="">
             <h3>Partout</h3>
             <p>À VOTRE COMMERCE</p>
