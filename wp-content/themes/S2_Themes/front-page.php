@@ -342,7 +342,7 @@
 
 </section> -->
  <!-- ____________________________________________FOOTER_________________________________________________________________________ -->
-<div class="contenaireBackgroundFooter">
+ <div class="contenaireBackgroundFooter">
  <footer>
      <div class="contenaireFooter">
          <h2>Collaborons ensemble pour une meilleure Optimisation</h2>
@@ -355,14 +355,15 @@
             </div>
             <div class="">
                 <h3>Où nous trouver ?</h3>
-                <a  class="voirPlusDetailButton" target="_blank" href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
-                <a  class="voirPlusDetailButton" target="_blank" href="https://www.instagram.com/seg2inov/"><p>Instagram</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
-                <a  class="voirPlusDetailButton" target="_blank" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a> 
+                <a  class="voirPlusDetailButton" href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" href="https://www.instagram.com/seg2inov/"><p>Instagram</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a> 
             </div>
         </div>
     <div class="linkunderfooter">
-        <img class="logo" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logoseg2inov.png" alt="Seg2inov">
-       <div> <p class="mention">Tous droits réservés à SEG2INOV  - <a href="/<?php echo get_stylesheet_directory_uri(); ?>/mentions-legales/"><p>Mentions légales</p></a> </p> </div>
+    <img class="logo" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logoseg2inov.png" alt="Seg2inov">
+    <p class="mention">Tous droits réservés à SEG2INOV  - <a href="/<?php echo get_stylesheet_directory_uri(); ?>/mentions-legales/"><p>Mentions légales</p></a> </p>
+     
     </div>
     </footer>
     <img class="backgroundImg"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\backgroudfooter.png" alt="fond">
