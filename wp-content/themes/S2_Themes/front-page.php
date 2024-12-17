@@ -120,8 +120,8 @@
     </div>
 
     <div class="centerColumn everytimeColumn ">
+        <h2>Une gestion de votre commerce</h2>
         <div class="stickyElementcenterColumn">
-            <h3>Une gestion de votre commerce</h3>
             <img class="destop" src="wp-content\themes\S2_Themes\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre logiciel dessus">
         </div>
         <div class="alltime columnInformation">
