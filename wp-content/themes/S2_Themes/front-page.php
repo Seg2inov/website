@@ -17,12 +17,12 @@
 
     <meta property="og:title" content="Seg2Inov">
     <meta property="og:description" content="Découvrez nos solutions de caisse et de pesée adaptées aux commerces alimentaires. Seg2Inov simplifie votre gestion avec des outils innovants et accessibles.">
-    <meta property="og:image" content="wp-content\themes\S2_Themes\assets\img\partout.png">
+    <meta property="og:image" content="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\partout.png">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Seg2Inov">
     <meta name="twitter:description" content="Simplifiez la gestion de votre commerce alimentaire avec nos logiciels de caisse innovants et nos solutions de pesée.">
-    <meta name="twitter:image" content="wp-content\themes\S2_Themes\assets\img\partout.png">
+    <meta name="twitter:image" content="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\partout.png">
     <meta property="og:url" content="https://www.seg2inov.eu">
     <meta property="og:type" content="website">
 
@@ -30,16 +30,16 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="wp-content\themes\S2_Themes\style.css">
+    <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>\style.css">
 </head>
 <body>
 
 <!-- ____________________________________________HEADER__________________________________________________________________________ -->
     <header>
-    <a href="/"><img class="logo"src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant"></a>
+    <a href="/"><img class="logo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant"></a>
         <div class="">
             <!-- Se connecter -->
-             <a href="/contact/" class="blackButton"><p>Discutons de votre projet</p> <img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
+             <a href="/contact/" class="blackButton"><p>Discutons de votre projet</p> <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\topright.svg" alt="Clique"></a>
         </div>
     </header>
     <div class="blurDiv"></div>
@@ -49,7 +49,7 @@
 
 
 <div class="opensite">
-    <img class="logo"src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant">
+    <img class="logo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logoseg2inov.png" alt="Seg2inov le commerce innovant">
 </div>
 
 <section class="hero">
@@ -58,11 +58,11 @@
         <p> Nous concevons des logiciels de caisse innovants, spécialement adaptés aux commerces alimentaires et aux systèmes de pesée avec balances intégrées. Simples, fiables et pensés pour votre activité, nos solutions vous accompagnent au quotidien pour optimiser votre gestion et gagner en efficacité.</p>
 
         <div class="button">
-            <a class="blackButton" href="/contact/"><p>Contactez-nous </p><img src="wp-content\themes\S2_Themes\assets\arrow\topright.svg" alt="Clique"></a>
+            <a class="blackButton" href="/contact/"><p>Contactez-nous </p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\topright.svg" alt="Clique"></a>
             <!-- Se connecter -->
         </div>
     </div>
-    <img class="heroIllustration" src="wp-content\themes\S2_Themes\assets\img\hero.png" alt="illustration">
+    <img class="heroIllustration" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\hero.png" alt="illustration">
 </section>
 
 <!-- ____________________________________________Description__________________________________________________________________________ -->
@@ -71,7 +71,7 @@
     <h2>UN LOGICIEL AVEC DE NOMBREUSES  FONCTIONNALITÉS</h2>
 
     <div class="scrollzone">
-        <img class="stickyElement" src="wp-content\themes\S2_Themes\assets\img\partout.png" alt="illustration">
+        <img class="stickyElement" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\partout.png" alt="illustration">
         <div class="contentElement">
             <div class="">
                 <h3>Une main sur toutes les données </h3>
@@ -122,13 +122,13 @@
             <p>ORDINATEUR</p>
             <p>TABLETTE</p>
         </div>
-        <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\complete.png" alt="illustration">
+        <img class="commerceillustration one" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\complete.png" alt="illustration">
     </div>
 
     <div class="centerColumn everytimeColumn ">
         <div class="stickyElementcenterColumn">
             <h2>UNE GESTION DE VOTRE COMMERCE</h2>
-            <img class="destop" src="wp-content\themes\S2_Themes\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre logiciel dessus">
+            <img class="destop" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\mockup.png" alt="illustration d'ordinateur avec une image de notre logiciel dessus">
         </div>
         <div class="alltime columnInformation">
         <h3>À toute heure</h3>
@@ -148,12 +148,12 @@
                     </div>
                 </div>
             </div>
-        <img  class="commerceillustration three" src="wp-content\themes\S2_Themes\assets\img\atouteheure.webp" alt="illustration">
+        <img  class="commerceillustration three" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\atouteheure.webp" alt="illustration">
     </div>
     </div>
     
     <div class="columnInformation everywhere">
-        <img class="commerceillustration one" src="wp-content\themes\S2_Themes\assets\img\partout.png" alt="illustration">
+        <img class="commerceillustration one" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\partout.png" alt="illustration">
         <div class="">
             <h3>Partout</h3>
             <p>À VOTRE COMMERCE</p>
@@ -180,33 +180,33 @@
     
     <div class="contenantDetails">
         <details  >
-            <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"><p>Client</p></summary>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"><p>Client</p></summary>
            <p class="element margintop">Création et gestion des fiches clients</p>
            <p  class="element">Système de fidélité</p>
         </details>
         <details>
-            <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"><p>Fournisseur </p></summary>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"><p>Fournisseur </p></summary>
            <p class=" element margintop">Gestion des commandes et des achats</p>
         </details>
         <details>
-            <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"> <p>Produit </p></summary>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p>Produit </p></summary>
            <p class="element margintop">Gestion et  classification des produits par rayon, par famille </p>
            <p  class="element">Création d’étiquettes</p>
         </details>
         <details>
-            <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"> <p>Stocks </p></summary>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p>Stocks </p></summary>
            <p class="element margintop">Réalisation d’inventaire</p>
            <p  class="element">Gestion des mouvements</p>
         </details>
         <details>
-            <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"> <p> Analyse </p></summary>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p> Analyse </p></summary>
            <p class=" element margintop">Produit et groupes de produits</p>
            <p class="element">Chiffre D’affaire (CA) </p>
            <p class="element">Ventes et marges</p>
            <p class="element">Taxe sur la valeur ajoutée (tva)</p>
         </details>
         <details>
-            <summary><img src="wp-content\themes\S2_Themes\assets\arrow\small.svg" alt="clique"><p> Commercial </p></summary>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"><p> Commercial </p></summary>
            <p class="element margintop">Création des devis</p>
            <p  class="element">Création  et suivi des commandes client</p>
            <p  class="element">Gestion des factures </p>
@@ -232,45 +232,45 @@
       <div class="swiper-slide">
             <div class="contenaireFicheEvenement ">
                 <div class="partIllustration">
-                    <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\sirha.PNG" alt="techforRetail">
+                    <img class="illustrationevent" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\event\sirha.PNG" alt="techforRetail">
                     <div class="gradiantEvent"></div>
                 </div>
                 <p class="titleFiche">Sirha Lyon</p>
                 <p>Du 19 au 23 janvier 2025, nous serons au Sirha Lyon, un rendez-vous majeur pour les acteurs du Food Service et de l’hospitalité. Cette participation, aux côtés de notre partenaire PRECIA MOLEN, sera l’occasion de présenter nos solutions et de renforcer notre collaboration dans un secteur en pleine évolution.</p>
-                <a  class="voirPlusDetailButton" target="_blank" href="https://www.sirha-lyon.com/fr" ><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" target="_blank" href="https://www.sirha-lyon.com/fr" ><p>Voir plus de détails</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
             </div>
       </div>
       <div class="swiper-slide">
       <div class="contenaireFicheEvenement ">
                 <div class="partIllustration">
-                    <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\techforRetail.webp" alt="techforRetail">
+                    <img class="illustrationevent" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\event\techforRetail.webp" alt="techforRetail">
                     <div class="gradiantEvent"></div>
                 </div>
                 <p class="titleFiche">Tech For Retail</p>
                 <p>Le 26 et 27 novembre 2024, nous étions présents au salon Tech for Retail, le grand événement européen qui réinvente le retail avec un focus sur les innovations technologiques et éco-responsables.</p>
-                <a  class="voirPlusDetailButton" target="_blank"  href="https://www.techforretail.com/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" target="_blank"  href="https://www.techforretail.com/"><p>Voir plus de détails</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
             </div>
       </div>
       <div class="swiper-slide"> 
         <div class="contenaireFicheEvenement ">
             <div class="partIllustration">
-                <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\commerceinnov.webp" alt="commerceinnov">
+                <img class="illustrationevent" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\event\commerceinnov.webp" alt="commerceinnov">
                 <div class="gradiantEvent"></div>
             </div>
             <p class="titleFiche">Commerce Innov </p>
             <p>Le salon Commerce Innov du 18 novembre 2024 au Palais de la Bourse a été une expérience enrichissante pour nous. L’événement nous a permis de présenter nos solutions de gestion de caisse et de recueillir des retours constructifs, renforçant notre position dans le secteur des innovations pour le commerce.</p>
-            <a  class="voirPlusDetailButton" target="_blank" href="https://www.bordeauxgironde.cci.fr/Bordeaux-Commerce-Innov"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+            <a  class="voirPlusDetailButton" target="_blank" href="https://www.bordeauxgironde.cci.fr/Bordeaux-Commerce-Innov"><p>Voir plus de détails</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
         </div>
         </div>
         <div class="swiper-slide">
         <div class="contenaireFicheEvenement ">
             <div class="partIllustration">
-                <img class="illustrationevent" src="wp-content\themes\S2_Themes\assets\event\frenchteck.webp" alt="frenchteck">
+                <img class="illustrationevent" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\event\frenchteck.webp" alt="frenchteck">
                 <div class="gradiantEvent"></div>
             </div>
             <p class="titleFiche" >French tech Night 2024 </p>
             <p>La French Tech Night aux Bassins des Lumières nous a offert l’occasion de présenter nos solutions dans un cadre unique. </p>
-            <a  class="voirPlusDetailButton" target="_blank" href="https://www.frenchtechbordeaux.com/event/french-tech-night-2024/"><p>Voir plus de détails</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
+            <a  class="voirPlusDetailButton" target="_blank" href="https://www.frenchtechbordeaux.com/event/french-tech-night-2024/"><p>Voir plus de détails</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
         
         </div>
     </div>
@@ -313,15 +313,15 @@
     </div>
 
     <div class="ImageContenaire">
-        <a target="_blank" href="https://www.frenchtechbordeaux.com/"><img src="wp-content\themes\S2_Themes\assets\logo\frenchteck.png" alt="logo de la frenchteck"></a>
-        <a target="_blank" href="https://www.pepiniere-chartrons.fr/"><img src="wp-content\themes\S2_Themes\assets\logo\pep.png" alt="logo de la pepiniére bordeaux chartron"></a>
-        <a target="_blank" href="https://www.advantech-aures.com/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\aures.png" alt="logo d'aures"></a>
-        <a target="_blank" href="https://www.averyberkel.com/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\avery-berkel.png" alt="logo d'avery berkel"></a>
-        <a target="_blank" href="https://www.bizerba.com/fr/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\Bizerba.png" alt="logo de Bizerba"></a>
-        <a target="_blank" href="https://fr.preciamolen.com/"><img src="wp-content\themes\S2_Themes\assets\logo\l_precia-molen.png" alt="logo de  preciamolen"></a>
-        <a target="_blank" href="https://www.mt.com/fr/fr/home.html"><img src="wp-content\themes\S2_Themes\assets\logo\Mettler_Toledo.png" alt="logo de Mettler_Toledo"></a>
-        <a target="_blank" href="http://ncpi.fr/"><img src="wp-content\themes\S2_Themes\assets\logo\ncpi.png" alt="logo de ncpi"></a>
-        <a target="_blank" href="https://oxhoo.com/fr/"><img src="wp-content\themes\S2_Themes\assets\logo\oxhoo.png" alt="logo de oxhoo"></a>
+        <a target="_blank" href="https://www.frenchtechbordeaux.com/"><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\frenchteck.png" alt="logo de la frenchteck"></a>
+        <a target="_blank" href="https://www.pepiniere-chartrons.fr/"><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\pep.png" alt="logo de la pepiniére bordeaux chartron"></a>
+        <a target="_blank" href="https://www.advantech-aures.com/fr/"><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\aures.png" alt="logo d'aures"></a>
+        <a target="_blank" href="https://www.averyberkel.com/fr/"><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\avery-berkel.png" alt="logo d'avery berkel"></a>
+        <a target="_blank" href="https://www.bizerba.com/fr/fr/"><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\Bizerba.png" alt="logo de Bizerba"></a>
+        <a target="_blank" href="https://fr.preciamolen.com/"><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\l_precia-molen.png" alt="logo de  preciamolen"></a>
+        <a target="_blank" href="https://www.mt.com/fr/fr/home.html"><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\Mettler_Toledo.png" alt="logo de Mettler_Toledo"></a>
+        <a target="_blank" href="http://ncpi.fr/"><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\ncpi.png" alt="logo de ncpi"></a>
+        <a target="_blank" href="https://oxhoo.com/fr/"><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\oxhoo.png" alt="logo de oxhoo"></a>
     </div>
 
  </section>
@@ -374,17 +374,17 @@
             </div>
             <div class="">
                 <h3>Où nous trouver ?</h3>
-                <a  class="voirPlusDetailButton" target="_blank" href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-                <a  class="voirPlusDetailButton" target="_blank" href="https://www.instagram.com/seg2inov/"><p>Instagram</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a>
-                <a  class="voirPlusDetailButton" target="_blank" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="wp-content\themes\S2_Themes\assets\arrow\toprightlight.svg" alt="clique"></a> 
+                <a  class="voirPlusDetailButton" target="_blank" href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" target="_blank" href="https://www.instagram.com/seg2inov/"><p>Instagram</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
+                <a  class="voirPlusDetailButton" target="_blank" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a> 
             </div>
         </div>
     <div class="linkunderfooter">
-        <img class="logo" src="wp-content\themes\S2_Themes\assets\logoseg2inov.png" alt="Seg2inov">
+        <img class="logo" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logoseg2inov.png" alt="Seg2inov">
        <div> <p class="mention">Tous droits réservés à SEG2INOV  - <a href="/<?php echo get_stylesheet_directory_uri(); ?>/mentions-legales/"><p>Mentions légales</p></a> </p> </div>
     </div>
     </footer>
-    <img class="backgroundImg"src="wp-content\themes\S2_Themes\assets\img\backgroudfooter.png" alt="fond">
+    <img class="backgroundImg"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\backgroudfooter.png" alt="fond">
 </div>
 <script src="\assets\js\swiper-bundle.min.js"></script>
 
