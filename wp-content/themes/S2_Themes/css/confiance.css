@@ -26,6 +26,16 @@
     width: 140px;
 }
 
+@media screen and (min-width: 1290px) {
+
+    .confiance img{
+        max-width: 300.32px;
+        height: auto;
+        width: 200px;
+    }
+}
+
+
 
 @media screen and (max-width: 560px) {
     .confiance{
