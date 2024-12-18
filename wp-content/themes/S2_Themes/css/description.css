@@ -31,7 +31,7 @@
     position: -webkit-sticky;
     position: sticky;
     top: 50%;
-
+    transform: translateY(-50%);
     width: 495px;
     height: 575px;
     object-fit: cover;

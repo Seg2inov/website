@@ -220,8 +220,8 @@
 
 
 <section class="descriptionCommerce">
-    <div class="columnInformation">
-        <div class="fonction">
+    <div class="columnInformation fonction">
+        <div class="">
             <h3>Toutes les fonctionnalités</h3>
             <p>ACCESSIBLE SUR  </p>
             <p>ORDINATEUR ET</p>
