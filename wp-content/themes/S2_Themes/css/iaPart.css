@@ -1,11 +1,17 @@
 .ia{
-    width: 90vh;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    height: 90vh;
+    width: 100%;
     margin-left: 8vw;
     margin-right: 8vw;
-    grid-column-gap: 24px;
 
+}
+
+.contenaireIa{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    grid-column-gap: 24px;
 }
 
 .ia img{
