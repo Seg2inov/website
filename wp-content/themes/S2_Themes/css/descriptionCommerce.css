@@ -6,7 +6,7 @@
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-
+    margin-bottom: 250px;
 
 }
 .destop{
@@ -51,7 +51,7 @@
     position: -webkit-sticky;
     position: sticky;
     top: 50%;
-    
+    transform: translate(-50%);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -144,6 +144,7 @@
         align-items: flex-start;
         flex-direction: column;
         margin-bottom: 40%;
+        margin-top: 0;
    }
 
    .columnInformation{
@@ -159,7 +160,7 @@
     }
     .stickyElementcenterColumn {
         position: relative;
-
+        transform: translateY(0%);
         top: 0%;
     }
 
