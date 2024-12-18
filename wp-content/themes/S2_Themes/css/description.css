@@ -14,7 +14,7 @@
 
 .description h2{
     text-align: center;
-    transform: translateY(64px);
+
 }
 
 
@@ -31,7 +31,7 @@
     position: -webkit-sticky;
     position: sticky;
     top: 50%;
-    transform: translateY(-50%);
+
     width: 495px;
     height: 575px;
     object-fit: cover;
@@ -49,12 +49,6 @@
 }
 
 
-@media screen and (max-width: 1270px) {
-    .description h2{
-        transform: translateY(146px);
-    }
-
-}
 
 
 
@@ -87,9 +81,7 @@
     .scrollzone{
         padding-top: 57%;
     }
-    .description h2 {
-        transform: translateY(-24px);
-    }
+
     
 }
 
