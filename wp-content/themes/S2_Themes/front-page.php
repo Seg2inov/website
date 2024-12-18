@@ -73,95 +73,144 @@
     <div class="scrollzone">
         <img class="stickyElement" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\description.webp" alt="illustration">
         <div class="contentElement">
-
-        <div class="">
-            <h3>Gestion des données de base </h3>
-            <p>Créer, modifier, produits, fournisseurs, clients</p>
-            <p>Gestion des Étiquettes de réception/ Produit/ Gondole/ affiche produit …</p>
-            <p>Gestion des médias</p>
-            <p>Gestion des liste produits avec différent classements (par Code, famille, rayon, fournisseur …)</p>
-            <p> - Valeur des stocks par produit et famille             </p>
-            <p>Liste des produits par fournisseur, référence fournisseur, prix d’achat, TVA…</p>
-            <p>Liste clients </p>
-            <p>Liste fournisseurs</p>
-            <p>Gestion de différentes tables 
-Règlements, Rayons, Familles, Types de commandes, Types de retraits, TVA, Options, Clavier caisse, Clavier Produits Divers, Clavier Produits sans CAB, Mouvements, Motifs de remise, Rayons, Vendeurs balance, Marques, Badges, Utilisateurs
-</p>
-        </div>
-               
-            <div class="">
-                <h3>Une caisse qui s’adapte à vous</h3>
-                <p>Gestion des vendeurs et de leurs niveau d’accès</p>
-                <p>Création et gestion des terminaux de vente</p>
-                <p>Personnalisation de l’écran de caisse</p>
-                <!-- Voir plus de détails -->
-            </div>
+            
             <div class="">
                 <h3>Une vision de l’entreprise  </h3>
                 <p>Un véritable tableau de bord permet de suivre et piloter les performances, tout en offrant une vue d'ensemble de l'activité de votre entreprise.</p>
-                <p>Différentes Consultation des ventes et Hit-parade sur une période classé par Rayon, famille, produit, vendeur, règlement …</p>
-                <p> - Analyse générale CA BRUT et NET – paniers moyens – annulations – retours                </p>
-                <p>Analyse des ventes en CA TTC et en Quantité par rayon                </p>
-                <p>Analyse des ventes en CA TTC et en Quantité par famille</p>
-                <p>Analyse des ventes en CA TTC et en Quantité par produit</p>
-                <p>Analyse des ventes en CA TTC et en Quantité par vendeur</p>
-                <p>Analyse financière par moyen de paiement</p>
-                <p>Analyse financière par opérations de trésorerie (Apport – dépense – recette – prélèvement, Etc.)</p>
-                <p>Détail des remises produis par producteur</p>
-                <p>Suivi comparatif </p>
-                <p>Suivi géographique </p>
-                <p>Journal des vents : Traçabilité des pièces de vente</p>
-                <p>Enregistre tous les mouvements de vente et de gestion dans un journal électronique qui pourra être utilisé comme Pièce justificative lors de contrôle comptable – financier – juridique - fiscal.
-                </p>
                 <!-- Voir plus de détails -->
+                 <!-- Exemple d’un écran de statistique -->
+            </div>
+
+            <div class="">
+                <h3>Une caisse qui s’adapte à vous</h3>
+                <p>Gestion des vendeurs et de leurs niveaux d’accès, configuration des terminaux de vente, et personnalisation de l’interface de l’écran de caisse</p>
+                <!-- Voir plus de détails -->
+                 <!-- Exemple d’un écran de caisse   -->
             </div>
             <div class="">
                 <h3>Une gestion complète des tickets</h3>
-                <p>Remontées des tikets</p>
-                <p>Exportation des données</p>
-                <p>Gestion des tickets en attente</p>
-                <p>Tickets de balances </p>
-                <p>Tickets de caisse</p>
-                <p>Ticket avec rrecette</p>
-                <p>Personnalisation des tickets</p>
+                <p>Une prise en charge intégrale des tickets</p>
                 <!-- Voir plus de détails -->
-            </div>
-            <div class="">
-                <h3>Gestion de la chaine de ventes </h3>
-                <p>Gestion des tarifs de vente Couponning, gratuits, Rabais, Remise </p>
-                <p>Planification des Promotions et des changements de prix                  </p>
-                <p>Gestion des Actions commerciales                 </p>
-                <p>Créer, éditer, Modifier, supprimer les Commandes client                 </p>
-                <p>Gestion des types de commandes (Cde Web, fête, inauguration, mariage, repas, standard …)</p>
-                <p>Créer, éditer, modifier, supprimer les préparations                </p>
-                <p>Gestion des commande complète, en attente …</p>
-                <p>Gestion des livraisons, (à envoyer, avec service, retrait ...)</p>
-                <p>Gestion Relevé et liste client Traçabilité des produits / Suivi des mouvements</p>
-                <p>Suivi du coffre</p>
-                <p>Tickets et avoirs en attente</p>
-                <p>Liste des règlements</p>
-                <p>Tickets balance en attente</p>
-                <p>Gestion documentaire de l’ensemble des impressions</p>
-                <p>Historique des états, (Facture, commande, bon de livraison …)</p>
-            </div>
-            <div class="">
-                <h3>Gestion de la chaine d’approvisionnement</h3>
-                <p>Saisir, éditer, envoyer des commande fournisseurs</p>
-                <p>Calcul des besoins de stocks</p>
-                <p>Gestion des alertes de stocks</p>
-                <p>Gestion des expressions de besoin (gestion des demandes d’approvisionnement)</p>
-                <p>Gestion des commandes fournisseur par magasin ou centralisée</p>
-                <p>Calcul des quantité moyenne de vente</p>
-                <p>Saisir, éditer les réceptions des commandes fournisseurs</p>
-                <p> - Directe, à partir d’un catalogue fournisseur,</p>
-                <p> - Réception possible avec des terminaux de saisie</p>
-                <p>Ajustement de stock</p>
-                <p>Inventaire (partiel et global) </p>
-                <p>Saisie par terminal de saisie portable, États des stocks …</p>
-                <p>Transfert de stock de site à site</p>
+                 <!-- Exemple de tickets -->
             </div>
 
+            <div class="">
+                <h3>Gestion de la chaine de ventes </h3>
+                <p>La gestion de la chaîne de ventes consiste à superviser et coordonner l’ensemble des étapes du processus de vente, tarification, saisie de commande, préparation, livraison et facturation. </p>
+            </div>
+
+            <div class="">
+                <h3>Gestion de la chaine d’approvisionnement</h3>
+                
+            </div>
+            
+        <div class="">
+            <h3>Gestion des données de base </h3>
+            <p>La gestion des données de base permet de collecter, centraliser, organiser, sécuriser et maintenir à jour les données de l’entreprise. </p>
+            <!-- Exemple d’une fiche produit -->
         </div>
+               
+
+        </div>
+    </div>
+</section>
+
+
+<!-- ____________________________________________DescriptionCommerce__________________________________________________________________________ -->
+
+<section class="descriptionCommerceDetails">
+    <div class="title">
+        <h2>
+            Une prise en main de A à Z
+            
+        </h2>
+       
+    </div>
+    
+    <div class="contenantDetails">
+        <details  >
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"><p>Une vision de l’entreprise</p></summary>
+                <p class="element margintop" > - Analyse générale CA BRUT et NET – paniers moyens – annulations – retours                </p>
+                <p class="element" >Analyse des ventes en CA TTC et en Quantité par rayon                </p>
+                <p class="element" >Analyse des ventes en CA TTC et en Quantité par famille</p>
+                <p class="element" >Analyse des ventes en CA TTC et en Quantité par produit</p>
+                <p class="element" >Analyse des ventes en CA TTC et en Quantité par vendeur</p>
+                <p class="element" >Analyse financière par moyen de paiement</p>
+                <p class="element" >Analyse financière par opérations de trésorerie (Apport – dépense – recette – prélèvement, Etc.)</p>
+                <p class="element" >Détail des remises produis par producteur</p>
+                <p class="element" >Suivi comparatif </p>
+                <p class="element" >Suivi géographique </p>
+                <p class="element" >Journal des vents : Traçabilité des pièces de vente</p>
+                <p class="element" >Enregistre tous les mouvements de vente et de gestion dans un journal électronique qui pourra être utilisé comme Pièce justificative lors de contrôle comptable – financier – juridique - fiscal.
+                </p>
+        </details>
+
+        <details>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"><p>Une caisse qui s’adapte à vous </p></summary>
+                <p class="element margintop" >Gestion des vendeurs et de leurs niveau d’accès</p>
+                <p class="element">Création et gestion des terminaux de vente</p>
+                <p class="element">Personnalisation de l’écran de caisse</p>
+        </details>
+
+        <details>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p>Une gestion complète des tickets </p></summary>
+                <p class="element margintop"  >Remontées des tikets</p>
+                <p class="element" >Exportation des données</p>
+                <p class="element" >Gestion des tickets en attente</p>
+                <p class="element" >Tickets de balances </p>
+                <p class="element" >Tickets de caisse</p>
+                <p class="element" >Ticket avec rrecette</p>
+                <p class="element" >Personnalisation des tickets</p>
+        </details>
+        <details>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p>Gestion de la chaine de ventes  </p></summary>
+                <p class="element margintop" >Gestion des tarifs de vente Couponning, gratuits, Rabais, Remise </p>
+                <p class="element" >Planification des Promotions et des changements de prix                  </p>
+                <p class="element" >Gestion des Actions commerciales                 </p>
+                <p class="element" >Créer, éditer, Modifier, supprimer les Commandes client                 </p>
+                <p class="element" >Gestion des types de commandes (Cde Web, fête, inauguration, mariage, repas, standard …)</p>
+                <p class="element" >Créer, éditer, modifier, supprimer les préparations                </p>
+                <p class="element" >Gestion des commande complète, en attente …</p>
+                <p class="element" >Gestion des livraisons, (à envoyer, avec service, retrait ...)</p>
+                <p class="element" >Gestion Relevé et liste client Traçabilité des produits / Suivi des mouvements</p>
+                <p class="element" >Suivi du coffre</p>
+                <p class="element" >Tickets et avoirs en attente</p>
+                <p class="element" >Liste des règlements</p>
+                <p class="element" >Tickets balance en attente</p>
+                <p class="element" >Gestion documentaire de l’ensemble des impressions</p>
+                <p class="element" >Historique des états, (Facture, commande, bon de livraison …)</p>
+        </details>
+        <details>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p> Gestion de la chaine d’approvisionnement </p></summary>
+                <p class="element margintop" >Saisir, éditer, envoyer des commande fournisseurs</p>
+                <p class="element" >Calcul des besoins de stocks</p>
+                <p class="element" >Gestion des alertes de stocks</p>
+                <p class="element" >Gestion des expressions de besoin (gestion des demandes d’approvisionnement)</p>
+                <p class="element" >Gestion des commandes fournisseur par magasin ou centralisée</p>
+                <p class="element" >Calcul des quantité moyenne de vente</p>
+                <p class="element" >Saisir, éditer les réceptions des commandes fournisseurs</p>
+                <p class="element" > - Directe, à partir d’un catalogue fournisseur,</p>
+                <p class="element" > - Réception possible avec des terminaux de saisie</p>
+                <p class="element" >Ajustement de stock</p>
+                <p class="element" >Inventaire (partiel et global) </p>
+                <p class="element" >Saisie par terminal de saisie portable, États des stocks …</p>
+                <p class="element" >Transfert de stock de site à site</p>
+        </details>
+        <details>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"><p> Gestion des données de base </p></summary>
+            <p class="element margintop" >Créer, modifier, produits, fournisseurs, clients</p>
+            <p class="element" >Gestion des Étiquettes de réception/ Produit/ Gondole/ affiche produit …</p>
+            <p class="element" >Gestion des médias</p>
+            <p class="element" >Gestion des liste produits avec différent classements (par Code, famille, rayon, fournisseur …)</p>
+            <p class="element" > - Valeur des stocks par produit et famille             </p>
+            <p class="element" >Liste des produits par fournisseur, référence fournisseur, prix d’achat, TVA…</p>
+            <p class="element" >Liste clients </p>
+            <p class="element" >Liste fournisseurs</p>
+            <p class="element" >Gestion de différentes tables 
+                Règlements, Rayons, Familles, Types de commandes, Types de retraits, TVA, Options, Clavier caisse, Clavier Produits Divers, Clavier Produits sans CAB, Mouvements, Motifs de remise, Rayons, Vendeurs balance, Marques, Badges, Utilisateurs
+                </p>
+        </details>
+
     </div>
 </section>
 
@@ -169,7 +218,7 @@ Règlements, Rayons, Familles, Types de commandes, Types de retraits, TVA, Optio
 <!--______DescriptionCommerce________ -->
 
 
-<section class="descriptionCommerce">
+<section class="descriptionCosmmerce">
     <div class="columnInformation">
         <div class="">
             <h3>Toutes les fonctionnalités</h3>
@@ -202,54 +251,26 @@ Règlements, Rayons, Familles, Types de commandes, Types de retraits, TVA, Optio
 
 </section>
 
-
-<!-- ____________________________________________DescriptionCommerce__________________________________________________________________________ -->
-
+<!-- ________________________________________________________________________________IA_______________________________________________________ -->
 <section class="descriptionCommerceDetails">
     <div class="title">
         <h2>
-            Une prise en main de A à Z
+            L'ia s'invite dans votre commerce
             
         </h2>
        
     </div>
-    
-    <div class="contenantDetails">
-        <details  >
-            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"><p>Client</p></summary>
-           <p class="element margintop">Création et gestion des fiches clients</p>
-           <p  class="element">Système de fidélité</p>
-        </details>
-        <details>
-            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"><p>Fournisseur </p></summary>
-           <p class=" element margintop">Gestion des commandes et des achats</p>
-        </details>
-        <details>
-            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p>Produit </p></summary>
-           <p class="element margintop">Gestion et  classification des produits par rayon, par famille </p>
-           <p  class="element">Création d’étiquettes</p>
-        </details>
-        <details>
-            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p>Stocks </p></summary>
-           <p class="element margintop">Réalisation d’inventaire</p>
-           <p  class="element">Gestion des mouvements</p>
-        </details>
-        <details>
-            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p> Analyse </p></summary>
-           <p class=" element margintop">Produit et groupes de produits</p>
-           <p class="element">Chiffre D’affaire (CA) </p>
-           <p class="element">Ventes et marges</p>
-           <p class="element">Taxe sur la valeur ajoutée (tva)</p>
-        </details>
-        <details>
-            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"><p> Commercial </p></summary>
-           <p class="element margintop">Création des devis</p>
-           <p  class="element">Création  et suivi des commandes client</p>
-           <p  class="element">Gestion des factures </p>
-        </details>
 
+    <div class="contenaireIa">
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\illustrationIa.png" alt="Augmenter votre bénéfice avec s2cashIA">
+        <p>L’intelligence artificielle transforme déjà le monde du retail. Et si elle devenait aussi un atout clé pour votre logiciel de caisse ? Découvrez comment l’IA pourrait révolutionner l’expérience en caisse et faciliter la gestion de votre commerce !</p>
     </div>
+    <a  class="voirPlusDetailButton" target="_blank" href=https://s2cash.ai/" ><p>Voir plus de détails</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
+
+
 </section>
+
+
 <!-- ____________________________________________Evenement__________________________________________________________________________ -->
  <section class="evenement">
     <div class="title">
