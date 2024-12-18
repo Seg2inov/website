@@ -101,6 +101,7 @@
 
             <div class="">
                 <h3>Gestion de la chaine d’approvisionnement</h3>
+                <p>La gestion des approvisionnements est une fonction essentielle pour garantir que les ressources nécessaires à l'activité soient disponibles au bon moment. Elle englobe l’ensemble des processus liés à l’achat, au stockage et à la réception des produits pour répondre à la demande. </p>
                 
             </div>
             
@@ -218,7 +219,7 @@
 <!--______DescriptionCommerce________ -->
 
 
-<section class="descriptionCosmmerce">
+<section class="descriptionCommerce">
     <div class="columnInformation">
         <div class="">
             <h3>Toutes les fonctionnalités</h3>
@@ -252,7 +253,9 @@
 </section>
 
 <!-- ________________________________________________________________________________IA_______________________________________________________ -->
-<section class="descriptionCommerceDetails">
+
+
+<section class="">
     <div class="title">
         <h2>
             L'ia s'invite dans votre commerce
@@ -265,7 +268,7 @@
         <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\illustrationIa.png" alt="Augmenter votre bénéfice avec s2cashIA">
         <p>L’intelligence artificielle transforme déjà le monde du retail. Et si elle devenait aussi un atout clé pour votre logiciel de caisse ? Découvrez comment l’IA pourrait révolutionner l’expérience en caisse et faciliter la gestion de votre commerce !</p>
     </div>
-    <a  class="voirPlusDetailButton" target="_blank" href=https://s2cash.ai/" ><p>Voir plus de détails</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
+    <a  class="voirPlusDetailButton" target="_blank" href="https://s2cash.ai/" ><p>Voir plus de détails</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
 
 
 </section>
