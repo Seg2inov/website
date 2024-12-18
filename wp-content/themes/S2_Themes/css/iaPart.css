@@ -1,0 +1,15 @@
+.ia{
+    width: 90vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    grid-column-gap: 24px;
+
+}
+
+.ia img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
