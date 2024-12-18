@@ -97,6 +97,10 @@
     display: flex;
     gap: 8px;
 }
+.everywhere{
+    align-items: flex-end;
+    text-align: end;
+}
 
 @media screen and (max-width: 1030px) {
     .stickyElementcenterColumn{
