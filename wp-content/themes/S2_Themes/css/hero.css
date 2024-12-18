@@ -26,6 +26,8 @@
     object-fit: cover;
 }
 
+
+
 @media screen and (max-width: 921px) {
     .hero{
         margin-top: 24px;
@@ -79,14 +81,14 @@
 
 @media screen and (max-height: 390px) {
     .hero{
-        padding-top: 134px;
+        margin-top: 134px;
     }
 }
 
 
 @media screen and (max-height: 435px) and (max-width: 800px) {
     .hero {
-        padding-top: 88px;
+        margin-top: 88px;
     }
 
 }

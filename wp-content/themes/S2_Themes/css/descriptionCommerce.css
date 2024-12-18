@@ -7,6 +7,8 @@
     align-items: flex-start;
     justify-content: space-between;
     margin-top: 250px;
+    gap: 12px;
+    margin-bottom: 150px;
 
 }
 .destop{
@@ -99,6 +101,23 @@
     padding-top: 20%;
 }
 
+@media screen and (max-height: 570px) {
+    .descriptionCommerce{
+        margin-bottom: 250px;
+    }
+}
+@media screen and (max-height: 470px) {
+    .descriptionCommerce{
+        margin-bottom: 400px;
+    }
+}
+
+@media screen and (max-height: 380px) {
+    .descriptionCommerce{
+        margin-bottom: 500px;
+    }
+}
+
 
 @media screen and (max-width: 1150px) {
     .descriptionCommerce .commerceillustration{
@@ -132,6 +151,12 @@
    }
 
    
+}
+@media screen and (max-width: 690px) {
+    .descriptionCommerce h2{
+
+       font-size: 24px;
+    }
 }
 
 @media screen and (max-width: 690px) {
