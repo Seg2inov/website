@@ -131,7 +131,7 @@
     <div class="contenantDetails">
         <details  >
             <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"><p>Une vision de l’entreprise</p></summary>
-                <p class="element margintop" > - Analyse générale CA BRUT et NET – paniers moyens – annulations – retours                </p>
+                <p class="element margintop" >  Analyse générale CA BRUT et NET – paniers moyens – annulations – retours                </p>
                 <p class="element" >Analyse des ventes en CA TTC et en Quantité par rayon                </p>
                 <p class="element" >Analyse des ventes en CA TTC et en Quantité par famille</p>
                 <p class="element" >Analyse des ventes en CA TTC et en Quantité par produit</p>
@@ -190,8 +190,8 @@
                 <p class="element" >Gestion des commandes fournisseur par magasin ou centralisée</p>
                 <p class="element" >Calcul des quantité moyenne de vente</p>
                 <p class="element" >Saisir, éditer les réceptions des commandes fournisseurs</p>
-                <p class="element" > - Directe, à partir d’un catalogue fournisseur,</p>
-                <p class="element" > - Réception possible avec des terminaux de saisie</p>
+                <p class="element" > |--> Directe, à partir d’un catalogue fournisseur,</p>
+                <p class="element" > |--> Réception possible avec des terminaux de saisie</p>
                 <p class="element" >Ajustement de stock</p>
                 <p class="element" >Inventaire (partiel et global) </p>
                 <p class="element" >Saisie par terminal de saisie portable, États des stocks …</p>
@@ -203,7 +203,7 @@
             <p class="element" >Gestion des Étiquettes de réception/ Produit/ Gondole/ affiche produit …</p>
             <p class="element" >Gestion des médias</p>
             <p class="element" >Gestion des liste produits avec différent classements (par Code, famille, rayon, fournisseur …)</p>
-            <p class="element" > - Valeur des stocks par produit et famille             </p>
+            <p class="element" > Valeur des stocks par produit et famille             </p>
             <p class="element" >Liste des produits par fournisseur, référence fournisseur, prix d’achat, TVA…</p>
             <p class="element" >Liste clients </p>
             <p class="element" >Liste fournisseurs</p>
