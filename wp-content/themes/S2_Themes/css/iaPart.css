@@ -6,6 +6,10 @@
 
 }
 
+.ia .title{
+    margin-bottom: 52px;
+}
+
 .contenaireIa{
     width: 100%;
     display: grid;
@@ -18,4 +22,13 @@
     width: 100%;
     height: auto;
     object-fit: cover;
+}
+
+.contenaireIatext{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 24px;
+    align-items: 24px;
 }

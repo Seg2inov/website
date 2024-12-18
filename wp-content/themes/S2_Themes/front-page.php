@@ -266,7 +266,7 @@
 
     <div class="contenaireIa">
         <img class="illustrationIa"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\illustrationIa.png" alt="Augmenter votre bénéfice avec s2cashIA">
-        <div class="">
+        <div class="contenaireIatext">
             <p>L’intelligence artificielle transforme déjà le monde du retail. Et si elle devenait aussi un atout clé pour votre logiciel de caisse ? Découvrez comment l’IA pourrait révolutionner l’expérience en caisse et faciliter la gestion de votre commerce !</p>
             <a  class="voirPlusDetailButton" target="_blank" href="https://s2cash.ai/" ><p>Voir plus de détails</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
 
