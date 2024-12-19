@@ -51,8 +51,8 @@ summary{
     border-bottom: 1px solid black;
 }
 
-.flecheDetails{
-    transform: rotate(90deg);
+.descriptionCommerceDetails details .flecheDetails{
+    transform: rotate(0deg);
 }
 
 
