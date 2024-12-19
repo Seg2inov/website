@@ -134,40 +134,40 @@
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique">
                 <p>Une vision de l’entreprise</p>
             </summary>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element margintop" >  Analyse générale CA BRUT et NET des paniers moyens, des  annulations, des retours  </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Analyse des ventes en CA TTC et en Quantité par rayon                </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Analyse des ventes en CA TTC et en Quantité par famille</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Analyse des ventes en CA TTC et en Quantité par produit</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Analyse des ventes en CA TTC et en Quantité par vendeur</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Analyse financière par moyen de paiement</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Analyse financière par opérations de trésorerie (Apport, dépense, recette, prélèvement, Etc.)</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Détail des remises produis par producteur</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Suivi comparatif </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Suivi géographique </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Journal des vents : Traçabilité des pièces de vente</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Enregistre tous les mouvements de vente et de gestion dans un journal électronique qui pourra être utilisé comme Pièce justificative lors de contrôle comptable
                      
                 financier<br>
@@ -182,13 +182,13 @@
                 <p>Une caisse qui s’adapte à vous </p>
             </summary>
 
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element margintop" >Gestion des vendeurs et de leurs niveau d’accès</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Création et gestion des terminaux de vente</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Personnalisation de l’écran de caisse</p>
             </div>
 
@@ -197,22 +197,22 @@
         <details>
             <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p>Une gestion complète des tickets </p></summary>
                 <p class="element margintop"  >Remontées des tikets</p>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element margintop" >Exportation des données</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion des tickets en attente</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Tickets de balances </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Tickets de caisse</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Ticket avec rrecette</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Personnalisation des tickets</p>
             </div>
 
@@ -222,49 +222,49 @@
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique">
                  <p>Gestion de la chaine de ventes  </p>
             </summary>  
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element margintop" >Gestion des tarifs de vente Couponning, gratuits, Rabais, Remise </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Planification des Promotions et des changements de prix                  </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion des Actions commerciales                 </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Créer, éditer, Modifier, supprimer les Commandes client                 </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion des types de commandes (Cde Web, fête, inauguration, mariage, repas, standard …)</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Créer, éditer, modifier, supprimer les préparations                </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion des commande complète, en attente …</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion des livraisons, (à envoyer, avec service, retrait ...)</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion Relevé et liste client Traçabilité des produits. Suivi des mouvements</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Suivi du coffre</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Tickets et avoirs en attente</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Liste des règlements</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Tickets balance en attente</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion documentaire de l’ensemble des impressions</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Historique des états, (Facture, commande, bon de livraison …)</p>
             </div>
         </details>
@@ -273,43 +273,43 @@
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> 
                 <p> Une gestion de la chaine d’approvisionnement </p>
             </summary>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element margintop" >Saisir, éditer, envoyer des commande fournisseurs</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Calcul des besoins de stocks</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion des alertes de stocks</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion des expressions de besoin (gestion des demandes d’approvisionnement)</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion des commandes fournisseur par magasin ou centralisée</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Calcul des quantité moyenne de vente</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Saisir, éditer les réceptions des commandes fournisseurs</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Directe, à partir d’un catalogue fournisseur</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Réception possible avec des terminaux de saisie</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Ajustement de stock</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Inventaire (partiel et global) </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Saisie par terminal de saisie portable, États des stocks …</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Transfert de stock de site à site</p>
             </div>  
         </details>
@@ -318,31 +318,31 @@
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique">
                 <p> Une gestion de vos données de base </p>
             </summary>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element margintop" >Créer, modifier, produits, fournisseurs, clients</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion des Étiquettes de réception/ Produit/ Gondole/ affiche produit …</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion des médias</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion des liste produits avec différent classements (par Code, famille, rayon, fournisseur …)</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" > Valeur des stocks par produit et famille             </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Liste des produits par fournisseur, référence fournisseur, prix d’achat, TVA…</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Liste clients </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Liste fournisseurs</p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/right.svg" alt="fleche">
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Gestion de différentes tables 
                 Règlements, Rayons, Familles, Types de commandes, Types de retraits, TVA, Options, Clavier caisse, Clavier Produits Divers, Clavier Produits sans CAB, Mouvements, Motifs de remise, Rayons, Vendeurs balance, Marques, Badges, Utilisateurs
                 </p>
