@@ -54,7 +54,7 @@
 
 <section class="hero">
     <div class="titlep">
-        <h1>Découvrez SEG2 INOV </h1>
+        <h1>Découvrez S2Cash </h1>
         <p>Nous développons des logiciels de caisse innovants, conçus sur mesure pour les commerces alimentaires et les systèmes de pesée avec balances intégrées. Simples, fiables et adaptés à vos besoins, nos solutions vous assistent au quotidien en optimisant votre gestion. Elles offrent une vision globale de votre activité, garantissent la traçabilité des produits et des ventes, et vous aident à gagner en efficacité.</p>
 
         <div class="button">
@@ -190,8 +190,8 @@
                 <p class="element" >Gestion des commandes fournisseur par magasin ou centralisée</p>
                 <p class="element" >Calcul des quantité moyenne de vente</p>
                 <p class="element" >Saisir, éditer les réceptions des commandes fournisseurs</p>
-                <p class="element" > |--> Directe, à partir d’un catalogue fournisseur,</p>
-                <p class="element" > |--> Réception possible avec des terminaux de saisie</p>
+                <p class="element" >Directe, à partir d’un catalogue fournisseur,</p>
+                <p class="element" >Réception possible avec des terminaux de saisie</p>
                 <p class="element" >Ajustement de stock</p>
                 <p class="element" >Inventaire (partiel et global) </p>
                 <p class="element" >Saisie par terminal de saisie portable, États des stocks …</p>
@@ -258,7 +258,7 @@
 <section class="ia">
     <div class="title">
         <h2>
-            L'ia s'invite dans votre commerce
+            L'IA s'invite dans votre commerce
             
         </h2>
        
