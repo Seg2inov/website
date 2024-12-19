@@ -40,8 +40,10 @@
             Adresse : 9 Rue André Darbon 33 300, 33300 Bordeaux<br>
             Adresse e-mail : contact@seg2inov.fr<br>
             Numéro de téléphone : +33 9 70 70 26 96<br>
-            Hébergement : o2switch<br><br>
-
+            Hébergement : o2switch<br>
+            N° de SIRET : 97884395100028<br>
+            N° d’identification à la TVA : FR37978843951<br>
+            Responsable de publication : Stéphane GUIVY<br><br>
             Conception<br>
 
             Création : SEG2 INOV<br>
