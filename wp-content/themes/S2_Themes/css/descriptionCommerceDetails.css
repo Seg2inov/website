@@ -51,6 +51,10 @@ summary{
     border-bottom: 1px solid black;
 }
 
+.flecheDetails{
+    transform: rotate(90deg);
+}
+
 
 
 
