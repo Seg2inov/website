@@ -95,18 +95,18 @@
             </div>
 
             <div class="">
-                <h3>Gestion de la chaine de ventes </h3>
+                <h3>Une gestion de la chaine de ventes </h3>
                 <p>La gestion de la chaîne de ventes consiste à superviser et coordonner l’ensemble des étapes du processus de vente, tarification, saisie de commande, préparation, livraison et facturation. </p>
             </div>
 
             <div class="">
-                <h3>Gestion de la chaine d’approvisionnement</h3>
+                <h3>Une gestion de la chaine d’approvisionnement</h3>
                 <p>La gestion des approvisionnements est une fonction essentielle pour garantir que les ressources nécessaires à l'activité soient disponibles au bon moment. Elle englobe l’ensemble des processus liés à l’achat, au stockage et à la réception des produits pour répondre à la demande. </p>
                 
             </div>
             
         <div class="">
-            <h3>Gestion des données de base </h3>
+            <h3>Une gestion des données de base </h3>
             <p>La gestion des données de base permet de collecter, centraliser, organiser, sécuriser et maintenir à jour les données de l’entreprise. </p>
             <!-- Exemple d’une fiche produit -->
         </div>
@@ -220,7 +220,7 @@
         <details>
             <summary>
                 <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique">
-                 <p>Gestion de la chaine de ventes  </p>
+                 <p>Une gestion de la chaine de ventes  </p>
             </summary>  
             <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element margintop" >Gestion des tarifs de vente Couponning, gratuits, Rabais, Remise </p>
