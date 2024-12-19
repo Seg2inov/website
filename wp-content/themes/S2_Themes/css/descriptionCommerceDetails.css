@@ -7,6 +7,14 @@
 
 }
 
+.contenaireArrowText{
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding-left: 24px;
+}
+
 
 details img{
     transition: 500ms;
@@ -46,11 +54,11 @@ summary{
 
 
 
-.element{
-    padding-top: 12px;
-    padding-left: 24px;
-    padding-bottom: 12px;
-}
+/* .element{
+     padding-top: 12px; 
+
+     padding-bottom: 12px; 
+} */
 
 
 
