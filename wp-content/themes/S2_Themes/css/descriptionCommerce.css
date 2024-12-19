@@ -94,11 +94,11 @@
 .everywhere{
     align-items: flex-end;
     text-align: end;
-    padding-top: 70%;
+    padding-top: 50%;
 }
 
 .fonction{
-    padding-top: 20%;
+    padding-top: 10%;
 }
 
 @media screen and (max-height: 570px) {

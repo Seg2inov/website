@@ -182,7 +182,7 @@
                 <p class="element" >Historique des états, (Facture, commande, bon de livraison …)</p>
         </details>
         <details>
-            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p> Gestion de la chaine d’approvisionnement </p></summary>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p> Une gestion de la chaine d’approvisionnement </p></summary>
                 <p class="element margintop" >Saisir, éditer, envoyer des commande fournisseurs</p>
                 <p class="element" >Calcul des besoins de stocks</p>
                 <p class="element" >Gestion des alertes de stocks</p>
@@ -198,7 +198,7 @@
                 <p class="element" >Transfert de stock de site à site</p>
         </details>
         <details>
-            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"><p> Gestion des données de base </p></summary>
+            <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"><p> Une gestion de vos données de base </p></summary>
             <p class="element margintop" >Créer, modifier, produits, fournisseurs, clients</p>
             <p class="element" >Gestion des Étiquettes de réception/ Produit/ Gondole/ affiche produit …</p>
             <p class="element" >Gestion des médias</p>
