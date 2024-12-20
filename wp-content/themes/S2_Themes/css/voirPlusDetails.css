@@ -34,7 +34,7 @@
     font-family: 'SofiaSans-Light';
     font-size: 22px;
 
-    transform: translateY(150%) ; /* Initialement en dehors */
+    transform: translateY(200%) ; /* Initialement en dehors */
     transition: transform 0.3s ease;
 
 }
