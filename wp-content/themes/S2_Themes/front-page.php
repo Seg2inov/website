@@ -191,12 +191,15 @@
             <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Personnalisation de l’écran de caisse</p>
             </div>
-
+ 
         </details>
 
         <details>
             <summary><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\small.svg" alt="clique"> <p>Une gestion complète des tickets </p></summary>
-                <p class="element margintop"  >Remontées des tikets</p>
+            
+            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
+            <p class="element margintop"  >Remontées des tikets</p>
+            </div>
             <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element margintop" >Exportation des données</p>
             </div>
