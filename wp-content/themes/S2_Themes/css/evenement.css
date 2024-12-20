@@ -1,5 +1,5 @@
 .evenement{
-    width: 100%;
+    width: fit-content;
     padding-left: 8vw;
     padding-right: 8vw;
     overflow: hidden;
