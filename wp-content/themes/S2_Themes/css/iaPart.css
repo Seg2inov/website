@@ -43,5 +43,9 @@
     
         grid-column-gap: 24px;
     }
+    .contenaireIatext{
+        justify-content: flex-start;
+        gap: 24pxs;
+    }
 
 }
