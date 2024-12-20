@@ -2,8 +2,47 @@
     display: flex;
     gap: 8px;
     align-items: center;
+    transition: color 0.3s ease;
+    height: 50px;
+    position: relative;
+    overflow: hidden;
+}
+
+.voirPlusDetailButton p {
+    transform: translateY(0%); /* Premier texte monte avec rotation */
+}
+
+
+.voirPlusDetailButton img{
+    transform: translate(0deg);
+    transition: transform 0.3s ease;
 }
 
 .voirPlusDetailButton:hover img{
     transform: translate(-45deg);
+
+}
+
+.voirPlusDetailButton::before {
+    content: "Voir plus de détails";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-family: 'SofiaSans-Light';
+    font-size: 22px;
+
+    transform: translateY(100%) ; /* Initialement en dehors */
+    transition: transform 0.3s ease;
+
+}
+
+.voirPlusDetailButton:hover p {
+    transform: translateY(-100%); /* Premier texte monte avec rotation */
+}
+
+.voirPlusDetailButton:hover::before {
+    transform: translateY(0); /* Texte secondaire apparaît */
+    opacity: 1; /* Rendu visible */
 }
