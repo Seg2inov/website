@@ -38,6 +38,7 @@
     .contenaireIa{
         width: 100%;
         display: flex;
+        align-items: center;
         flex-direction:column ;
         gap: 24px;
     
@@ -45,7 +46,10 @@
     }
     .contenaireIatext{
         justify-content: flex-start;
-        gap: 24pxs;
+        gap: 24px;
+    }
+    .illustrationIa{
+        max-width: 673px;
     }
 
 }
