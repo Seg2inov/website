@@ -3,13 +3,14 @@
     gap: 8px;
     align-items: center;
     transition: color 0.3s ease;
-    height: 50px;
+    height: 22px;
     position: relative;
     overflow: hidden;
 }
 
 .voirPlusDetailButton p {
     transform: translateY(0%); /* Premier texte monte avec rotation */
+    transition: transform 0.3s ease;
 }
 
 
@@ -33,7 +34,7 @@
     font-family: 'SofiaSans-Light';
     font-size: 22px;
 
-    transform: translateY(100%) ; /* Initialement en dehors */
+    transform: translateY(150%) ; /* Initialement en dehors */
     transition: transform 0.3s ease;
 
 }
