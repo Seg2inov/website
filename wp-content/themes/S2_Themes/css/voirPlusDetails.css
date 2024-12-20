@@ -44,6 +44,6 @@
 }
 
 .voirPlusDetailButton:hover::before {
-    transform: translateY(0); /* Texte secondaire apparaît */
+    transform: translateY(-100%); /* Texte secondaire apparaît */
     opacity: 1; /* Rendu visible */
 }
