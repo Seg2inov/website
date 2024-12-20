@@ -30,7 +30,6 @@
     top: 50%;
     left: 0;
     right: 0;
-    text-align: center;
     font-family: 'SofiaSans-Light';
     font-size: 22px;
 
@@ -44,6 +43,6 @@
 }
 
 .voirPlusDetailButton:hover::before {
-    transform: translateY(-100%); /* Texte secondaire apparaît */
+    transform: translateY(-50%); /* Texte secondaire apparaît */
     opacity: 1; /* Rendu visible */
 }
