@@ -33,3 +33,15 @@
     padding-top: 40px;
     padding-bottom: 72px;
 }
+
+@media screen and (max-height: 435px) and (max-width: 1000px) {
+    .contenaireIa{
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr ;
+        grid-template-rows: 1fr 1fr;
+    
+        grid-column-gap: 24px;
+    }
+
+}
