@@ -16,6 +16,10 @@
     padding-left: 24px;
 }
 
+.li{
+    margin-left: 48px;
+}
+
 
 details img{
     transition: 500ms;
@@ -33,9 +37,7 @@ details{
     transition: all 500ms ease;
 }
 
-.details .li{
-    margin-left: 48px;
-}
+
 
 details:hover summary{
     padding-left: 28px;
