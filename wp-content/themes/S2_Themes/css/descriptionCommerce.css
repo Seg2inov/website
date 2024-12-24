@@ -20,6 +20,9 @@
 
     text-align: center;
 }
+.descriptionCommerce h3{
+    margin-bottom: 24px;
+}
 
 .stickyElements{
     position: -webkit-sticky;
