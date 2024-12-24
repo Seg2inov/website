@@ -49,3 +49,10 @@
     transform: translateY(-50%); /* Texte secondaire apparaît */
     opacity: 1; /* Rendu visible */
 }
+
+
+.linkFooter{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
