@@ -325,36 +325,36 @@
                 <p class="element" >Gestion du référentiel
                 </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
-                <p class="element li" >Règlements
+            <div class="contenaireArrowText li"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
+                <p class="element " >Règlements
                 </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
-                <p class="element li" >Rayons
+            <div class="contenaireArrowText li"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
+                <p class="element " >Rayons
                 </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
-                <p class="element li" >Familles
+            <div class="contenaireArrowText li"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
+                <p class="element " >Familles
                 </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
-                <p class="element li" >Types de commandes
+            <div class="contenaireArrowText li"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
+                <p class="element " >Types de commandes
                 </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
-                <p class="element li" >TVA
+            <div class="contenaireArrowText li"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
+                <p class="element " >TVA
                 </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
-                <p class="element li" >Modifs de remise
+            <div class="contenaireArrowText li"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
+                <p class="element " >Modifs de remise
                 </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
-                <p class="element li" >Vendeurs
+            <div class="contenaireArrowText li"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
+                <p class="element " >Vendeurs
                 </p>
             </div>
-            <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
-                <p class="element li" >Badges
+            <div class="contenaireArrowText li"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
+                <p class="element " >Badges
                 </p>
             </div>
 
@@ -583,9 +583,9 @@
             </div>
             <div class="">
                 <h3>Où nous trouver ?</h3>
-                <a target="_blank" href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
+              nkedin</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
                 <a target="_blank" href="https://www.instagram.com/seg2inov/"><p>Instagram</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a>
-                <a target="_blank" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a> 
+                <a target="_blank" href="https://www.facebook.com/people/Seg2inov/61562257696981/"><p>Facebook  <a target="_blank" href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Li</p><img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\toprightlight.svg" alt="clique"></a> 
             </div>
         </div>
     <div class="linkunderfooter">
