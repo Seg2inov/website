@@ -165,7 +165,7 @@
                 <p class="element" >Suivi géographique </p>
             </div>
             <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
-                <p class="element" >Journal des vents : Traçabilité des pièces de vente</p>
+                <p class="element" >Journal des ventes : Traçabilité des pièces de vente</p>
             </div>
             <div class="contenaireArrowText"><img class="flecheDetails" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow/orange.svg" alt="fleche">
                 <p class="element" >Enregistre tous les mouvements de vente et de gestion dans un journal électronique qui pourra être utilisé comme Pièce justificative lors de contrôle comptable
