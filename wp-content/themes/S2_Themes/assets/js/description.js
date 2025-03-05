@@ -1,33 +1,33 @@
 alert("Script chargé !");
 
 let description = document.querySelector('.description');
+const sections = document.querySelectorAll(".contentElement > div");
 let stickyElement = document.querySelector('.stickyElement');  // L'image à gauche
 let isScrolling = false;
-
-// Calculer la hauteur totale de la div description et la diviser par 6
-const descriptionHeight = description.offsetHeight;
-const segmentHeight = descriptionHeight / 6;
 
 // Fonction pour gérer l'événement de scroll
 const handleScroll = () => {
     if (!isScrolling) {
         window.requestAnimationFrame(() => {
             let scrollPosition = window.scrollY || window.pageYOffset;
-            console.log('scrollPosition', scrollPosition);
+            let windowHeight = window.innerHeight;
 
-            // Vérifier à quel segment on est dans la description
-            for (let i = 1; i <= 6; i++) {
-                let segmentStart = description.offsetTop + (i - 1) * segmentHeight;
-                let segmentEnd = description.offsetTop + i * segmentHeight;
+            sections.forEach((section, index) => {
+                let sectionTop = section.offsetTop;
+                let sectionHeight = section.offsetHeight;
 
-                // Si la position du scroll est dans ce segment
-                if (scrollPosition >= segmentStart && scrollPosition < segmentEnd) {
-                    console.log(`Dans le segment ${i}`);
-                    // Tu peux remplacer les `console.log` par des changements d'images ici
-                    // stickyElement.src = `path_to_image_segment_${i}.webp`;
-                    break;
+                // Calculer la position centrale de la section
+                let sectionCenter = sectionTop + sectionHeight / 2;
+
+                // Vérifier si la section est au centre de l'écran
+                if (scrollPosition + windowHeight / 2 >= sectionCenter - sectionHeight / 2 && 
+                    scrollPosition + windowHeight / 2 <= sectionCenter + sectionHeight / 2) {
+                    console.log(`Section ${index + 1} est centrée à l'écran`);
+                    
+                    // Remplacer le console.log par un changement d'image ici
+                    // stickyElement.src = `path_to_image_for_section_${index + 1}.webp`;
                 }
-            }
+            });
 
             isScrolling = false;
         });
