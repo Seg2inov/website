@@ -608,8 +608,8 @@
     </footer>
     <img class="backgroundImg"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\backgroudfooter.png" alt="fond">
 </div>
-<script src="\assets\js\swiper-bundle.min.js"></script>
 
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/assets/js/script.js"></script>
     
 </body>
 </html>
