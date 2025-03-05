@@ -116,19 +116,6 @@
     </div>
 </section>
 
-<script>
-    console.log('test')
-    const description = document.querySelector('.description');
-    const sections = document.querySelectorAll(".contentElement > div");
-    const image = document.querySelector(".stickyElement");
-
-    document.addEventListeneraddEventListener("scroll", (event) => {
-        console.log("scroll");
-        console.log(image)
-    });
-</script>
-
-
 <!-- ____________________________________________DescriptionCommerce__________________________________________________________________________ -->
 
 <section class="descriptionCommerceDetails">
@@ -609,7 +596,7 @@
     <img class="backgroundImg"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\backgroudfooter.png" alt="fond">
 </div>
 
-<script src="<?php echo get_stylesheet_directory_uri(); ?>/assets/js/script.js"></script>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>\assets\js\description.js"></script>
     
 </body>
 </html>
