@@ -117,6 +117,7 @@
 </section>
 
 <script>
+    console.log('test')
     const description = document.querySelector('.description');
     const sections = document.querySelectorAll(".contentElement > div");
     const image = document.querySelector(".stickyElement");
