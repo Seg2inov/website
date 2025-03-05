@@ -115,9 +115,6 @@
         </div>
     </div>
 </section>
-<script>
-    console.log('coucou')
-</script>
 <!-- ____________________________________________DescriptionCommerce__________________________________________________________________________ -->
 
 <section class="descriptionCommerceDetails">
