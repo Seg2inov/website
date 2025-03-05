@@ -25,7 +25,7 @@ const handleScroll = () => {
                     console.log(`Section ${index + 1} est centrée à l'écran`);
                     
                     // Remplacer le console.log par un changement d'image ici
-                    // stickyElement.src = `path_to_image_for_section_${index + 1}.webp`;
+                    stickyElement.src = `/assets/img/description/${index + 1}.svg`;
                 }
             });
 
