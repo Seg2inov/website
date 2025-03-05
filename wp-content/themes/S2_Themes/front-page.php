@@ -121,7 +121,7 @@
     const sections = document.querySelectorAll(".contentElement > div");
     const image = document.querySelector(".stickyElement");
 
-    description.addEventListeneraddEventListener("scroll", (event) => {
+    document.addEventListeneraddEventListener("scroll", (event) => {
         console.log("scroll");
         console.log(image)
     });
