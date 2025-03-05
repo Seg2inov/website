@@ -116,6 +116,17 @@
     </div>
 </section>
 
+<script>
+    const description = document.querySelector('.description');
+    const sections = document.querySelectorAll(".contentElement > div");
+    const image = document.querySelector(".stickyElement");
+
+    description.addEventListeneraddEventListener("scroll", (event) => {
+        console.log("scroll");
+        console.log(image)
+    });
+</script>
+
 
 <!-- ____________________________________________DescriptionCommerce__________________________________________________________________________ -->
 
