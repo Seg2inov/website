@@ -1,1 +1,1 @@
-console.log('coucou')
+alert("Script chargé !");
