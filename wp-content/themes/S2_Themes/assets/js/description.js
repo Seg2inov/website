@@ -5,6 +5,9 @@ const sections = document.querySelectorAll(".contentElement > div");
 let stickyElement = document.querySelector('.stickyElement');  // L'image à gauche
 let isScrolling = false;
 
+// Récupérer l'URL du dossier de votre thème (en PHP, si c'est dans un fichier .php)
+const themeUrl = '/wp-content/themes/S2_Themes';  // On définit manuellement le chemin vers le dossier de votre thème
+
 // Fonction pour gérer l'événement de scroll
 const handleScroll = () => {
     if (!isScrolling) {
@@ -24,8 +27,8 @@ const handleScroll = () => {
                     scrollPosition + windowHeight / 2 <= sectionCenter + sectionHeight / 2) {
                     console.log(`Section ${index + 1} est centrée à l'écran`);
                     
-                    // Remplacer le console.log par un changement d'image ici
-                    stickyElement.src = `../assets/img/description/_${index + 1}.svg`;
+                    // Utiliser le chemin correct vers l'image
+                    stickyElement.src = themeUrl + '/assets/img/description/_' + (index + 1) + '.svg';
                 }
             });
 
