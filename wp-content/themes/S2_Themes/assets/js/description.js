@@ -1,5 +1,3 @@
-alert("Script chargé !");
-
 let description = document.querySelector('.description');
 const sections = document.querySelectorAll(".contentElement > div");
 let stickyElement = document.querySelector('.stickyElement');  // L'image à gauche
