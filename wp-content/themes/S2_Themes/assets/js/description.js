@@ -27,7 +27,7 @@ const handleScroll = () => {
                     
                     
                     // Utiliser le chemin correct vers l'image
-                    stickyElement.src = themeUrl + '/assets/img/description/' + (index + 1) + '.svg';
+                    stickyElement.src = themeUrl + '/assets/img/description/_' + (index + 1) + '.svg';
                 }
             });
 
