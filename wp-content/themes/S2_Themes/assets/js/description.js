@@ -6,7 +6,7 @@ let isScrolling = false;
 
 // Récupérer l'URL du dossier de votre thème (en PHP, si c'est dans un fichier .php)
 const themeUrl = '/wp-content/themes/S2_Themes';  // On définit manuellement le chemin vers le dossier de votre thème
-console.log('stiky', stickyElement)
+
 // Fonction pour gérer l'événement de scroll
 const handleScroll = () => {
     if (!isScrolling) {
