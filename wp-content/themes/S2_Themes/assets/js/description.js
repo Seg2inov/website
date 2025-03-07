@@ -1,6 +1,7 @@
 let description = document.querySelector('.description');
 const sections = document.querySelectorAll(".contentElement > div");
 let stickyElement = document.querySelector('.stickyElement  img');  // L'image à gauche
+console.log('stiky', stickyElement)
 let isScrolling = false;
 
 // Récupérer l'URL du dossier de votre thème (en PHP, si c'est dans un fichier .php)
