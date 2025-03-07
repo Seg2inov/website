@@ -71,7 +71,11 @@
     <h2>UN LOGICIEL AVEC DE NOMBREUSES  FONCTIONNALITÉS</h2>
 
     <div class="scrollzone">
-        <img class="stickyElement" src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\description.webp" alt="illustration">
+        
+            <div class="stickyElement">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\imgdescription\1.png" alt="illustration">
+            </div>
+        
         <div class="contentElement">
             
             <div class="">

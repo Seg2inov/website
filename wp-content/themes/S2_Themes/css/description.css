@@ -27,17 +27,6 @@
     padding-top: 400px;
 }
 
-.stickyElement{
-    position: -webkit-sticky;
-    position: sticky;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 495px;
-    max-height: 575px;
-    height: 70vh;
-    object-fit: cover;
-    border-radius: 10px;
-}
 
 .contentElement{
     height: 100%;
@@ -49,6 +38,17 @@
     width: 100%;
 }
 
+.stickyElement{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 495px;
+    max-height: 575px;
+    height: 70vh;
+    object-fit: cover;
+    border-radius: 10px;
+}
 
 
 

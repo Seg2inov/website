@@ -1,6 +1,6 @@
 let description = document.querySelector('.description');
 const sections = document.querySelectorAll(".contentElement > div");
-let stickyElement = document.querySelector('.stickyElement');  // L'image à gauche
+let stickyElement = document.querySelector('.stickyElement  img');  // L'image à gauche
 let isScrolling = false;
 
 // Récupérer l'URL du dossier de votre thème (en PHP, si c'est dans un fichier .php)
@@ -26,7 +26,7 @@ const handleScroll = () => {
                     console.log(`Section ${index + 1} est centrée à l'écran`);
                     
                     // Utiliser le chemin correct vers l'image
-                    stickyElement.src = themeUrl + '/assets/img/description/_' + (index + 1) + '.svg';
+                    stickyElement.src = themeUrl + '/assets/img/description/' + (index + 1) + '.png';
                 }
             });
 
