@@ -48,6 +48,11 @@
     height: 70vh;
     object-fit: cover;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D3D6E8;
+    
 }
 
 .stickyElement img{
