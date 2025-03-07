@@ -27,12 +27,12 @@
         stroke-width: 8px;
       }
 
-      .cls-5 {
-        fill: #fff;
-      }
-
       .cls-4 {
         stroke: #fff;
+      }
+
+      .cls-5 {
+        fill: #f5f5f5;
       }
     </style>
     <linearGradient id="Dégradé_sans_nom_52" data-name="Dégradé sans nom 52" x1="391.45" y1="258.85" x2="391.45" y2="153.78" gradientUnits="userSpaceOnUse">
