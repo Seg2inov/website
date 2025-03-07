@@ -73,7 +73,7 @@
     <div class="scrollzone">
         
             <div class="stickyElement">
-                <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\imgdescription\1.png" alt="illustration">
+                <img src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\description\1.png" alt="illustration">
             </div>
         
         <div class="contentElement">
