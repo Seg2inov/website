@@ -1,0 +1,135 @@
+.description{
+    width: 100%;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.description h3{
+    margin-bottom: 12px;
+}
+
+.description h2{
+    text-align: center;
+
+}
+
+
+.scrollzone{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    height: 400vh;
+    padding-top: 400px;
+}
+
+
+.contentElement{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 53%;
+    padding-left: 58px;
+    width: 100%;
+}
+
+.stickyElement{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 495px;
+    max-height: 575px;
+    height: 70vh;
+    object-fit: cover;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D3D6E8;
+
+}
+
+.stickyElement img{
+    width: 150px;
+    height: 150px;
+}
+
+
+
+
+@media screen and (max-width: 960px) {
+    .stickyElement{
+        width: 38%;
+        max-width: 495px;
+        max-height: 575px;
+        
+    }
+
+}
+
+
+@media screen and (max-height: 670px) {
+    .stickyElement{
+        width: 40%;
+
+    
+
+    }
+
+}
+@media screen and (max-width: 590px) {
+    .contentElement{
+        padding-left: 12px;
+    }
+
+
+    .scrollzone{
+        padding-top: 57%;
+    }
+
+    
+}
+
+@media screen and (max-width: 500px) {
+
+    .description  {
+        gap: 178px;
+    }
+
+    .scrollzone{
+        flex-direction: column;
+        height: 400vh;
+    }
+
+    .contentElement{
+        justify-content: space-between;
+        gap: 12px;
+        padding-top: 48px;
+    }
+
+    .stickyElement {
+        width: 100%;
+        height: 30vh;
+        top: 70px;
+        transform: translateY(0);
+    }
+
+
+    .scrollzone {
+        padding-top: 0%;
+    }
+
+}
+
+@media screen and (max-height: 426px) and (max-width: 795px) {
+    .description h2 {
+        transform: translateY(0px);
+    }
+
+}
