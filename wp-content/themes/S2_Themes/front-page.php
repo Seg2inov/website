@@ -25,6 +25,7 @@
     <meta name="twitter:image" content="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\partout.png">
     <meta property="og:url" content="https://www.seg2inov.eu">
     <meta property="og:type" content="website">
+    <meta name="google-site-verification" content="fXQXRW0rRh7o8kiXpRmAOHHdvJRKHMjE_Qoq4uNnWsM" />
 
     <link rel="canonical" href="https://www.seg2inov.eu">
 
