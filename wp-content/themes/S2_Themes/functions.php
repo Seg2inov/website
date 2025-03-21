@@ -22,3 +22,20 @@ function enqueue_custom_scripts() {
     wp_enqueue_script('custom-script', get_stylesheet_directory_uri() . '/assets/js/description.js', array(), false, true);
 }
 add_action('wp_enqueue_scripts', 'enqueue_custom_scripts');
+add_action('wp_enqueue_scripts', '/css/blackButton.css');
+add_action('wp_enqueue_scripts', '/css/confiance.css');
+add_action('wp_enqueue_scripts', '/css/contact.css');
+add_action('wp_enqueue_scripts', '/css/cursor.css');
+add_action('wp_enqueue_scripts', '/css/description.css');
+add_action('wp_enqueue_scripts', '/css/descriptionCommerce.css');
+add_action('wp_enqueue_scripts', '/css/descriptionCommerceDetail.css');
+add_action('wp_enqueue_scripts', '/css/evenement.css');
+add_action('wp_enqueue_scripts', '/css/footer.css');
+add_action('wp_enqueue_scripts', '/css/header.css');
+add_action('wp_enqueue_scripts', '/css/hero.css');
+add_action('wp_enqueue_scripts', '/css/iaPart.css');
+add_action('wp_enqueue_scripts', '/css/mention.css');
+add_action('wp_enqueue_scripts', '/css/openSite.css');
+add_action('wp_enqueue_scripts', '/css/reset.css');
+add_action('wp_enqueue_scripts', '/css/swiper-bundle.min.css');
+add_action('wp_enqueue_scripts', '/css/vorPlusDetails.css');
