@@ -1,7 +1,7 @@
 .containerWhite{
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: start;
     padding-left: 8vw;
     padding-right: 8vw;
     padding-top: 48px;
@@ -9,6 +9,11 @@
     background-color: white;
     align-items: center;
     margin-top: 70px;
+    gap: 68px;
+}
+
+.descriptifAfnor{
+    max-width: 848px;
 }
 
 .part1{
