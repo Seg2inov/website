@@ -7,12 +7,15 @@
     padding-top: 48px;
     padding-bottom: 48px;
     background-color: white;
+    align-items: center;
+    margin-top: 70px;
 }
 
 .part1{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    gap: 48px;
 
 }
 
@@ -21,13 +24,14 @@
     display: flex;
     flex-direction: column;
     gap: 28px;
+    flex-wrap: wrap;
+    align-content: flex-start;
 }
 
 .displayRow{
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: start;
+    align-items: center;
     gap: 24px;
 }
 
