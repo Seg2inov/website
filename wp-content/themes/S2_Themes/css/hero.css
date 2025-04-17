@@ -6,7 +6,7 @@
     align-items: center;
     overflow-x: hidden;
     min-width: fit-content;
-    padding-top: 70px;
+    padding-top: 0px;
 }
 .titlep{
     display: flex;
@@ -30,7 +30,7 @@
 
 @media screen and (max-width: 921px) {
     .hero{
-        margin-top: 24px;
+        margin-top: 0px;
     }
 }
 
@@ -49,7 +49,7 @@
 
     .titlep{
         gap: 12px;
-        margin-top: 84px;
+        margin-top: 0px;
         width: 100%;
         height: fit-content;
     }
@@ -81,14 +81,14 @@
 
 @media screen and (max-height: 390px) {
     .hero{
-        margin-top: 134px;
+        margin-top: 0px;
     }
 }
 
 
 @media screen and (max-height: 435px) and (max-width: 800px) {
     .hero {
-        margin-top: 88px;
+        margin-top: 0px;
     }
 
 }
@@ -96,7 +96,7 @@
 
 @media screen and (max-height: 385px) and (max-width: 800px) {
     .hero{
-        margin-top: 94px;
+        margin-top: 0px;
     }
 
 }
