@@ -48,9 +48,11 @@
 <!-- _____________________________________________Certification Afnor__________________________________________________________________________ -->
 
 <div class="containerWhite">
+<img class="afnor"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\afnor.PNG" alt="AFNOR">
     <div class="part1">
         <h2>Certification AFNOR en cours  </h2>
         <div class="links">
+            <p>SEG2 INOV est inscrit dans un processus de certification NF525 et NF203 pour le logiciel S2CASH. Certification enregistrée sous le numéro : FR 37 978 843 951 Vous pouvez vérifier à tout instant la validité de cette preuve d’engagement en scanneant le QR-code ci-joint.</p>
         <div class="linkDownload displayRow">
             <div class="BackgroundDownload">
             <img class="downloadlogo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\download.svg" alt="Telecharger">
@@ -63,7 +65,7 @@
         </div>
         </div>
     </div>
-    <img class="afnor"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\afnor.PNG" alt="AFNOR">
+    
 </div>
 
 
