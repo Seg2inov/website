@@ -1,0 +1,67 @@
+.containerWhite{
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    background-color: white;
+}
+
+.part1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+
+.part1 .links{
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}
+
+.displayRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+    gap: 24px;
+}
+
+.BackgroundDownload{
+    width: 91px;
+    height: 91px;
+    background-color: #F5F5F7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.downloadlogo{
+    width: 50px;
+    height: 50px;
+}
+
+.qrcodelogo{
+    width: 91px;
+    height: 91px;
+}
+
+
+.afnor{
+    max-width: 219px;
+}
+
+
+
+@media screen and (max-width: 960px) {
+    .containerWhite{
+        flex-direction: column;
+        gap: 48px;
+    }
+
+
+}  

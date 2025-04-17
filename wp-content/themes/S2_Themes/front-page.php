@@ -45,7 +45,33 @@
     </header>
     <div class="blurDiv"></div>
 
-<!-- ____________________________________________Hero__________________________________________________________________________ -->
+<!-- _____________________________________________Certification Afnor__________________________________________________________________________ -->
+
+<div class="containerWhite">
+    <div class="part1">
+        <h2>Certification AFNOR en cours  </h2>
+        <div class="links">
+        <div class="linkDownload displayRow">
+            <div class="BackgroundDownload">
+            <img class="downloadlogo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\download.svg" alt="Telecharger">
+            </div>
+            <p>Télécharger le certificat </p>
+        </div>
+        <div class="QRcode displayRow">
+        <img class="qrcodelogo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\QRCode.png" alt="QRCode">
+            <p>Regarder le certificat </p>
+        </div>
+        </div>
+    </div>
+    <img class="afnor"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\afnor.PNG" alt="AFNOR">
+</div>
+
+
+
+
+
+
+<!-- _________________________________________________Hero____________________________________________________________________ -->
 
 
 

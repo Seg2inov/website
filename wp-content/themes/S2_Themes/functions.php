@@ -39,3 +39,4 @@ add_action('wp_enqueue_scripts', '/css/openSite.css');
 add_action('wp_enqueue_scripts', '/css/reset.css');
 add_action('wp_enqueue_scripts', '/css/swiper-bundle.min.css');
 add_action('wp_enqueue_scripts', '/css/vorPlusDetails.css');
+add_action('wp_enqueue_scripts', '/css/certification.css');
