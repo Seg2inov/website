@@ -59,7 +59,7 @@
         </div>
         <div class="QRcode displayRow">
         <img class="qrcodelogo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\QRCode.png" alt="QRCode">
-            <p>Vérification de validité du certificat </p>
+            <p>Vérification de la validité du certificat </p>
         </div>
         </div>
     </div>
