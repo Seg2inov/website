@@ -45,11 +45,10 @@
     flex-direction: row;
     gap: 28px;
     flex-wrap: wrap;
+    max-width: 848px
     align-content: flex-start;
-    gap: 24px;
+    justify-content: space-between;
 }
-
-
 
 .displayRow{
     display: flex;
