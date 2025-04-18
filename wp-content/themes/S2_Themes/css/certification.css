@@ -7,13 +7,25 @@
     padding-top: 48px;
     padding-bottom: 48px;
     background-color: white;
-    align-items: center;
+    align-items: start;
     margin-top: 70px;
     gap: 68px;
 }
 
 .descriptifAfnor{
     max-width: 848px;
+}
+
+.containerWhite a{
+    width: fit-content;
+    height: fit-content;
+    color: black;
+    border: 0px solid #EC5D27;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.containerWhite a:hover{
+    border: 1px solid #EC5D27;
 }
 
 .part1{
@@ -27,7 +39,7 @@
 
 .part1 .links{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     gap: 28px;
     flex-wrap: wrap;
     align-content: flex-start;

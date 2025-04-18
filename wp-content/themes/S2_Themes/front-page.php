@@ -47,26 +47,29 @@
 
 <!-- _____________________________________________Certification Afnor__________________________________________________________________________ -->
 
-<!-- <div class="containerWhite">
+<div class="containerWhite">
 <img class="afnor"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\afnor.PNG" alt="AFNOR">
     <div class="part1">
         <h2>Certification AFNOR en cours  </h2>
         <div class="links">
-            <p class="descriptifAfnor">SEG2 INOV est inscrit dans un processus de certification NF525 et NF203 pour le logiciel S2CASH. Certification enregistrée sous le numéro : FR 37 978 843 951 Vous pouvez vérifier à tout instant la validité de cette preuve d’engagement en scanneant le QR-code ci-joint.</p>
-        <div class="linkDownload displayRow">
-            <div class="BackgroundDownload">
-            <img class="downloadlogo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\download.svg" alt="Telecharger">
+            
+        <p class="descriptifAfnor"><span class="orange bold">SEG2 INOV</span>  est inscrit dans un processus de certification <span class="bold">NF525</span> et <span class="bold">NF203</span> pour le logiciel <span class="orangetext">S2CASH</span>. <br> Certification enregistrée sous le numéro : FR 37 978 843 951 <br> Vous pouvez vérifier à tout instant la validité de cette preuve d’engagement en scanneant le QR-code ci-joint.</p>
+            <div class="linkDownload displayRow">
+                <a href="<?php echo get_stylesheet_directory_uri(); ?>\assets\Preuves_engagement.pdf">
+                    <div class="BackgroundDownload">
+                        <img class="downloadlogo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\download.svg" alt="Telecharger">
+                    </div>
+                    <p>Télécharger le certificat </p>
+                </a>
             </div>
-            <p>Télécharger le certificat </p>
-        </div>
-        <div class="QRcode displayRow">
-        <img class="qrcodelogo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\QRCode.png" alt="QRCode">
-            <p>Vérification de la validité du certificat </p>
-        </div>
+            <div class="QRcode displayRow">
+                <img class="qrcodelogo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\QRCode.png" alt="QRCode">
+                <p>Vérification de la validité du certificat </p>
+            </div>
         </div>
     </div>
     
-</div> -->
+</div> 
 
 
 
