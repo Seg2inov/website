@@ -27,7 +27,7 @@
     gap: 24px;
 }
 
-.containerWhite a:hover, .BackgroundDownload {
+.containerWhite a:hover .BackgroundDownload {
     background-color: #efc0ae;
 }
 
