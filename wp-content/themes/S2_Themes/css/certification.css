@@ -46,8 +46,10 @@
     gap: 28px;
     flex-wrap: wrap;
     align-content: flex-start;
-    gap: 12px;
+    gap: 24px;
 }
+
+
 
 .displayRow{
     display: flex;
