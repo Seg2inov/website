@@ -21,11 +21,14 @@
     height: fit-content;
     color: black;
     border: 0px solid #EC5D27;
-    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    transition: 1s ease 0s;
+    display: flex;
+    align-items: center;
+    gap: 24px;
 }
 
-.containerWhite a:hover{
-    border: 1px solid #EC5D27;
+.containerWhite a:hover, .BackgroundDownload {
+    background-color: #efc0ae;
 }
 
 .part1{
@@ -43,6 +46,7 @@
     gap: 28px;
     flex-wrap: wrap;
     align-content: flex-start;
+    justify-content: space-between;
 }
 
 .displayRow{
@@ -60,6 +64,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 10px;
 }
 
 .downloadlogo{
