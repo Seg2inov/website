@@ -49,7 +49,7 @@
 
     .titlep{
         gap: 12px;
-        margin-top: 84px;
+        /* margin-top: 84px; */
         width: 100%;
         height: fit-content;
     }
