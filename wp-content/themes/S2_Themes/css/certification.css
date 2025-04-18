@@ -46,7 +46,7 @@
     gap: 28px;
     flex-wrap: wrap;
     align-content: flex-start;
-    justify-content: space-between;
+    gap: 12px;
 }
 
 .displayRow{
@@ -65,6 +65,7 @@
     justify-content: center;
     align-items: center;
     border-radius: 10px;
+    transition: 1s ease 0s;
 }
 
 .downloadlogo{
