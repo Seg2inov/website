@@ -45,7 +45,7 @@
     flex-direction: row;
     gap: 28px;
     flex-wrap: wrap;
-    max-width: 848px
+    max-width: 848px;
     align-content: flex-start;
     justify-content: space-between;
 }
