@@ -6,7 +6,7 @@
     align-items: center;
     overflow-x: hidden;
     min-width: fit-content;
-    padding-top: 70px;
+    /* padding-top: 70px; */
 }
 .titlep{
     display: flex;
@@ -27,12 +27,12 @@
 }
 
 
-
+/* 
 @media screen and (max-width: 921px) {
     .hero{
         margin-top: 24px;
     }
-}
+} */
 
 @media screen and (max-width: 800px) {
     .hero{
@@ -70,7 +70,7 @@
 
 
 
-@media screen and (max-height: 435px ) {
+/* @media screen and (max-height: 435px ) {
 
     .heroIllustration{
        
@@ -99,7 +99,7 @@
         margin-top: 94px;
     }
 
-}
+} */
 
 @media screen and (max-height: 426px) and (max-width: 795px) {
     .hero{
