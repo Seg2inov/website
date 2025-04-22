@@ -83,6 +83,12 @@
     max-width: 219px;
 }
 
+@media screen and (max-width: 960px) {
+    .displayRow{
+        max-width: 315px;
+    }
+}
+
 
 
 @media screen and (max-width: 960px) {
