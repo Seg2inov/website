@@ -50,10 +50,10 @@
 <div class="containerWhite">
 <img class="afnor"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\afnor.PNG" alt="AFNOR">
     <div class="part1">
-        <h2>Preuve de certification NF525  </h2>
+        <h2>Logiciel d'encaissement certifié NF525  </h2>
         <div class="links">
             
-        <p class="descriptifAfnor"><span class="orange bold">SEG2 INOV</span>  est officiellement conforme à la règlementation <span class="bold">NF525</span> pour le logiciel <span class="orange bold">S2CASH</span>. <br><br> Preuve d’engagement enregistrée sous le numéro : FR 37 978 843 951 <br> Vous pouvez vérifier à tout instant la validité de notre certification.</p>
+        <p class="descriptifAfnor"><span class="orange bold">SEG2 INOV</span>  est officiellement conforme à la règlementation <span class="bold">NF525</span> pour le logiciel <span class="orange bold">S2CASH</span>. <br> Vous pouvez vérifier à tout instant la validité de notre certification.</p>
             <div class="linkDownload displayRow">
                 <a href="<?php echo get_stylesheet_directory_uri(); ?>\assets\certificatNF525.pdf">
                     <div class="BackgroundDownload">
