@@ -48,28 +48,38 @@
 <!-- _____________________________________________Certification Afnor__________________________________________________________________________ -->
 
 <div class="containerWhite">
-<img class="afnor"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\logo\afnor.PNG" alt="AFNOR">
+    <img class="afnor" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/logo/afnor.png" alt="Logo AFNOR - Certification NF525">
     <div class="part1">
-        <h2>Logiciel d'encaissement certifié NF525  </h2>
+        <h2>Logiciel d'encaissement certifié NF525</h2>
         <div class="links">
-            
-        <p class="descriptifAfnor"><span class="orange bold">SEG2 INOV</span>  est conforme à la règlementation <span class="bold">NF525</span> pour le logiciel <span class="orange bold">S2CASH</span>. </p>
-            <p> <div class="linkDownload displayRow">
-                <a href="<?php echo get_stylesheet_directory_uri(); ?>\assets\certificatNF525.pdf">
+            <p class="descriptifAfnor">
+                <span class="orange bold">SEG2 INOV</span> est conforme à la règlementation 
+                <span class="bold">NF525</span> pour le logiciel 
+                <span class="orange bold">S2CASH</span>.
+            </p>
+            <br>
+            <div class="linkDownload displayRow">
+                <a href="<?php echo get_stylesheet_directory_uri(); ?>/assets/certificatNF525.pdf" 
+                   target="_blank" 
+                   rel="noopener noreferrer"
+                   title="Télécharger le certificat NF525 au format PDF">
                     <div class="BackgroundDownload">
-                        <img class="downloadlogo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\arrow\download.svg" alt="Telecharger">
+                        <img class="downloadlogo" 
+                             src="<?php echo get_stylesheet_directory_uri(); ?>/assets/arrow/download.svg" 
+                             alt="Icône de téléchargement">
                     </div>
-                    Télécharger notre certificat </p>
+                    <p>Télécharger notre certificat</p>
                 </a>
             </div>
             <div class="QRcode displayRow">
-                <img class="qrcodelogo"src="<?php echo get_stylesheet_directory_uri(); ?>\assets\img\qrcodecertification.png" alt="QRCode">
-                <p>Vérifier la validité du certificat </p>
+                <img class="qrcodelogo" 
+                     src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/qrcodecertification.png" 
+                     alt="QR Code pour vérifier la validité du certificat NF525">
+                <p>Vérifier la validité du certificat</p>
             </div>
         </div>
     </div>
-    
-</div> 
+</div>
 
 
 
