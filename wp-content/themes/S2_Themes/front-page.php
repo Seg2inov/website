@@ -53,7 +53,7 @@
         <h2>Logiciel d'encaissement certifié NF525  </h2>
         <div class="links">
             
-        <p class="descriptifAfnor"><span class="orange bold">SEG2 INOV</span>  est conforme à la règlementation <span class="bold">NF525</span> pour le logiciel <span class="orange bold">S2CASH</span>. </p>
+        <p> class="descriptifAfnor"><span class="orange bold">SEG2 INOV</span>  est conforme à la règlementation <span class="bold">NF525</span> pour le logiciel <span class="orange bold">S2CASH</span>. </p>
             <div class="linkDownload displayRow">
                 <a href="<?php echo get_stylesheet_directory_uri(); ?>\assets\certificatNF525.pdf">
                     <div class="BackgroundDownload">
